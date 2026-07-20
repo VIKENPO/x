@@ -1,0 +1,15 @@
+{
+  "name": "surebets-monorepo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "dev:backend": "npm run dev --workspace @x/backend",
+    "dev:frontend": "npm run dev --workspace @x/frontend",
+    "typecheck": "tsc --noEmit -p packages/core && tsc --noEmit -p packages/providers && tsc --noEmit -p packages/backend && tsc --noEmit -p packages/frontend"
+  }
+}

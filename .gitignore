@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+**/node_modules/
+
+# Secretos y entorno (NUNCA subir: contienen API keys)
+.env
+**/.env
+*.local
+
+# Builds
+dist/
+**/dist/
+build/
+**/build/
+
+# Logs y varios
+*.log
+.DS_Store
+.idea/
+**/.idea/
+.vscode/
