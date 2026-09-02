@@ -110,3 +110,54 @@ datos ni un backend con servidor propio.
 - ✅ Modelo transparente y heurístico, con disclaimer visible en la UI.
 - ❌ Scraping de webs financieras o de redes sociales.
 - ❌ Presentar el score como predicción certera o asesoramiento financiero.
+
+## Gráfico de precio en EUR (v2, 2026-09-02)
+
+Petición del usuario: ver el precio de cada ticker **en euros** (no dólares),
+con un gráfico alternable entre 1 día / 1 semana / 1 mes / 1 año / máximo.
+
+- **Histórico de precio**: [Twelve Data](https://twelvedata.com) (`TWELVEDATA_API_KEY`,
+  registro gratis, 800 créditos/día). Ni Finnhub ni ninguna fuente ya usada
+  da velas históricas gratis. Se piden 4 series por ticker y se recortan en
+  el propio pipeline para no duplicar llamadas:
+  - `5min` (100 velas) → rango **1D**.
+  - `1h` (60 velas) → rango **1W**.
+  - `1day` (260 velas) → se recorta a los últimos ~22 puntos para **1M** y
+    se usa entera para **1Y** (una sola llamada sirve para ambos rangos).
+  - `1month` (240 velas) → rango **MAX**.
+- **Tipo de cambio USD→EUR**: [Frankfurter](https://frankfurter.app) (datos
+  oficiales del BCE, sin clave, sin límite). Se pide una vez por ciclo y se
+  aplica a todas las velas antes de publicarlas (`buildChartData.ts`, pura y
+  testeada).
+- **Coste controlado (evitar el límite de Twelve Data)**: los rangos 1W/1M/1Y/MAX
+  apenas cambian dentro de un mismo día (una vela nueva como mucho), así que
+  solo se refrescan **una vez al día** (marcador en `data/charts/_meta.json`);
+  el rango 1D sí se refresca en cada ciclo (cada 30 min). Además, las
+  llamadas a Twelve Data se espacian 8s entre sí (límite gratuito: 8/min).
+  Con esto, el consumo diario se queda muy por debajo de las 800 llamadas/día
+  gratuitas incluso en el peor caso (día con refresco largo).
+- **Publicación**: un fichero por ticker, `data/charts/<SYMBOL>.json`
+  (`ChartData` en `@ss/core`), separado de `latest.json` para no inflar el
+  snapshot principal. Sin `TWELVEDATA_API_KEY`, el pipeline directamente omite
+  este paso (log y `return`, sin escribir ficheros vacíos innecesarios).
+
+## Rediseño de la UI (v2, 2026-09-02)
+
+Feedback directo del usuario tras ver la primera versión: la barra de
+probabilidad (degradado sin etiquetas), el "Confianza del modelo: 85%" fijo
+y la cifra de "pre-market" sin contexto resultaban confusos. Cambios:
+
+- La señal principal ahora es un bloque grande y coloreado: `▲ 76%` +
+  "probabilidad estimada de sesgo alcista en la apertura" — sin barra de
+  colores sin explicar.
+- **Se oculta** "Confianza del modelo" y la columna de **Reddit** del panel
+  principal (no aportaban nada mientras Reddit no esté aprobado y la
+  confianza fuera casi siempre igual); quedan en el modelo/datos por si se
+  quieren reactivar, solo no se muestran en la UI por ahora.
+- El desglose (pre-market, noticias) pasa a una sección **"Ver detalles"**
+  colapsable, con etiquetas explícitas ("Movimiento pre-mercado: +4.59% vs.
+  cierre anterior") en vez de números sueltos.
+- **Explícitamente descartado**: integrar Bloomberg.com (sin API gratuita
+  para uso personal) y convertir la señal en un mensaje tipo "compra ahora/a
+  las X" — eso es asesoramiento financiero personalizado, fuera del alcance
+  de esta herramienta (ver disclaimer).

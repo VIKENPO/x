@@ -15,6 +15,19 @@ body {
   padding: 16px 16px 48px;
 }
 
+.app-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.app-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
 .app-header h1 {
   margin: 0;
   font-size: 1.6rem;
@@ -22,7 +35,25 @@ body {
 
 .subtitle {
   color: #94a3b8;
-  margin: 4px 0 16px;
+  margin: 2px 0 0;
+}
+
+.disclaimer-compact {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  color: #94a3b8;
+  font-size: 0.75rem;
+  padding: 6px 10px;
+  margin: 14px 0 0;
+  cursor: pointer;
+}
+
+.disclaimer-compact:hover {
+  color: #e2e8f0;
 }
 
 .disclaimer {
@@ -32,13 +63,13 @@ body {
   padding: 12px 14px;
   font-size: 0.85rem;
   color: #cbd5e1;
-  margin-bottom: 16px;
+  margin: 6px 0 0;
 }
 
 .meta {
   font-size: 0.85rem;
   color: #94a3b8;
-  margin-bottom: 20px;
+  margin: 14px 0 20px;
 }
 
 .error {
@@ -47,7 +78,7 @@ body {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 14px;
 }
 
@@ -60,13 +91,38 @@ body {
 
 .card-header {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
+  gap: 10px;
 }
 
 .card-header h2 {
   margin: 0;
-  font-size: 1.15rem;
+  font-size: 1.3rem;
+  letter-spacing: 0.02em;
+}
+
+.logo,
+.logo-fallback {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.logo {
+  object-fit: contain;
+  background: #ffffff;
+  padding: 3px;
+}
+
+.logo-fallback {
+  background: #334155;
+  color: #cbd5e1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.9rem;
 }
 
 .name {
@@ -75,56 +131,101 @@ body {
   color: #94a3b8;
 }
 
-.bias-pill {
-  font-size: 0.72rem;
-  font-weight: 600;
-  padding: 3px 8px;
-  border-radius: 999px;
-  white-space: nowrap;
+.signal {
+  margin-top: 12px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border-left: 4px solid;
 }
 
-.bias-up { background: #14532d; color: #86efac; }
-.bias-down { background: #7f1d1d; color: #fca5a5; }
-.bias-flat { background: #334155; color: #cbd5e1; }
+.signal-value {
+  display: block;
+  font-size: 1.9rem;
+  font-weight: 800;
+  line-height: 1.1;
+}
 
-.prob-row {
-  display: flex;
-  align-items: center;
-  gap: 10px;
+.signal-label {
+  display: block;
+  font-size: 0.78rem;
+  margin-top: 2px;
+  opacity: 0.85;
+}
+
+.signal.bias-up { background: #14532d33; border-color: #4ade80; color: #86efac; }
+.signal.bias-down { background: #7f1d1d33; border-color: #f87171; color: #fca5a5; }
+.signal.bias-flat { background: #33415533; border-color: #94a3b8; color: #cbd5e1; }
+
+.chart-block {
   margin-top: 14px;
 }
 
-.prob-bar-track {
-  flex: 1;
-  height: 8px;
-  background: #334155;
-  border-radius: 999px;
-  overflow: hidden;
+.chart-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
 }
 
-.prob-bar-fill {
-  height: 100%;
-  background: linear-gradient(90deg, #f87171, #facc15, #4ade80);
-}
-
-.prob-value {
+.chart-price {
   font-weight: 700;
-  font-size: 0.95rem;
-  min-width: 42px;
-  text-align: right;
+  font-size: 1rem;
 }
 
-.confidence {
-  margin: 6px 0 0;
-  font-size: 0.75rem;
+.chart-ranges {
+  display: flex;
+  gap: 4px;
+}
+
+.chart-range {
+  background: transparent;
+  border: 1px solid #334155;
   color: #94a3b8;
+  border-radius: 6px;
+  padding: 2px 8px;
+  font-size: 0.72rem;
+  cursor: pointer;
+}
+
+.chart-range.active {
+  background: #334155;
+  color: #e2e8f0;
+  border-color: #475569;
+}
+
+.chart-canvas {
+  width: 100%;
+  height: 160px;
+}
+
+.chart-empty {
+  text-align: center;
+  font-size: 0.75rem;
+  color: #64748b;
+  margin: 4px 0 0;
+}
+
+.details-toggle {
+  width: 100%;
+  margin-top: 12px;
+  background: transparent;
+  border: none;
+  color: #94a3b8;
+  font-size: 0.75rem;
+  cursor: pointer;
+  padding: 6px 0 0;
+  text-align: left;
+}
+
+.details-toggle:hover {
+  color: #e2e8f0;
 }
 
 .breakdown {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 8px;
-  margin: 14px 0 0;
+  margin: 10px 0 0;
 }
 
 .breakdown dt {

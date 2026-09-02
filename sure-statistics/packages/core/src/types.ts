@@ -63,3 +63,20 @@ export interface Snapshot {
   nextMarketOpenMadrid: string;
   scores: TickerScore[];
 }
+
+/** Un punto del gráfico de precio, ya convertido a EUR. */
+export interface PriceBar {
+  time: string; // ISO
+  close: number; // en EUR
+}
+
+export type ChartRange = "1D" | "1W" | "1M" | "1Y" | "MAX";
+
+/** Serie de precio (en EUR) de un ticker, publicada en data/charts/<SYMBOL>.json. */
+export interface ChartData {
+  symbol: string;
+  /** Tipo de cambio USD->EUR usado para convertir esta serie. */
+  eurRate: number;
+  updatedAt: string; // ISO
+  series: Record<ChartRange, PriceBar[]>;
+}

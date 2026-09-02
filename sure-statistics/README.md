@@ -1,9 +1,11 @@
 # SURE Statistics — probabilidad de sesgo de apertura en bolsa
 
-PWA que estima, para un puñado de grandes tecnológicas de EE. UU. (Meta,
-Amazon, Apple, Alphabet, Microsoft, NVIDIA, Tesla), la **probabilidad de que
-el mercado abra/siga con sesgo alcista o bajista**, combinando el movimiento
-**pre-market**, el mercado amplio (S&P 500), noticias y menciones en Reddit.
+PWA (en producción: **https://sure-statistics.vercel.app**) que estima, para
+un puñado de grandes tecnológicas de EE. UU. (Meta, Amazon, Apple, Alphabet,
+Microsoft, NVIDIA, Tesla), la **probabilidad de que el mercado abra/siga con
+sesgo alcista o bajista**, combinando el movimiento **pre-market**, el
+mercado amplio (S&P 500), noticias y menciones en Reddit — más un **gráfico
+de precio en euros** con rangos 1D/1W/1M/1Y/Máx.
 
 > ⚠️ **Aviso**: esto es un modelo **heurístico** (media ponderada de señales),
 > no un modelo entrenado ni una predicción validada estadísticamente. Es
@@ -52,7 +54,12 @@ No hay base de datos ni servidor de pago: el propio JSON commiteado al repo
   proxy de "cómo va el mercado en general".
 - **Reddit**: API OAuth2 oficial (app tipo "script", gratis en
   reddit.com/prefs/apps), búsqueda de menciones del ticker en r/stocks,
-  r/wallstreetbets y r/investing.
+  r/wallstreetbets y r/investing. *(Actualmente sin mostrar en la UI hasta
+  que Reddit apruebe el acceso — ver roadmap.)*
+- **Histórico de precio (gráfico)**: [Twelve Data](https://twelvedata.com)
+  (tier gratuito, `TWELVEDATA_API_KEY`).
+- **Tipo de cambio USD→EUR**: [Frankfurter](https://frankfurter.app) (datos
+  del BCE, sin clave, sin registro) — todos los precios se muestran en euros.
 - Sin ninguna de las claves, esa fuente simplemente se omite (el resto de
   señales sigue funcionando) — mismo criterio BYOK/degradación elegante que
   `surebets`.
@@ -79,35 +86,38 @@ npm run pipeline          # genera packages/frontend/public/data/latest.json
 npm run dev:frontend      # -> http://localhost:5174
 ```
 
-## Despliegue gratuito
+## Despliegue gratuito (ya en marcha)
 
 1. **Datos**: el workflow `.github/workflows/sure-statistics-pipeline.yml`
    corre cada 30 min (L-V, ventana de pre-mercado/apertura) en GitHub Actions
    (gratis dentro de las 2000 min/mes del plan Free), ejecuta el pipeline y
-   commitea `packages/frontend/public/data/`. Añade `FINNHUB_API_KEY`,
-   `REDDIT_CLIENT_ID` y `REDDIT_CLIENT_SECRET` como **Secrets** del repo para
-   que use datos reales (si no, corre igualmente mostrando "sin dato").
-2. **PWA**: conecta el repo a [Vercel](https://vercel.com) (plan Hobby,
-   gratuito, admite repos privados) o [Cloudflare Pages](https://pages.cloudflare.com),
-   con *root directory* `sure-statistics/packages/frontend`, build command
-   `npm run build` y output `dist`. Cada commit del bot de datos dispara un
-   redeploy automático y gratuito.
-   - GitHub Pages **no** vale aquí directamente porque el repo es privado (Pages
-     público desde repo privado requiere GitHub Pro); Vercel/Cloudflare sí
-     despliegan gratis desde un repo privado.
-3. Desde el móvil, abre la URL desplegada y usa "Añadir a pantalla de inicio"
-   (Android: menú del navegador; iOS Safari: compartir → Añadir a inicio).
+   commitea `packages/frontend/public/data/`. Secrets configurados:
+   `FINNHUB_API_KEY` ✅, `TWELVEDATA_API_KEY` (pendiente), `REDDIT_CLIENT_ID`
+   / `REDDIT_CLIENT_SECRET` (pendiente aprobación de Reddit). Sin una clave,
+   esa fuente se omite y el resto sigue funcionando.
+2. **PWA**: desplegada en [Vercel](https://vercel.com) (plan Hobby, gratis,
+   admite repos privados) — **https://sure-statistics.vercel.app**. La config
+   vive en `vercel.json` (raíz del repo `x`, porque el proyecto de Vercel
+   está conectado a todo el monorepo): instala y construye dentro de
+   `sure-statistics/`, sirve `packages/frontend/dist`. Cada commit a `main`
+   redespliega solo.
+   - GitHub Pages **no** valdría aquí directamente porque el repo es público
+     temporalmente por Reddit pero nació privado; Vercel despliega gratis
+     desde repos privados o públicos por igual.
+3. Desde el móvil, abre la URL y usa "Añadir a pantalla de inicio" (Android:
+   menú del navegador; iOS Safari: compartir → Añadir a inicio).
 
 ## Roadmap
 
 1. ✅ Modelo de score heurístico (`@ss/core`) con tests.
-2. ✅ Providers gratuitos (Finnhub, Reddit) con degradación sin claves.
-3. ✅ Pipeline programado (GitHub Actions) que escribe el snapshot + histórico.
-4. ✅ PWA instalable con el desglose por ticker.
-5. ⬜ Iconos PNG reales (192/512) para un icono nítido en iOS — de momento
+2. ✅ Providers gratuitos (Finnhub, Reddit, Twelve Data, Frankfurter) con
+   degradación sin claves.
+3. ✅ Pipeline programado (GitHub Actions) que escribe el snapshot + gráficos.
+4. ✅ PWA instalable, desplegada, con gráfico de precio en EUR (1D/1W/1M/1Y/Máx).
+5. ⬜ Reactivar la columna de Reddit en la UI cuando aprueben el acceso.
+6. ⬜ Iconos PNG reales (192/512) para un icono nítido en iOS — de momento
    se usa un SVG placeholder.
-6. ⬜ Añadir QQQ (Nasdaq 100) como segunda señal de mercado amplio.
-7. ⬜ Tener en cuenta festivos de mercado en `nextMarketOpenUtc` (hoy solo
+7. ⬜ Añadir QQQ (Nasdaq 100) como segunda señal de mercado amplio.
+8. ⬜ Tener en cuenta festivos de mercado en `nextMarketOpenUtc` (hoy solo
    descarta fines de semana).
-8. ⬜ Gráfico de evolución intradía usando el histórico ya guardado en
-   `data/history/`.
+9. ⬜ Volver a poner el repo en privado tras la aprobación de Reddit.

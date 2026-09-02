@@ -1,9 +1,13 @@
 import { computeTickerScore, type QuoteSignal, type Snapshot, type Ticker } from "@ss/core";
-import { fetchCompanyHeadlines, fetchQuote, fetchTickerMentions } from "@ss/providers";
+import { fetchCompanyHeadlines, fetchQuote, fetchTickerMentions, fetchUsdToEurRate } from "@ss/providers";
 import { MARKET_PROXY_SYMBOL, TICKERS } from "./tickers.js";
 import { buildSentimentSignal } from "./sentimentSignal.js";
 import { nextMarketOpenUtc } from "./nextMarketOpen.js";
 import { writeSnapshot } from "./writeSnapshot.js";
+import { runChartsPipeline } from "./chartsPipeline.js";
+
+/** Tasa de respaldo si Frankfurter falla ese ciclo (aprox., se corrige solo al siguiente ciclo). */
+const FALLBACK_USD_EUR_RATE = 0.9;
 
 /** Envuelve una promesa de señal opcional: un fallo en UNA fuente no debe tirar todo el pipeline. */
 async function safe<T>(label: string, fn: () => Promise<T>, fallback: T): Promise<T> {
@@ -45,6 +49,10 @@ async function main() {
 
   await writeSnapshot(snapshot);
   console.log(`[pipeline] snapshot escrito con ${scores.length} tickers (${snapshot.generatedAt}).`);
+
+  const eurRate = await safe("tasa USD/EUR", () => fetchUsdToEurRate(), FALLBACK_USD_EUR_RATE) ?? FALLBACK_USD_EUR_RATE;
+  await runChartsPipeline(TICKERS, eurRate);
+  console.log(`[pipeline] gráficos actualizados (tasa USD/EUR: ${eurRate}).`);
 }
 
 main().catch((err) => {

@@ -1,5 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="96" fill="#0f172a"/>
-  <path d="M96 352 L192 256 L256 320 L416 160" stroke="#22c55e" stroke-width="28" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M336 160 L416 160 L416 240" stroke="#22c55e" stroke-width="28" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="trend" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#4ade80"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#bg)"/>
+  <path d="M104 372 L104 300 Q104 280 124 280 L124 372 Z" fill="#334155"/>
+  <path d="M204 372 L204 244 Q204 224 224 224 L224 372 Z" fill="#475569"/>
+  <path d="M304 372 L304 188 Q304 168 324 168 L324 372 Z" fill="#64748b"/>
+  <path d="M92 296 L188 208 L268 268 L420 120"
+        stroke="url(#trend)" stroke-width="26" fill="none"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M344 120 L420 120 L420 196" stroke="url(#trend)" stroke-width="26"
+        fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="420" cy="120" r="16" fill="#4ade80"/>
 </svg>
