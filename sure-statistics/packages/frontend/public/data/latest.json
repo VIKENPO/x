@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T16:13:20.956Z",
+  "generatedAt": "2026-09-02T17:23:16.434Z",
   "nextMarketOpenMadrid": "2026-09-03T13:30:00.000Z",
   "scores": [
     {
@@ -10,19 +10,19 @@
       "breakdown": {
         "quote": {
           "symbol": "META",
-          "price": 593.2,
+          "price": 593.21,
           "previousClose": 578.54,
-          "changeRatio": 0.025339648079648915,
+          "changeRatio": 0.025356932969198453,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:53.000Z"
+          "asOf": "2026-09-02T17:23:00.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 765.7,
+          "price": 764.66,
           "previousClose": 761.78,
-          "changeRatio": 0.005145842631731042,
+          "changeRatio": 0.0037806190763737505,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:53.000Z"
+          "asOf": "2026-09-02T17:22:57.000Z"
         },
         "news": {
           "source": "news",
@@ -100,7 +100,7 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T16:13:20.574Z"
+      "computedAt": "2026-09-02T17:23:16.089Z"
     },
     {
       "symbol": "AMZN",
@@ -110,19 +110,19 @@
       "breakdown": {
         "quote": {
           "symbol": "AMZN",
-          "price": 254.87,
+          "price": 254.81,
           "previousClose": 254.92,
-          "changeRatio": -0.0001961399654792992,
+          "changeRatio": -0.0004315079240545474,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:55.000Z"
+          "asOf": "2026-09-02T17:22:57.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 765.7,
+          "price": 764.66,
           "previousClose": 761.78,
-          "changeRatio": 0.005145842631731042,
+          "changeRatio": 0.0037806190763737505,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:53.000Z"
+          "asOf": "2026-09-02T17:22:57.000Z"
         },
         "news": {
           "source": "news",
@@ -130,6 +130,10 @@
           "averageSentiment": 0.05333333333333334,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Which dow jones stocks are moving on Wednesday?",
+              "sentiment": 0
+            },
             {
               "text": "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
               "sentiment": -0.6
@@ -185,10 +189,6 @@
             {
               "text": "2 Reasons Uber Is Slashing 3,300 Jobs",
               "sentiment": 0
-            },
-            {
-              "text": "Is Lifetime Brands (LCUT) Stock Outpacing Its Consumer Discretionary Peers This Year?",
-              "sentiment": 0
             }
           ]
         },
@@ -200,29 +200,29 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T16:13:20.575Z"
+      "computedAt": "2026-09-02T17:23:16.383Z"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "bullishProbability": 55,
+      "bullishProbability": 54,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "AAPL",
-          "price": 325.78,
+          "price": 325.67,
           "previousClose": 325.13,
-          "changeRatio": 0.0019992003198719814,
+          "changeRatio": 0.001660874111893767,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:54.000Z"
+          "asOf": "2026-09-02T17:23:01.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 765.7,
+          "price": 764.66,
           "previousClose": 761.78,
-          "changeRatio": 0.005145842631731042,
+          "changeRatio": 0.0037806190763737505,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:53.000Z"
+          "asOf": "2026-09-02T17:22:57.000Z"
         },
         "news": {
           "source": "news",
@@ -230,6 +230,10 @@
           "averageSentiment": 0.11999999999999998,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Which dow jones stocks are moving on Wednesday?",
+              "sentiment": 0
+            },
             {
               "text": "Stock Market Today: Dow Rises On Surprise Jobs Data; AI Name Credo Dives On Earnings Report (Live Coverage)",
               "sentiment": 0.4
@@ -285,10 +289,6 @@
             {
               "text": "Mobile ECG Devices Market Outlook 2025-2035 Featuring Profiles AliveCor, Apple and iRhythm Technologies - Industry Forecast to Reach $9.03 Billion by 2035 as Remote Cardiac Monitoring Adoption Accelerates",
               "sentiment": 0
-            },
-            {
-              "text": "Apple Begins the John Ternus Era — Can Gadgets Still Save Apple in the AI Age?",
-              "sentiment": 0
             }
           ]
         },
@@ -300,29 +300,29 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T16:13:20.956Z"
+      "computedAt": "2026-09-02T17:23:16.086Z"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "bullishProbability": 61,
+      "bullishProbability": 60,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "GOOGL",
-          "price": 338.36,
+          "price": 338.22,
           "previousClose": 335.02,
-          "changeRatio": 0.009969554056474336,
+          "changeRatio": 0.009551668557101205,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:54.000Z"
+          "asOf": "2026-09-02T17:23:00.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 765.7,
+          "price": 764.66,
           "previousClose": 761.78,
-          "changeRatio": 0.005145842631731042,
+          "changeRatio": 0.0037806190763737505,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:53.000Z"
+          "asOf": "2026-09-02T17:22:57.000Z"
         },
         "news": {
           "source": "news",
@@ -400,29 +400,29 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T16:13:20.883Z"
+      "computedAt": "2026-09-02T17:23:16.434Z"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "bullishProbability": 44,
+      "bullishProbability": 46,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "MSFT",
-          "price": 494.68,
+          "price": 496.21,
           "previousClose": 501.02,
-          "changeRatio": -0.012654185461658168,
+          "changeRatio": -0.009600415153087707,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:55.000Z"
+          "asOf": "2026-09-02T17:23:01.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 765.7,
+          "price": 764.66,
           "previousClose": 761.78,
-          "changeRatio": 0.005145842631731042,
+          "changeRatio": 0.0037806190763737505,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:53.000Z"
+          "asOf": "2026-09-02T17:22:57.000Z"
         },
         "news": {
           "source": "news",
@@ -430,6 +430,10 @@
           "averageSentiment": 0.22666666666666668,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Which dow jones stocks are moving on Wednesday?",
+              "sentiment": 0
+            },
             {
               "text": "The Future of Website Building with Wix.com (WIX)",
               "sentiment": 0
@@ -485,10 +489,6 @@
             {
               "text": "Compared to Estimates, Gitlab (GTLB) Q2 Earnings: A Look at Key Metrics",
               "sentiment": 0
-            },
-            {
-              "text": "Euromonitor Introduces Passport Intelligence Through Microsoft 365 Copilot",
-              "sentiment": 0
             }
           ]
         },
@@ -500,7 +500,7 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T16:13:20.556Z"
+      "computedAt": "2026-09-02T17:23:16.353Z"
     },
     {
       "symbol": "NVDA",
@@ -510,26 +510,34 @@
       "breakdown": {
         "quote": {
           "symbol": "NVDA",
-          "price": 227.41,
+          "price": 224.97,
           "previousClose": 217.44,
-          "changeRatio": 0.04585172921265636,
+          "changeRatio": 0.03463024282560707,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:55.000Z"
+          "asOf": "2026-09-02T17:23:01.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 765.7,
+          "price": 764.66,
           "previousClose": 761.78,
-          "changeRatio": 0.005145842631731042,
+          "changeRatio": 0.0037806190763737505,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:53.000Z"
+          "asOf": "2026-09-02T17:22:57.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "NVDA",
-          "averageSentiment": 0.06666666666666667,
+          "averageSentiment": 0.04,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Which dow jones stocks are moving on Wednesday?",
+              "sentiment": 0
+            },
+            {
+              "text": "Stay informed with the top movers within the S&P500 index on Wednesday.",
+              "sentiment": 0
+            },
             {
               "text": "Is Interactive Brokers Quietly Becoming an AI Stock?",
               "sentiment": 0
@@ -581,14 +589,6 @@
             {
               "text": "Dell's revenue guidance exceeded Wall Street forecasts and then some",
               "sentiment": 0.6
-            },
-            {
-              "text": "Hexaware Appoints Vivek Jetley as CEO Designate to Lead its Next Phase of AI-Led Growth",
-              "sentiment": 0.4
-            },
-            {
-              "text": "What Jensen Huang thinks is the worst outcome of the next industrial revolution",
-              "sentiment": 0
             }
           ]
         },
@@ -600,29 +600,29 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T16:13:20.936Z"
+      "computedAt": "2026-09-02T17:23:16.364Z"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "bullishProbability": 45,
+      "bullishProbability": 43,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "TSLA",
-          "price": 353.98,
+          "price": 353.07,
           "previousClose": 356.09,
-          "changeRatio": -0.005925468280490767,
+          "changeRatio": -0.008481001993877902,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:55.000Z"
+          "asOf": "2026-09-02T17:23:01.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 765.7,
+          "price": 764.66,
           "previousClose": 761.78,
-          "changeRatio": 0.005145842631731042,
+          "changeRatio": 0.0037806190763737505,
           "source": "finnhub",
-          "asOf": "2026-09-02T16:12:53.000Z"
+          "asOf": "2026-09-02T17:22:57.000Z"
         },
         "news": {
           "source": "news",
@@ -700,7 +700,7 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T16:13:20.873Z"
+      "computedAt": "2026-09-02T17:23:16.334Z"
     }
   ]
 }
