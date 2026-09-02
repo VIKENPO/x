@@ -110,6 +110,31 @@ datos ni un backend con servidor propio.
 - ✅ Modelo transparente y heurístico, con disclaimer visible en la UI.
 - ❌ Scraping de webs financieras o de redes sociales.
 - ❌ Presentar el score como predicción certera o asesoramiento financiero.
+- ❌ **Bloomberg.com**: se pidió explícitamente (registrarse/logearse y leer su
+  contenido). Descartado por tres motivos: (1) va contra sus Términos de
+  Servicio (persiguen esto legalmente), (2) rompe el principio "no scraping,
+  solo APIs con licencia" ya fijado en este mismo documento, (3) el asistente
+  no crea cuentas ni inicia sesión en servicios de terceros en nombre del
+  usuario, sin excepción.
+
+## Sentimiento de noticias por IA (v3, 2026-09-02, opcional y de pago)
+
+El diccionario léxico (`@ss/core/sentiment.ts`) se pierde matices ("beats
+estimates but cuts guidance" es mixto, no solo "positivo" por "beats"). Para
+capturarlos, `@ss/providers/claudeSentiment.ts` manda los titulares ya
+recogidos de Finnhub (fuente lícita, no cambia) a la API de Claude (modelo
+Haiku, el más barato) y le pide un score `[-1,1]` + un motivo en una frase.
+
+- **No es gratis** (única excepción en todo el proyecto): cada llamada tiene
+  un coste pequeño. Por eso es **opcional** — sin `ANTHROPIC_API_KEY`, el
+  pipeline sigue con el diccionario léxico gratuito, sin cambio de
+  comportamiento (mismo patrón de degradación elegante que el resto).
+- Solo sustituye la **media de sentimiento** (`averageSentiment`) usada por
+  el modelo de score; el desglose por titular (`items`) se sigue calculando
+  con el diccionario (gratis) para no gastar una llamada extra solo para
+  mostrarlo en el detalle de la UI.
+- El motivo (`aiSummary`) se muestra en la sección "Ver de dónde sale este
+  número" de cada ticker, para que la señal no sea una caja negra.
 
 ## Gráfico de precio en EUR (v2, 2026-09-02)
 
@@ -161,3 +186,22 @@ y la cifra de "pre-market" sin contexto resultaban confusos. Cambios:
   para uso personal) y convertir la señal en un mensaje tipo "compra ahora/a
   las X" — eso es asesoramiento financiero personalizado, fuera del alcance
   de esta herramienta (ver disclaimer).
+
+## Barra horaria de Trade Republic (v3, 2026-09-02)
+
+El usuario opera con Trade Republic, no directamente en NYSE, y pidió una
+barra visual siempre presente (sticky) para ver de un vistazo en qué
+momento del día está. `TradingClock.tsx` usa el horario real de Trade
+Republic (LS Exchange), no solo el de NYSE:
+
+- **07:30–23:00 hora de Madrid, L-V**: ventana de Trade Republic para
+  acciones/ETFs ([soporte oficial](https://support.traderepublic.com/es-es/576)).
+- Dentro de esa ventana, tres tramos coloreados: **pre-mercado** (07:30-15:30,
+  ámbar), **mercado NYSE abierto** (15:30-22:00, verde) y **post-mercado**
+  (22:00-23:00, azul) — con un marcador dorado justo en el instante de
+  apertura (15:30) y un punto que se mueve en tiempo real marcando "ahora".
+- Fuera de esa ventana (noche o fin de semana): estado "cerrado".
+- Limitación conocida (igual que `nextMarketOpenUtc`): no descarta festivos,
+  solo fines de semana.
+- Fecha/hora vía `Intl` con `timeZone: "Europe/Madrid"` — sin librerías de
+  zonas horarias, mismo enfoque que el resto del proyecto.

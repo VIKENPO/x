@@ -12,10 +12,120 @@ body {
 .app {
   max-width: 960px;
   margin: 0 auto;
-  padding: 16px 16px 48px;
+  padding: 0 16px 48px;
+}
+
+.trading-clock {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: #0f172a;
+  padding: 12px 0 8px;
+  margin: 0 -16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-bottom: 1px solid #1e293b;
+}
+
+.trading-clock-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-size: 0.78rem;
+  margin-bottom: 6px;
+}
+
+.trading-clock-phase {
+  font-weight: 700;
+}
+
+.phase-closed { color: #94a3b8; }
+.phase-pre { color: #fbbf24; }
+.phase-open { color: #4ade80; }
+.phase-post { color: #60a5fa; }
+
+.trading-clock-time {
+  color: #94a3b8;
+}
+
+.trading-clock-track {
+  position: relative;
+  height: 10px;
+  border-radius: 999px;
+  overflow: visible;
+  display: flex;
+  background: #1e293b;
+}
+
+.tc-segment {
+  height: 100%;
+}
+
+.tc-segment:first-child { border-radius: 999px 0 0 999px; }
+.tc-segment:last-child { border-radius: 0 999px 999px 0; }
+
+.tc-pre { background: #78350f; }
+.tc-open { background: #14532d; }
+.tc-post { background: #1e3a5f; }
+
+.tc-open-marker {
+  position: absolute;
+  top: -3px;
+  width: 3px;
+  height: 16px;
+  border-radius: 2px;
+  background: #fbbf24;
+  transform: translateX(-50%);
+}
+
+.tc-now {
+  position: absolute;
+  top: -4px;
+  width: 4px;
+  height: 18px;
+  border-radius: 2px;
+  background: #f8fafc;
+  box-shadow: 0 0 6px rgba(248, 250, 252, 0.7);
+  transform: translateX(-50%);
+}
+
+.trading-clock-open-label {
+  position: relative;
+  transform: translateX(-50%);
+  font-size: 0.62rem;
+  font-weight: 600;
+  color: #fbbf24;
+  white-space: nowrap;
+  margin-top: 4px;
+  width: fit-content;
+  max-width: 90%;
+}
+
+.trading-clock-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  margin-top: 8px;
+}
+
+.tc-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.66rem;
+  color: #94a3b8;
+  white-space: nowrap;
+}
+
+.tc-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
 }
 
 .app-header {
+  margin-top: 14px;
   display: flex;
   align-items: center;
   gap: 12px;
@@ -237,4 +347,11 @@ body {
 .breakdown dd {
   margin: 2px 0 0;
   font-size: 0.85rem;
+}
+
+.ai-summary {
+  margin: 4px 0 0;
+  font-size: 0.78rem;
+  font-style: italic;
+  color: #94a3b8;
 }

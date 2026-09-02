@@ -45,7 +45,7 @@ No hay base de datos ni servidor de pago: el propio JSON commiteado al repo
 | `@ss/pipeline`     | Script que orquesta providers + core y escribe `data/latest.json`.   |
 | `@ss/frontend`     | PWA (React + Vite + `vite-plugin-pwa`), instalable en el móvil.       |
 
-### Fuentes de datos (todas gratuitas, todas oficiales — sin scraping)
+### Fuentes de datos (sin scraping — todas oficiales; una es de pago, ver abajo)
 
 - **Cotizaciones y noticias**: [Finnhub](https://finnhub.io) (tier gratuito:
   cotización en tiempo real + noticias por empresa). `FINNHUB_API_KEY` gratis
@@ -60,9 +60,14 @@ No hay base de datos ni servidor de pago: el propio JSON commiteado al repo
   (tier gratuito, `TWELVEDATA_API_KEY`).
 - **Tipo de cambio USD→EUR**: [Frankfurter](https://frankfurter.app) (datos
   del BCE, sin clave, sin registro) — todos los precios se muestran en euros.
-- Sin ninguna de las claves, esa fuente simplemente se omite (el resto de
-  señales sigue funcionando) — mismo criterio BYOK/degradación elegante que
-  `surebets`.
+- **Sentimiento de noticias por IA** (opcional, ⚠️ **de pago**): [Claude](https://console.anthropic.com)
+  (modelo Haiku, el más barato) evalúa los titulares de Finnhub con más
+  matiz que un diccionario de palabras clave. Sin `ANTHROPIC_API_KEY` se usa
+  el diccionario léxico gratuito de siempre, sin cambio de comportamiento —
+  es la única pieza no gratuita de todo el proyecto.
+- Sin ninguna de las claves opcionales, esa fuente simplemente se omite (el
+  resto de señales sigue funcionando) — mismo criterio BYOK/degradación
+  elegante que `surebets`.
 
 ### El modelo de score (`@ss/core`)
 

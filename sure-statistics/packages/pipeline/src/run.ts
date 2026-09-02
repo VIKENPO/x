@@ -1,7 +1,7 @@
 import { computeTickerScore, type QuoteSignal, type Snapshot, type Ticker } from "@ss/core";
 import { fetchCompanyHeadlines, fetchQuote, fetchTickerMentions, fetchUsdToEurRate } from "@ss/providers";
 import { MARKET_PROXY_SYMBOL, TICKERS } from "./tickers.js";
-import { buildSentimentSignal } from "./sentimentSignal.js";
+import { buildNewsSentimentSignal, buildSentimentSignal } from "./sentimentSignal.js";
 import { nextMarketOpenUtc } from "./nextMarketOpen.js";
 import { writeSnapshot } from "./writeSnapshot.js";
 import { runChartsPipeline } from "./chartsPipeline.js";
@@ -26,12 +26,14 @@ async function buildTickerScore(ticker: Ticker, marketProxy: QuoteSignal | undef
     safe(`reddit ${ticker.symbol}`, () => fetchTickerMentions(ticker.symbol), []),
   ]);
 
+  const news = await safe(`ai-sentiment ${ticker.symbol}`, () => buildNewsSentimentSignal(ticker.symbol, headlines), buildSentimentSignal("news", ticker.symbol, headlines));
+
   return computeTickerScore({
     symbol: ticker.symbol,
     name: ticker.name,
     quote: quote ?? undefined,
     marketProxy,
-    news: buildSentimentSignal("news", ticker.symbol, headlines),
+    news,
     reddit: buildSentimentSignal("reddit", ticker.symbol, mentions),
   });
 }

@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import type { ChartData, Snapshot, TickerScore } from "@ss/core";
 import { PriceChart } from "./PriceChart.js";
+import { TradingClock } from "./TradingClock.js";
 
 const REFRESH_MS = 60_000;
 
@@ -72,12 +73,13 @@ function TickerCard({ score, chart }: { score: TickerScore; chart: ChartData | u
             <dd>{quote ? `${(quote.changeRatio * 100).toFixed(2)}% vs. cierre anterior` : "sin dato todavía"}</dd>
           </div>
           <div>
-            <dt>Sentimiento de noticias</dt>
+            <dt>Sentimiento de noticias{news?.aiSummary ? " (IA)" : ""}</dt>
             <dd>
               {news && news.sampleSize > 0
                 ? `${news.averageSentiment > 0 ? "positivo" : news.averageSentiment < 0 ? "negativo" : "neutro"} (${news.sampleSize} titulares analizados)`
                 : "sin dato todavía"}
             </dd>
+            {news?.aiSummary && <p className="ai-summary">"{news.aiSummary}"</p>}
           </div>
         </dl>
       )}
@@ -133,6 +135,8 @@ export default function App() {
 
   return (
     <div className="app">
+      <TradingClock />
+
       <header className="app-header">
         <img src="/icons/icon.svg" alt="" className="app-logo" />
         <div>

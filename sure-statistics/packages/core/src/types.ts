@@ -34,6 +34,8 @@ export interface SentimentSignal {
   /** Nº de items considerados (a más items, más confianza). */
   sampleSize: number;
   items: ScoredItem[];
+  /** Si `averageSentiment` viene de una evaluación por IA (Claude), motivo en una línea. */
+  aiSummary?: string;
 }
 
 /** Desglose de las señales que entraron en el score final (para mostrar "por qué"). */
