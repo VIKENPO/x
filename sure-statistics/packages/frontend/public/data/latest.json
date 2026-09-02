@@ -1,19 +1,96 @@
 {
-  "generatedAt": "2026-09-02T10:58:10.406Z",
-  "nextMarketOpenMadrid": "2026-09-02T13:30:00.000Z",
+  "generatedAt": "2026-09-02T16:13:20.956Z",
+  "nextMarketOpenMadrid": "2026-09-03T13:30:00.000Z",
   "scores": [
     {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "bullishProbability": 50,
-      "confidence": 0,
+      "bullishProbability": 73,
+      "confidence": 85,
       "breakdown": {
+        "quote": {
+          "symbol": "META",
+          "price": 593.2,
+          "previousClose": 578.54,
+          "changeRatio": 0.025339648079648915,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:53.000Z"
+        },
+        "marketProxy": {
+          "symbol": "SPY",
+          "price": 765.7,
+          "previousClose": 761.78,
+          "changeRatio": 0.005145842631731042,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:53.000Z"
+        },
         "news": {
           "source": "news",
           "symbol": "META",
-          "averageSentiment": 0,
-          "sampleSize": 0,
-          "items": []
+          "averageSentiment": 0.10666666666666667,
+          "sampleSize": 15,
+          "items": [
+            {
+              "text": "Is Interactive Brokers Quietly Becoming an AI Stock?",
+              "sentiment": 0
+            },
+            {
+              "text": "Warren Buffett's Successor, Greg Abel, Has Over 50% of Berkshire Hathaway's Portfolio Invested in These 3 Top Stocks",
+              "sentiment": 0
+            },
+            {
+              "text": "Why Is Nvidia Willing to Pay $14 Billion for Hugging Face?",
+              "sentiment": 0
+            },
+            {
+              "text": "Jim Cramer Cheered Marvell’s $12 Billion Google Deal but the Stock Just Fell Nearly 10%",
+              "sentiment": 0
+            },
+            {
+              "text": "Marvell vs. Broadcom: One AI Stock Looks More Attractive Right Now",
+              "sentiment": 0
+            },
+            {
+              "text": "Regional Bank Director Sells $230,000 Worth of Stock",
+              "sentiment": 0
+            },
+            {
+              "text": "Orlando Magic and Gray Media Announce Full Season Broadcast Partnership",
+              "sentiment": 0.4
+            },
+            {
+              "text": "Form 8.3",
+              "sentiment": 0
+            },
+            {
+              "text": "The New York Times Company's Executive Vice President and CFO William Bardeen to Participate in the Citi 2026 Global TMT Conference",
+              "sentiment": 0
+            },
+            {
+              "text": "Zebra Technologies to Present at Citi's 2026 Global Technology, Media & Telecom Conference",
+              "sentiment": 0
+            },
+            {
+              "text": "COFE Tech Secures Pre-IPO Investment at $178 Million Valuation, Led by Aramco's Wa'ed Ventures, Aditum, Masarrah and Alyasra, Ahead of Saudi IPO",
+              "sentiment": 0
+            },
+            {
+              "text": "GitLab Stock Soars After Earnings. It’s Still Not a Buy, Analyst Says.",
+              "sentiment": 0.8
+            },
+            {
+              "text": "QuinStreet CFO Gregory Wong Sells 11,704 Shares",
+              "sentiment": 0
+            },
+            {
+              "text": "Sirius XM upgraded, Toast downgraded: Wall Street's top analyst calls",
+              "sentiment": 0
+            },
+            {
+              "text": "Microsoft's AI Datacenter Expansion: A Game Changer for the Stock?",
+              "sentiment": 0.4
+            }
+          ]
         },
         "reddit": {
           "source": "reddit",
@@ -23,20 +100,97 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T10:58:10.405Z"
+      "computedAt": "2026-09-02T16:13:20.574Z"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "bullishProbability": 50,
-      "confidence": 0,
+      "bullishProbability": 52,
+      "confidence": 85,
       "breakdown": {
+        "quote": {
+          "symbol": "AMZN",
+          "price": 254.87,
+          "previousClose": 254.92,
+          "changeRatio": -0.0001961399654792992,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:55.000Z"
+        },
+        "marketProxy": {
+          "symbol": "SPY",
+          "price": 765.7,
+          "previousClose": 761.78,
+          "changeRatio": 0.005145842631731042,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:53.000Z"
+        },
         "news": {
           "source": "news",
           "symbol": "AMZN",
-          "averageSentiment": 0,
-          "sampleSize": 0,
-          "items": []
+          "averageSentiment": 0.05333333333333334,
+          "sampleSize": 15,
+          "items": [
+            {
+              "text": "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+              "sentiment": -0.6
+            },
+            {
+              "text": "ExchangeRight Fully Subscribes $63.34 Million Net-Leased Portfolio 74 DST",
+              "sentiment": 0
+            },
+            {
+              "text": "Why Is Nvidia Willing to Pay $14 Billion for Hugging Face?",
+              "sentiment": 0
+            },
+            {
+              "text": "3 Reasons to Sell PRPL and 1 Stock to Buy Instead",
+              "sentiment": 0
+            },
+            {
+              "text": "Does H World Group (HTHT) Have the Potential to Rally 26.97% as Wall Street Analysts Expect?",
+              "sentiment": 0.6
+            },
+            {
+              "text": "Sirius XM upgraded, Toast downgraded: Wall Street's top analyst calls",
+              "sentiment": 0
+            },
+            {
+              "text": "Microsoft's AI Datacenter Expansion: A Game Changer for the Stock?",
+              "sentiment": 0.4
+            },
+            {
+              "text": "Bond yields still high as investors weigh rate hike risk: AlphaCheck",
+              "sentiment": -0.2
+            },
+            {
+              "text": "How the Death of an $800 Tariff Loophole Erased 70% of Shein’s Value",
+              "sentiment": 0
+            },
+            {
+              "text": "4 Stocks to Buy Now to Ride the AI Data Center Spending Boom",
+              "sentiment": 0
+            },
+            {
+              "text": "Tesla’s Cybercab Event Is Set for Thursday. Here’s What to Watch.",
+              "sentiment": 0
+            },
+            {
+              "text": "G-III Q2 Earnings Beat Estimates, Fiscal 2027 EPS View Raised",
+              "sentiment": 0.6
+            },
+            {
+              "text": "Columbia Sportswear (COLM): Buy, Sell, or Hold Post Q2 Earnings?",
+              "sentiment": 0
+            },
+            {
+              "text": "2 Reasons Uber Is Slashing 3,300 Jobs",
+              "sentiment": 0
+            },
+            {
+              "text": "Is Lifetime Brands (LCUT) Stock Outpacing Its Consumer Discretionary Peers This Year?",
+              "sentiment": 0
+            }
+          ]
         },
         "reddit": {
           "source": "reddit",
@@ -46,20 +200,97 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T10:58:10.406Z"
+      "computedAt": "2026-09-02T16:13:20.575Z"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "bullishProbability": 50,
-      "confidence": 0,
+      "bullishProbability": 55,
+      "confidence": 85,
       "breakdown": {
+        "quote": {
+          "symbol": "AAPL",
+          "price": 325.78,
+          "previousClose": 325.13,
+          "changeRatio": 0.0019992003198719814,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:54.000Z"
+        },
+        "marketProxy": {
+          "symbol": "SPY",
+          "price": 765.7,
+          "previousClose": 761.78,
+          "changeRatio": 0.005145842631731042,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:53.000Z"
+        },
         "news": {
           "source": "news",
           "symbol": "AAPL",
-          "averageSentiment": 0,
-          "sampleSize": 0,
-          "items": []
+          "averageSentiment": 0.11999999999999998,
+          "sampleSize": 15,
+          "items": [
+            {
+              "text": "Stock Market Today: Dow Rises On Surprise Jobs Data; AI Name Credo Dives On Earnings Report (Live Coverage)",
+              "sentiment": 0.4
+            },
+            {
+              "text": "Cramer’s Radical Fix for Nvidia: 5x the Buybacks, Repurchase 10% of Stock",
+              "sentiment": 0.6
+            },
+            {
+              "text": "Apple stock becomes hedge as AI trade wobbles in 2026",
+              "sentiment": 0
+            },
+            {
+              "text": "Apple’s New CEO Has 8 Days to Answer the AI Question That Could Redefine Computing",
+              "sentiment": 0
+            },
+            {
+              "text": "Apple’s Annual iPhone Event Is a Week Away. Why It’s More Important Than Ever.",
+              "sentiment": 0
+            },
+            {
+              "text": "Could Apple’s foldable iPhone be a $14B opportunity? Morgan Stanley weighs in",
+              "sentiment": 0
+            },
+            {
+              "text": "Apple CEO John Ternus pay package: $58 million in fiscal 2027",
+              "sentiment": 0
+            },
+            {
+              "text": "Lyte Raises $165 Million Series C Led by Maverick Silicon to Give Robots a Trustworthy View of the World",
+              "sentiment": 0.4
+            },
+            {
+              "text": "Apple's New CEO John Ternus Gets a $58 Million Pay Package",
+              "sentiment": 0
+            },
+            {
+              "text": "Dow Jones Futures Rise As Oil Prices Fall; Dell, Credo, Palo Alto Are Earnings Movers",
+              "sentiment": 0
+            },
+            {
+              "text": "Apple's Shares Rise 2.6% as John Ternus Takes Over as CEO",
+              "sentiment": 0.4
+            },
+            {
+              "text": "Ford and GM Will Have to Pay Tariffs on Cars Made in Canada",
+              "sentiment": 0
+            },
+            {
+              "text": "NTT Transatel enhances the eSIM Bootstrap Connectivity Experience on the latest Samsung Galaxy Z Series",
+              "sentiment": 0
+            },
+            {
+              "text": "Mobile ECG Devices Market Outlook 2025-2035 Featuring Profiles AliveCor, Apple and iRhythm Technologies - Industry Forecast to Reach $9.03 Billion by 2035 as Remote Cardiac Monitoring Adoption Accelerates",
+              "sentiment": 0
+            },
+            {
+              "text": "Apple Begins the John Ternus Era — Can Gadgets Still Save Apple in the AI Age?",
+              "sentiment": 0
+            }
+          ]
         },
         "reddit": {
           "source": "reddit",
@@ -69,20 +300,97 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T10:58:10.406Z"
+      "computedAt": "2026-09-02T16:13:20.956Z"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "bullishProbability": 50,
-      "confidence": 0,
+      "bullishProbability": 61,
+      "confidence": 85,
       "breakdown": {
+        "quote": {
+          "symbol": "GOOGL",
+          "price": 338.36,
+          "previousClose": 335.02,
+          "changeRatio": 0.009969554056474336,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:54.000Z"
+        },
+        "marketProxy": {
+          "symbol": "SPY",
+          "price": 765.7,
+          "previousClose": 761.78,
+          "changeRatio": 0.005145842631731042,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:53.000Z"
+        },
         "news": {
           "source": "news",
           "symbol": "GOOGL",
-          "averageSentiment": 0,
-          "sampleSize": 0,
-          "items": []
+          "averageSentiment": 0.09333333333333334,
+          "sampleSize": 15,
+          "items": [
+            {
+              "text": "Warren Buffett's Successor, Greg Abel, Has Over 50% of Berkshire Hathaway's Portfolio Invested in These 3 Top Stocks",
+              "sentiment": 0
+            },
+            {
+              "text": "Jim Cramer Cheered Marvell’s $12 Billion Google Deal but the Stock Just Fell Nearly 10%",
+              "sentiment": 0
+            },
+            {
+              "text": "Marvell vs. Broadcom: One AI Stock Looks More Attractive Right Now",
+              "sentiment": 0
+            },
+            {
+              "text": "Microsoft's AI Datacenter Expansion: A Game Changer for the Stock?",
+              "sentiment": 0.4
+            },
+            {
+              "text": "Eos Energy Shares Rise 12% Following West Virginia Solar and Storage Project Announcement",
+              "sentiment": 0.4
+            },
+            {
+              "text": "4 Stocks to Buy Now to Ride the AI Data Center Spending Boom",
+              "sentiment": 0
+            },
+            {
+              "text": "Tesla’s Cybercab Event Is Set for Thursday. Here’s What to Watch.",
+              "sentiment": 0
+            },
+            {
+              "text": "Amazon Stock Could Surprise Investors Over the Next 12 Months",
+              "sentiment": 0
+            },
+            {
+              "text": "Broadcom Earnings Prediction Market Preview: Will Hock Tan Talk ‘Competition’?",
+              "sentiment": 0
+            },
+            {
+              "text": "Apple’s New CEO Has 8 Days to Answer the AI Question That Could Redefine Computing",
+              "sentiment": 0
+            },
+            {
+              "text": "Capsule Security Builds “AI Circuit Breaker” for Rogue Agents with NVIDIA Nemotron",
+              "sentiment": 0
+            },
+            {
+              "text": "How Berkshire’s New CEO Plans to Protect Iowa Power Costs From Hyperscaler Data Center Expansion",
+              "sentiment": 0.4
+            },
+            {
+              "text": "New Malwarebytes Research Shows Scammers are Tailoring Attacks to Specific Platforms, From Text Toll Scams to Social Media Romance Cons",
+              "sentiment": 0
+            },
+            {
+              "text": "Timbaland to Headline Smartly’s ADVANCE in New York City on September 29",
+              "sentiment": 0
+            },
+            {
+              "text": "Greg Abel Says AI Data Center Power Demand Is A ‘Big Constraint’ – And A Berkshire Opportunity",
+              "sentiment": 0.2
+            }
+          ]
         },
         "reddit": {
           "source": "reddit",
@@ -92,20 +400,97 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T10:58:10.406Z"
+      "computedAt": "2026-09-02T16:13:20.883Z"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "bullishProbability": 50,
-      "confidence": 0,
+      "bullishProbability": 44,
+      "confidence": 85,
       "breakdown": {
+        "quote": {
+          "symbol": "MSFT",
+          "price": 494.68,
+          "previousClose": 501.02,
+          "changeRatio": -0.012654185461658168,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:55.000Z"
+        },
+        "marketProxy": {
+          "symbol": "SPY",
+          "price": 765.7,
+          "previousClose": 761.78,
+          "changeRatio": 0.005145842631731042,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:53.000Z"
+        },
         "news": {
           "source": "news",
           "symbol": "MSFT",
-          "averageSentiment": 0,
-          "sampleSize": 0,
-          "items": []
+          "averageSentiment": 0.22666666666666668,
+          "sampleSize": 15,
+          "items": [
+            {
+              "text": "The Future of Website Building with Wix.com (WIX)",
+              "sentiment": 0
+            },
+            {
+              "text": "GitLab Stock Soars After Earnings. It’s Still Not a Buy, Analyst Says.",
+              "sentiment": 0.8
+            },
+            {
+              "text": "NetApp (NTAP) May Find a Bottom Soon, Here's Why You Should Buy the Stock Now",
+              "sentiment": 0
+            },
+            {
+              "text": "Sirius XM upgraded, Toast downgraded: Wall Street's top analyst calls",
+              "sentiment": 0
+            },
+            {
+              "text": "Microsoft's AI Datacenter Expansion: A Game Changer for the Stock?",
+              "sentiment": 0.4
+            },
+            {
+              "text": "Bond yields still high as investors weigh rate hike risk: AlphaCheck",
+              "sentiment": -0.2
+            },
+            {
+              "text": "4 Stocks to Buy Now to Ride the AI Data Center Spending Boom",
+              "sentiment": 0
+            },
+            {
+              "text": "MongoDB Earnings Beat Expectations. Why the Stock Is Dropping Anyway.",
+              "sentiment": 0.2
+            },
+            {
+              "text": "Why Palo Alto Stock Is Getting Crushed After a Huge Earnings Beat",
+              "sentiment": 0.8
+            },
+            {
+              "text": "Stock Market Today: Dow Rises On Surprise Jobs Data; AI Name Credo Dives On Earnings Report (Live Coverage)",
+              "sentiment": 0.4
+            },
+            {
+              "text": "Palo Alto Networks earnings beat as CEO cites $1 trillion AI security gap",
+              "sentiment": 0.8
+            },
+            {
+              "text": "GitLab tops second-quarter estimates on AI-driven demand",
+              "sentiment": 0.2
+            },
+            {
+              "text": "Amazon Stock Could Surprise Investors Over the Next 12 Months",
+              "sentiment": 0
+            },
+            {
+              "text": "Compared to Estimates, Gitlab (GTLB) Q2 Earnings: A Look at Key Metrics",
+              "sentiment": 0
+            },
+            {
+              "text": "Euromonitor Introduces Passport Intelligence Through Microsoft 365 Copilot",
+              "sentiment": 0
+            }
+          ]
         },
         "reddit": {
           "source": "reddit",
@@ -115,20 +500,97 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T10:58:10.406Z"
+      "computedAt": "2026-09-02T16:13:20.556Z"
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "bullishProbability": 50,
-      "confidence": 0,
+      "bullishProbability": 76,
+      "confidence": 85,
       "breakdown": {
+        "quote": {
+          "symbol": "NVDA",
+          "price": 227.41,
+          "previousClose": 217.44,
+          "changeRatio": 0.04585172921265636,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:55.000Z"
+        },
+        "marketProxy": {
+          "symbol": "SPY",
+          "price": 765.7,
+          "previousClose": 761.78,
+          "changeRatio": 0.005145842631731042,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:53.000Z"
+        },
         "news": {
           "source": "news",
           "symbol": "NVDA",
-          "averageSentiment": 0,
-          "sampleSize": 0,
-          "items": []
+          "averageSentiment": 0.06666666666666667,
+          "sampleSize": 15,
+          "items": [
+            {
+              "text": "Is Interactive Brokers Quietly Becoming an AI Stock?",
+              "sentiment": 0
+            },
+            {
+              "text": "Warren Buffett's Successor, Greg Abel, Has Over 50% of Berkshire Hathaway's Portfolio Invested in These 3 Top Stocks",
+              "sentiment": 0
+            },
+            {
+              "text": "AI Infrastructure Spending Is Set to Hit $1.4 Trillion by 2030. These Are the 3 Chip Stocks Positioned to Capture It.",
+              "sentiment": 0
+            },
+            {
+              "text": "Why Is Nvidia Willing to Pay $14 Billion for Hugging Face?",
+              "sentiment": 0
+            },
+            {
+              "text": "The Future of Website Building with Wix.com (WIX)",
+              "sentiment": 0
+            },
+            {
+              "text": "Analog Devices to Participate in the J.P. Morgan U.S. All Stars Conference",
+              "sentiment": 0
+            },
+            {
+              "text": "Jim Cramer Cheered Marvell’s $12 Billion Google Deal but the Stock Just Fell Nearly 10%",
+              "sentiment": 0
+            },
+            {
+              "text": "Marvell vs. Broadcom: One AI Stock Looks More Attractive Right Now",
+              "sentiment": 0
+            },
+            {
+              "text": "Tri City National Bank Launches Alkami's Digital Sales & Service Platform to Extend Hometown Banking in the Digital Channel",
+              "sentiment": 0
+            },
+            {
+              "text": "AI Helps Integrated Tools Take on Security Threats, ISG Says",
+              "sentiment": 0
+            },
+            {
+              "text": "Zebra Technologies to Present at Citi's 2026 Global Technology, Media & Telecom Conference",
+              "sentiment": 0
+            },
+            {
+              "text": "Laurent Ferreira to speak at the Scotiabank Financials Summit",
+              "sentiment": 0
+            },
+            {
+              "text": "Dell's revenue guidance exceeded Wall Street forecasts and then some",
+              "sentiment": 0.6
+            },
+            {
+              "text": "Hexaware Appoints Vivek Jetley as CEO Designate to Lead its Next Phase of AI-Led Growth",
+              "sentiment": 0.4
+            },
+            {
+              "text": "What Jensen Huang thinks is the worst outcome of the next industrial revolution",
+              "sentiment": 0
+            }
+          ]
         },
         "reddit": {
           "source": "reddit",
@@ -138,20 +600,97 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T10:58:10.406Z"
+      "computedAt": "2026-09-02T16:13:20.936Z"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "bullishProbability": 50,
-      "confidence": 0,
+      "bullishProbability": 45,
+      "confidence": 85,
       "breakdown": {
+        "quote": {
+          "symbol": "TSLA",
+          "price": 353.98,
+          "previousClose": 356.09,
+          "changeRatio": -0.005925468280490767,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:55.000Z"
+        },
+        "marketProxy": {
+          "symbol": "SPY",
+          "price": 765.7,
+          "previousClose": 761.78,
+          "changeRatio": 0.005145842631731042,
+          "source": "finnhub",
+          "asOf": "2026-09-02T16:12:53.000Z"
+        },
         "news": {
           "source": "news",
           "symbol": "TSLA",
-          "averageSentiment": 0,
-          "sampleSize": 0,
-          "items": []
+          "averageSentiment": -0.16,
+          "sampleSize": 15,
+          "items": [
+            {
+              "text": "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+              "sentiment": -0.6
+            },
+            {
+              "text": "Sirius XM upgraded, Toast downgraded: Wall Street's top analyst calls",
+              "sentiment": 0
+            },
+            {
+              "text": "Bond yields still high as investors weigh rate hike risk: AlphaCheck",
+              "sentiment": -0.2
+            },
+            {
+              "text": "Tesla’s Cybercab Event Is Set for Thursday. Here’s What to Watch.",
+              "sentiment": 0
+            },
+            {
+              "text": "2 Reasons Uber Is Slashing 3,300 Jobs",
+              "sentiment": 0
+            },
+            {
+              "text": "Kristen Bell Brings the Magic of Frozen to UCLA Mattel Children’s Hospital Patients through Musicians On Call",
+              "sentiment": 0
+            },
+            {
+              "text": "Li Auto Inc. Launches the New Li MEGA, a High-Tech Flagship MPV",
+              "sentiment": 0
+            },
+            {
+              "text": "Li Auto (LI) Q2 2026 Earnings Call Transcript",
+              "sentiment": 0
+            },
+            {
+              "text": "J.P. Morgan cuts NIO to Neutral, slashes price target on weak demand outlook",
+              "sentiment": -0.2
+            },
+            {
+              "text": "This Week In Electric Vehicles - AI Powers Revolution In Wireless Charging Infrastructure",
+              "sentiment": 0
+            },
+            {
+              "text": "The Zacks Analyst Blog Highlights Toyota, CrowdStrike, Welltower, Blue Ridge Bankshares and Franklin Financial Services",
+              "sentiment": 0
+            },
+            {
+              "text": "Tesla’s Much-Awaited Cybercab Launch Is Here — Morgan Stanley Says One Thing Could Decide TSLA Stock Reaction",
+              "sentiment": 0
+            },
+            {
+              "text": "Tesla's FSD Faces Fresh Scrutiny After Fatal Illinois Crash",
+              "sentiment": -1
+            },
+            {
+              "text": "Honda Wants $9 Billion in Cuts to Fight China's EV Giants",
+              "sentiment": -0.4
+            },
+            {
+              "text": "Tesla vs. BYD: One Stock Could Be Poised for a Bigger Comeback",
+              "sentiment": 0
+            }
+          ]
         },
         "reddit": {
           "source": "reddit",
@@ -161,7 +700,7 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-02T10:58:10.406Z"
+      "computedAt": "2026-09-02T16:13:20.873Z"
     }
   ]
 }
