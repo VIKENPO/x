@@ -1,0 +1,16 @@
+{
+  "name": "sure-statistics-monorepo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "typecheck": "tsc --noEmit -p packages/core && tsc --noEmit -p packages/providers && tsc --noEmit -p packages/pipeline && tsc --noEmit -p packages/frontend",
+    "pipeline": "npm run start --workspace @ss/pipeline",
+    "dev:frontend": "npm run dev --workspace @ss/frontend",
+    "build:frontend": "npm run build --workspace @ss/frontend"
+  }
+}
