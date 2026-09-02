@@ -12,6 +12,11 @@ dist/
 **/dist/
 build/
 **/build/
+.vite/
+**/.vite/
+
+# Vercel (config local del CLI, no debe compartirse)
+.vercel
 
 # Logs y varios
 *.log

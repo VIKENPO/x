@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd sure-statistics && npm install",
+  "buildCommand": "cd sure-statistics && npm run build --workspace @ss/frontend",
+  "outputDirectory": "sure-statistics/packages/frontend/dist"
+}
