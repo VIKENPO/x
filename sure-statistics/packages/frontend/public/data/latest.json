@@ -1,35 +1,43 @@
 {
-  "generatedAt": "2026-09-08T11:50:53.929Z",
-  "nextMarketOpenMadrid": "2026-09-08T13:30:00.000Z",
+  "generatedAt": "2026-09-08T15:32:27.816Z",
+  "nextMarketOpenMadrid": "2026-09-09T13:30:00.000Z",
   "scores": [
     {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "bullishProbability": 57,
+      "bullishProbability": 50,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "META",
-          "price": 616.77,
-          "previousClose": 610.68,
-          "changeRatio": 0.009972489683631415,
+          "price": 617.04,
+          "previousClose": 616.77,
+          "changeRatio": 0.00043776448270827346,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:31:54.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.19,
-          "previousClose": 773.17,
-          "changeRatio": -0.003854262322645608,
+          "price": 767.92,
+          "previousClose": 770.19,
+          "changeRatio": -0.0029473246861165367,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:00.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "META",
-          "averageSentiment": 0.06666666666666667,
+          "averageSentiment": 0.04,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Meta: Such An Opportunity May Take Years To Happen Again",
+              "sentiment": 0
+            },
+            {
+              "text": "Ride The Bull Before The Market Comes To Its Senses",
+              "sentiment": 0
+            },
             {
               "text": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
               "sentiment": 0
@@ -81,14 +89,6 @@
             {
               "text": "Here is What to Know Beyond Why Meta Platforms, Inc. (META) is a Trending Stock",
               "sentiment": 0
-            },
-            {
-              "text": "Nvidia, Tech Giants Flash Stunning Market Signal",
-              "sentiment": 0
-            },
-            {
-              "text": "Inside The Magic Box: Earnings Are Strong, Just Not As Strong As They Look",
-              "sentiment": 0.4
             }
           ]
         },
@@ -100,36 +100,48 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-08T11:50:53.917Z"
+      "computedAt": "2026-09-08T15:32:27.707Z"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "bullishProbability": 46,
+      "bullishProbability": 44,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "AMZN",
-          "price": 258.51,
-          "previousClose": 258.9,
-          "changeRatio": -0.0015063731170335511,
+          "price": 257.24,
+          "previousClose": 258.51,
+          "changeRatio": -0.004912769331940667,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:00.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.19,
-          "previousClose": 773.17,
-          "changeRatio": -0.003854262322645608,
+          "price": 767.92,
+          "previousClose": 770.19,
+          "changeRatio": -0.0029473246861165367,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:00.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "AMZN",
-          "averageSentiment": -0.11999999999999998,
+          "averageSentiment": -0.06666666666666667,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "American Century Value Fund Q2 2026 Contributors And Detractors",
+              "sentiment": 0
+            },
+            {
+              "text": "Oracle Deserves One Last Chance",
+              "sentiment": 0
+            },
+            {
+              "text": "Tesla: My Thesis Could Make Or Break In October (Rating Upgrade)",
+              "sentiment": 0.8
+            },
             {
               "text": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
               "sentiment": 0
@@ -177,18 +189,6 @@
             {
               "text": "Is Amazon Stock at $255 a Share an Obvious Buy Right Now?",
               "sentiment": 0
-            },
-            {
-              "text": "Nvidia, Microsoft at Center of $7 Trillion AI Boom",
-              "sentiment": 0
-            },
-            {
-              "text": "Why Does Amazon Trade at a Discount to Walmart and Costco? Here's the Only Answer That Makes Sense.",
-              "sentiment": 0
-            },
-            {
-              "text": "The Real Satellite Race Isn’t About Rockets — It’s About Who Controls the Spectrum in Your Phone",
-              "sentiment": 0
             }
           ]
         },
@@ -200,29 +200,29 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-08T11:50:53.929Z"
+      "computedAt": "2026-09-08T15:32:27.792Z"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "bullishProbability": 29,
+      "bullishProbability": 40,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "AAPL",
-          "price": 319.97,
-          "previousClose": 328.21,
-          "changeRatio": -0.02510587733463317,
+          "price": 316.3,
+          "previousClose": 319.97,
+          "changeRatio": -0.01146982529612156,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:00.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.19,
-          "previousClose": 773.17,
-          "changeRatio": -0.003854262322645608,
+          "price": 767.92,
+          "previousClose": 770.19,
+          "changeRatio": -0.0029473246861165367,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:00.000Z"
         },
         "news": {
           "source": "news",
@@ -230,6 +230,10 @@
           "averageSentiment": 0.04444444444444444,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "American Century Value Fund Q2 2026 Contributors And Detractors",
+              "sentiment": 0
+            },
             {
               "text": "Greg Abel Has 53.6% of Berkshire Hathaway's Stock Invested in These 4 Top Stocks",
               "sentiment": 0
@@ -285,10 +289,6 @@
             {
               "text": "DELL Expands Consumer PC Reach: Can It Challenge HPQ & AAPL?",
               "sentiment": 0
-            },
-            {
-              "text": "The Real Satellite Race Isn’t About Rockets — It’s About Who Controls the Spectrum in Your Phone",
-              "sentiment": 0
             }
           ]
         },
@@ -300,29 +300,29 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-08T11:50:53.920Z"
+      "computedAt": "2026-09-08T15:32:27.788Z"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "bullishProbability": 40,
+      "bullishProbability": 50,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "GOOGL",
-          "price": 338.46,
-          "previousClose": 342.48,
-          "changeRatio": -0.011737911702873272,
+          "price": 338.56,
+          "previousClose": 338.46,
+          "changeRatio": 0.0002954558884359237,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:01.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.19,
-          "previousClose": 773.17,
-          "changeRatio": -0.003854262322645608,
+          "price": 767.92,
+          "previousClose": 770.19,
+          "changeRatio": -0.0029473246861165367,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:00.000Z"
         },
         "news": {
           "source": "news",
@@ -331,7 +331,15 @@
           "sampleSize": 15,
           "items": [
             {
+              "text": "American Century Value Fund Q2 2026 Contributors And Detractors",
+              "sentiment": 0
+            },
+            {
               "text": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
+              "sentiment": 0
+            },
+            {
+              "text": "Gene Munster Predicts TSLA Stock Rally Amid NHTSA Cybercab Probe, Calls It a 'Speed Bump' For Elon Musk: 'Confidence in Safety…'",
               "sentiment": 0
             },
             {
@@ -381,14 +389,6 @@
             {
               "text": "Alphabet May Be the Mag 7 Stock Investors Are Underestimating",
               "sentiment": 0
-            },
-            {
-              "text": "Broadcom vs Marvell: One of These AI Chip Stocks Is a Clear Winner",
-              "sentiment": 0
-            },
-            {
-              "text": "Why Apple May Be the Safest AI Stock Nobody Calls an AI Stock",
-              "sentiment": 0
             }
           ]
         },
@@ -400,29 +400,29 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-08T11:50:53.919Z"
+      "computedAt": "2026-09-08T15:32:27.816Z"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "bullishProbability": 33,
+      "bullishProbability": 39,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "MSFT",
-          "price": 499.7,
-          "previousClose": 510.12,
-          "changeRatio": -0.02042656629812596,
+          "price": 493.2,
+          "previousClose": 499.7,
+          "changeRatio": -0.013007804682809687,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:01.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.19,
-          "previousClose": 773.17,
-          "changeRatio": -0.003854262322645608,
+          "price": 767.92,
+          "previousClose": 770.19,
+          "changeRatio": -0.0029473246861165367,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:00.000Z"
         },
         "news": {
           "source": "news",
@@ -430,6 +430,18 @@
           "averageSentiment": 0.08000000000000002,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Oracle Deserves One Last Chance",
+              "sentiment": 0
+            },
+            {
+              "text": "Chevron's Project Kilby, Venezuela, And Why The Stock Is So Appealing Here",
+              "sentiment": 0
+            },
+            {
+              "text": "AMD Is Not Expensive, It Is Early",
+              "sentiment": 0
+            },
             {
               "text": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
               "sentiment": 0
@@ -477,18 +489,6 @@
             {
               "text": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
               "sentiment": 0.4
-            },
-            {
-              "text": "Bernie Sanders Wants to Ban Superintelligence. What It Means for Microsoft and Amazon",
-              "sentiment": 0
-            },
-            {
-              "text": "CRWV Stock Takes a 13% Hit in 3 Months: Time to Buy, Hold or Bail Out?",
-              "sentiment": 0
-            },
-            {
-              "text": "AMD Is Behind The AI Chip Shift Nobody Is Talking About",
-              "sentiment": 0
             }
           ]
         },
@@ -500,29 +500,29 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-08T11:50:53.924Z"
+      "computedAt": "2026-09-08T15:32:27.703Z"
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "bullishProbability": 55,
+      "bullishProbability": 36,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "NVDA",
-          "price": 230.36,
-          "previousClose": 228.45,
-          "changeRatio": 0.008360691617421865,
+          "price": 226.7,
+          "previousClose": 230.36,
+          "changeRatio": -0.01588817503038733,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:01.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.19,
-          "previousClose": 773.17,
-          "changeRatio": -0.003854262322645608,
+          "price": 767.92,
+          "previousClose": 770.19,
+          "changeRatio": -0.0029473246861165367,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:00.000Z"
         },
         "news": {
           "source": "news",
@@ -575,6 +575,10 @@
               "sentiment": 0
             },
             {
+              "text": "Nvidia: Stop The Bubble Talk - This Is An Attractive Buy",
+              "sentiment": 0
+            },
+            {
               "text": "Crypto ETFs Continue to Attract Investor Funds At a Rapid Rate. These Are the Only 3 Altcoins I'm Buying Now.",
               "sentiment": 0
             },
@@ -584,10 +588,6 @@
             },
             {
               "text": "Alphabet vs. Meta Platforms: Which \"Magnificent Seven\" Titan Has More Room to Run in September?",
-              "sentiment": 0
-            },
-            {
-              "text": "Worried About the September Effect? Here’s What History Tells Us About Investing During What’s Generally Been the Worst Month for Stocks.",
               "sentiment": 0
             }
           ]
@@ -600,36 +600,44 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-08T11:50:53.927Z"
+      "computedAt": "2026-09-08T15:32:27.756Z"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "bullishProbability": 24,
+      "bullishProbability": 73,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "TSLA",
-          "price": 354.08,
-          "previousClose": 376.365,
-          "changeRatio": -0.05921113812389575,
+          "price": 368.04,
+          "previousClose": 354.08,
+          "changeRatio": 0.0394261183913241,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:01.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.19,
-          "previousClose": 773.17,
-          "changeRatio": -0.003854262322645608,
+          "price": 767.92,
+          "previousClose": 770.19,
+          "changeRatio": -0.0029473246861165367,
           "source": "finnhub",
-          "asOf": "2026-09-04T20:00:00.000Z"
+          "asOf": "2026-09-08T15:32:00.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "TSLA",
-          "averageSentiment": -0.03333333333333333,
+          "averageSentiment": 0.019999999999999997,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Stock Picks From Seeking Alpha's August 2026 New Analysts",
+              "sentiment": 0
+            },
+            {
+              "text": "Tesla: My Thesis Could Make Or Break In October (Rating Upgrade)",
+              "sentiment": 0.8
+            },
             {
               "text": "Company News for Sep 8, 2026",
               "sentiment": 0
@@ -644,6 +652,10 @@
             },
             {
               "text": "Tesla: Elon Is Going For The Robotaxi Moonshot",
+              "sentiment": 0
+            },
+            {
+              "text": "Gene Munster Predicts TSLA Stock Rally Amid NHTSA Cybercab Probe, Calls It a 'Speed Bump' For Elon Musk: 'Confidence in Safety…'",
               "sentiment": 0
             },
             {
@@ -677,18 +689,6 @@
             {
               "text": "Is Tesla Stock Under $360 a Share an Obvious Buy in September?",
               "sentiment": 0
-            },
-            {
-              "text": "Billionaire has 5-word response to Elon Musk's Tesla chart",
-              "sentiment": 0
-            },
-            {
-              "text": "Elon Musk Owns 28% of Tesla, a Stake Worth Nearly $350 Billion. Here's Why His Ownership Level Matters for Shareholders.",
-              "sentiment": 0
-            },
-            {
-              "text": "Tesla Plus SpaceX Could Become a ‘Must-Have’ Investment, Ross Gerber Says",
-              "sentiment": 0
             }
           ]
         },
@@ -700,7 +700,7 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-08T11:50:53.925Z"
+      "computedAt": "2026-09-08T15:32:27.738Z"
     }
   ]
 }
