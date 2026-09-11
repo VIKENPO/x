@@ -704,5 +704,711 @@
         "computedAt": "2026-09-11T11:54:31.943Z"
       }
     ]
+  },
+  {
+    "generatedAt": "2026-09-11T15:25:11.337Z",
+    "nextMarketOpenMadrid": "2026-09-14T13:30:00.000Z",
+    "scores": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "bullishProbability": 65,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "META",
+            "price": 652.69,
+            "previousClose": 644.38,
+            "changeRatio": 0.012896117197926781,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:50.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.63,
+            "previousClose": 757.83,
+            "changeRatio": 0.010292545821622203,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "META",
+            "averageSentiment": 0.09333333333333334,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Meta at $645: Recent Momentum Makes One Thing Very Clear",
+                "sentiment": 0
+              },
+              {
+                "text": "Mark Zuckerberg’s $100-a-Month Muse Bet Signals Meta’s Desperate Pivot Away From Ads",
+                "sentiment": 0
+              },
+              {
+                "text": "What a Republican 'wipeout' in the midterm elections means for investors",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta reversing course on flat org structure in Applied AI division",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Is Snap Stock Surging on Friday?",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Market Chatter: Meta Platforms in Talks With South Korea on Teen Social Media Restrictions",
+                "sentiment": 0
+              },
+              {
+                "text": "Scoop: TikTok rejects Meta ads amid settlement pressure campaign",
+                "sentiment": 0
+              },
+              {
+                "text": "PLTR Stock Wins Whether We’re In An AI Bubble Or Not? Wall Street Analyst Explains Why",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Mark Zuckerberg's Meta Is Charging Consumers for a Personal AI Agent for the First Time. Here's What $20 and $100 a Month Could Add to Revenue.",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta’s (META) Muse Launch Turns the AI Debate toward Subscription Economics",
+                "sentiment": 0
+              },
+              {
+                "text": "Second Quarter Earnings: A Rising AI Tide Lifts Many Sectors",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Trump's Surgeon General Pick Has Tobacco, Cola Stocks In Portfolio Even as Robert Kennedy Jr. Wages War On Sugary Drinks, Processed Food",
+                "sentiment": 0
+              },
+              {
+                "text": "JPMorgan resets Meta stock price target for the rest of 2026",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta’s $18 Billion Settlement Removes a Massive Risk, But May Reshape Teen Engagement",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Should You Buy AppLovin Stock For Its Widening Margin?",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "META",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-11T15:25:11.337Z"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "bullishProbability": 68,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AMZN",
+            "price": 256.2,
+            "previousClose": 251.89,
+            "changeRatio": 0.017110643534876346,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.63,
+            "previousClose": 757.83,
+            "changeRatio": 0.010292545821622203,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AMZN",
+            "averageSentiment": 0.10666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Amazon delivery drones set for UK expansion after successful trial",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Polymarket Appoints First Chief Financial Officer",
+                "sentiment": 0
+              },
+              {
+                "text": "OpenAI’s $122B Capital Raise Signals a Definitive Transition to Infrastructure Utility",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Amazon vs. Alphabet: If I Could Buy Only One, I’d Choose This Stock",
+                "sentiment": 0
+              },
+              {
+                "text": "Goldman Sachs and Billionaires Like These 2 AI Stocks",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Nvidia’s Chip Rivals Have Left It in the Dust This Week",
+                "sentiment": 0
+              },
+              {
+                "text": "Piper Sandler Says Marvell Could Be a Major AI Chip Winner",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla’s Drag on XLY Was Softened by Amazon’s Gain; QQQ Felt Almost Nothing",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Qualcomm Sold Server Chips Once Before and Quit Within a Year. History Says What Has to Be Different This Time.",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon Dropped Last Month: A Wall Street Pro Says It’s Going to Provide 60% Returns",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon drone delivery set for expansion ahead of UK rollout",
+                "sentiment": 0.4
+              },
+              {
+                "text": "These 2 Hardware Leaders Will Cash In on the Next Data Center Memory Crunch",
+                "sentiment": 0
+              },
+              {
+                "text": "The Zacks Analyst Blog Highlights D-Wave Quantum, Rigetti, IBM, Alphabet and Amazon",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon ‘on precipice’ of expanding drone deliveries after limited UK launch",
+                "sentiment": 0
+              },
+              {
+                "text": "'Anthropic Says US Adversaries Aimed Claude at Weapons Research' - Bloomberg",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AMZN",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-11T15:25:11.293Z"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "bullishProbability": 77,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AAPL",
+            "price": 335.77,
+            "previousClose": 326.57,
+            "changeRatio": 0.028171601800532776,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.63,
+            "previousClose": 757.83,
+            "changeRatio": 0.010292545821622203,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AAPL",
+            "averageSentiment": 0.10666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Company News for Sep 11, 2026",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla’s Drag on XLY Was Softened by Amazon’s Gain; QQQ Felt Almost Nothing",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Apple has taken its 'biggest gamble in years' - should you?",
+                "sentiment": 0
+              },
+              {
+                "text": "What a Republican 'wipeout' in the midterm elections means for investors",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple: Why iPhone Duo Will Likely Dominate The Foldables Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Friday; Oracle to Rise, Adobe to Fall",
+                "sentiment": 0
+              },
+              {
+                "text": "Kalshi Eyes 24/7 Leveraged Bets on TSLA, NVDA and AAPL With New Perpetual Futures Push: Report",
+                "sentiment": 0
+              },
+              {
+                "text": "DIVO: The Covered Call Machine Built To Outlast A Downturn",
+                "sentiment": 0
+              },
+              {
+                "text": "Fourth Red Session Runs Into a Foldable-Powered Apple as Oil Breaks $105 and Oracle Ships a $28.5 Billion AI Bill",
+                "sentiment": 0
+              },
+              {
+                "text": "Dow Jones Futures Rise, Oil Prices Fall, Oracle Jumps; CPI Inflation Data To Inform Fed",
+                "sentiment": 0.2
+              },
+              {
+                "text": "PLTR Stock Wins Whether We’re In An AI Bubble Or Not? Wall Street Analyst Explains Why",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Dow Jones Futures Rise, Oracle Jumps After Oil Prices, Yields Surge; CPI Inflation Due",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Berkshire Hathaway Has a New Top Holding, and It Dominates Its Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Crumbs: Robinhood Chain Backed Startup Pushes Stock Tokenization Into Shopping Rewards",
+                "sentiment": 0
+              },
+              {
+                "text": "Crypto Billionaire Finds iPhone Duo Pretty 'Good' For Gawking at  Financial Charts — Crypto Prediction Market is Already Betting on The Next Big Apple Gadget",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AAPL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-11T15:25:11.303Z"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "bullishProbability": 76,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "GOOGL",
+            "price": 341.97,
+            "previousClose": 332.6,
+            "changeRatio": 0.028171978352375237,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.63,
+            "previousClose": 757.83,
+            "changeRatio": 0.010292545821622203,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "GOOGL",
+            "averageSentiment": 0.02666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Sector Update: Financial Stocks Advance Pre-Bell Friday",
+                "sentiment": 0
+              },
+              {
+                "text": "Mark Zuckerberg’s $100-a-Month Muse Bet Signals Meta’s Desperate Pivot Away From Ads",
+                "sentiment": 0
+              },
+              {
+                "text": "Google Cloud Launches AI Agents for Banking, With Deutsche Bank as Its Proving Ground",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon vs. Alphabet: If I Could Buy Only One, I’d Choose This Stock",
+                "sentiment": 0
+              },
+              {
+                "text": "Alphabet Inc. (GOOGL) Is a Trending Stock: Facts to Know Before Betting on It",
+                "sentiment": 0
+              },
+              {
+                "text": "Alphabet Inc. (GOOG) is Attracting Investor Attention: Here is What You Should Know",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX CFO Sends Bold Message to Investors After $1.11 Billion AI Deal",
+                "sentiment": 0
+              },
+              {
+                "text": "Piper Sandler Says Marvell Could Be a Major AI Chip Winner",
+                "sentiment": 0
+              },
+              {
+                "text": "What a Republican 'wipeout' in the midterm elections means for investors",
+                "sentiment": 0
+              },
+              {
+                "text": "Micron offers Taiwan workers up to 68-month bonuses as strike threat looms",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Amazon Dropped Last Month: A Wall Street Pro Says It’s Going to Provide 60% Returns",
+                "sentiment": 0
+              },
+              {
+                "text": "Weekly Lab Notes: The Week the Compute Landlord Thesis Went Global",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX’s Undisclosed $13.3B Tenant: Who Is the Compute Landlord’s Largest New Customer?",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla: Another 2019 Inflection Is Taking Shape - And The Market Hasn't Caught Up",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Alphabet: Chips War Is Now In Its Favor",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "GOOGL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-11T15:25:11.295Z"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "bullishProbability": 60,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "MSFT",
+            "price": 495.68,
+            "previousClose": 492.44,
+            "changeRatio": 0.006579481764275869,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.63,
+            "previousClose": 757.83,
+            "changeRatio": 0.010292545821622203,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "MSFT",
+            "averageSentiment": 0.13333333333333333,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Mark Zuckerberg’s $100-a-Month Muse Bet Signals Meta’s Desperate Pivot Away From Ads",
+                "sentiment": 0
+              },
+              {
+                "text": "Expect Microsoft to Be Anything But Slow For The Rest of September",
+                "sentiment": 0
+              },
+              {
+                "text": "Nebius' Heavy CapEx Push: Can Customer Prepayments Ease the Strain?",
+                "sentiment": 0
+              },
+              {
+                "text": "Piper Sandler Says Marvell Could Be a Major AI Chip Winner",
+                "sentiment": 0
+              },
+              {
+                "text": "Micron offers Taiwan workers up to 68-month bonuses as strike threat looms",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Amazon Dropped Last Month: A Wall Street Pro Says It’s Going to Provide 60% Returns",
+                "sentiment": 0
+              },
+              {
+                "text": "DIVO: The Covered Call Machine Built To Outlast A Downturn",
+                "sentiment": 0
+              },
+              {
+                "text": "'Anthropic Says US Adversaries Aimed Claude at Weapons Research' - Bloomberg",
+                "sentiment": 0
+              },
+              {
+                "text": "The Private LTE/5G Network Market - 4th Edition Now Available — See Why Nokia, AWS, and Microsoft Are Making Radically Different Bets as the Market Races Toward $12 Billion",
+                "sentiment": 0
+              },
+              {
+                "text": "Second Quarter Earnings: A Rising AI Tide Lifts Many Sectors",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Trump's Surgeon General Pick Has Tobacco, Cola Stocks In Portfolio Even as Robert Kennedy Jr. Wages War On Sugary Drinks, Processed Food",
+                "sentiment": 0
+              },
+              {
+                "text": "What Is Really Behind CrowdStrike Stock's Doubling?",
+                "sentiment": 0
+              },
+              {
+                "text": "Dell enters the S&P 100 index after monstrous three-year rally",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Microsoft Eyes Massive Data Center Push To Triple Computing Power And Solve Capacity Bottlenecks, Says Report",
+                "sentiment": 0
+              },
+              {
+                "text": "Remain Bullish on AI Beneficiaries Like Bloom Energy",
+                "sentiment": 0.8
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "MSFT",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-11T15:25:11.306Z"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "bullishProbability": 61,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "NVDA",
+            "price": 219.97,
+            "previousClose": 218.36,
+            "changeRatio": 0.007373145264700427,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.63,
+            "previousClose": 757.83,
+            "changeRatio": 0.010292545821622203,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "NVDA",
+            "averageSentiment": 0.18666666666666668,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Stock Market Today: Dow Rallies On Surprise Inflation Data; Nvidia Rebounds, Oracle Jumps (Live Coverage)",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Nvidia CEO Jensen Huang Calls AI Cybersecurity Panic a Sales Pitch",
+                "sentiment": 0
+              },
+              {
+                "text": "I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Alight Stock Is Plummeting This Week",
+                "sentiment": 0
+              },
+              {
+                "text": "NVIDIA’s Export Ban Backfires as Chinese Competitors Raise Prices 50%",
+                "sentiment": 0.4
+              },
+              {
+                "text": "If a Bear Market Is Coming, History Says These Are the Only ETFs You Need",
+                "sentiment": 0
+              },
+              {
+                "text": "How Billionaire VC Bill Tai Thinks AI Will Reshape the Global Economy",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Did Casey's General Stores Stock Tank This Week?",
+                "sentiment": 0
+              },
+              {
+                "text": "OpenAI’s $122B Capital Raise Signals a Definitive Transition to Infrastructure Utility",
+                "sentiment": 0.4
+              },
+              {
+                "text": "How Top Fidelity Manager Beats The Herd With 'Overanalyzed' Stocks",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Investors Heavily Search NVIDIA Corporation (NVDA): Here is What You Need to Know",
+                "sentiment": 0
+              },
+              {
+                "text": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Prediction: $5,298 Invested in CrowdStrike Stock Today Will Be Worth This Much Next Year",
+                "sentiment": 0
+              },
+              {
+                "text": "What Happens To NVIDIA Stock If The Buyers It Funds Cannot Pay?",
+                "sentiment": 0
+              },
+              {
+                "text": "PBF Energy and Lennar have been highlighted as Zacks Bull and Bear of the Day",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "NVDA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-11T15:25:11.299Z"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "bullishProbability": 60,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "TSLA",
+            "price": 365.76,
+            "previousClose": 363.56,
+            "changeRatio": 0.00605127076686101,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:50.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.63,
+            "previousClose": 757.83,
+            "changeRatio": 0.010292545821622203,
+            "source": "finnhub",
+            "asOf": "2026-09-11T15:24:51.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "TSLA",
+            "averageSentiment": 0.16000000000000003,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Tesla’s Trucking Business Could Unlock A $17B Software Opportunity, Morgan Stanley Says",
+                "sentiment": 0
+              },
+              {
+                "text": "Should You Buy Ford Motor Stock Because It Is Selling Fewer Vehicles At Better Prices?",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla’s Drag on XLY Was Softened by Amazon’s Gain; QQQ Felt Almost Nothing",
+                "sentiment": 0.4
+              },
+              {
+                "text": "What a Republican 'wipeout' in the midterm elections means for investors",
+                "sentiment": 0
+              },
+              {
+                "text": "South Korean import sales rise 9% in August",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Tesla’s Electric Semi Could Win From High Diesel Prices",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Kalshi Eyes 24/7 Leveraged Bets on TSLA, NVDA and AAPL With New Perpetual Futures Push: Report",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla: Another 2019 Inflection Is Taking Shape - And The Market Hasn't Caught Up",
+                "sentiment": 0.2
+              },
+              {
+                "text": "The Zacks Analyst Blog Highlights Tesla, BYD and NIO",
+                "sentiment": 0
+              },
+              {
+                "text": "Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",
+                "sentiment": 0.4
+              },
+              {
+                "text": "TSLA Stock Rises Premarket On Global Blitz — Cybercab In Japan, Hotter Model Y In China, Powershare In US",
+                "sentiment": 0.4
+              },
+              {
+                "text": "BYD Outsold Tesla by Roughly 77,000 EVs Again in Q2. Can Tesla Close the Gap?",
+                "sentiment": 0
+              },
+              {
+                "text": "Elon Musk's Starlink Not a Threat to Wireless Carriers, Says T-Mobile CFO: ‘You Can Have a Million Satellites…’",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Looks Expensive And Waymo Is Pulling Away",
+                "sentiment": 0
+              },
+              {
+                "text": "Elon Musk’s gas turbines could shake up the backlogged sector",
+                "sentiment": 0.2
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-11T15:25:11.286Z"
+      }
+    ]
   }
 ]
