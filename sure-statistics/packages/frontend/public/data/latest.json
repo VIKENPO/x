@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-18T15:41:47.390Z",
+  "generatedAt": "2026-09-18T18:42:48.265Z",
   "nextMarketOpenMadrid": "2026-09-21T13:30:00.000Z",
   "scores": [
     {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "bullishProbability": 38,
+      "bullishProbability": 37,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "META",
-          "price": 673.19,
+          "price": 672.4,
           "previousClose": 682.31,
-          "changeRatio": -0.013366358400140539,
+          "changeRatio": -0.014524189884363367,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 759.2,
+          "price": 760.38,
           "previousClose": 762.6,
-          "changeRatio": -0.004458431681090974,
+          "changeRatio": -0.0029110936270653385,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "news": {
           "source": "news",
@@ -100,36 +100,48 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-18T15:41:47.390Z"
+      "computedAt": "2026-09-18T18:42:48.233Z"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "bullishProbability": 54,
+      "bullishProbability": 57,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "AMZN",
-          "price": 252.87,
+          "price": 253.5,
           "previousClose": 251.19,
-          "changeRatio": 0.006688164337752326,
+          "changeRatio": 0.009196225964409421,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:21.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 759.2,
+          "price": 760.38,
           "previousClose": 762.6,
-          "changeRatio": -0.004458431681090974,
+          "changeRatio": -0.0029110936270653385,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "AMZN",
-          "averageSentiment": 0.05333333333333333,
+          "averageSentiment": 0.03333333333333334,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+              "sentiment": 0
+            },
+            {
+              "text": "Which dow jones stocks are moving on Friday?",
+              "sentiment": 0
+            },
+            {
+              "text": "Rates Could Reach 4.5% On AI Spending, And Semiconductors Get Paid First",
+              "sentiment": 0
+            },
             {
               "text": "Prysmian and Rio Tinto Announce First Electrical Cables Made with ELYSIS(R) Technology Aluminum Contracted for Installation at Amazon Data Center",
               "sentiment": 0
@@ -145,6 +157,10 @@
             {
               "text": "Generac: Data Center Business Takes Off After Amazon Deal",
               "sentiment": 0
+            },
+            {
+              "text": "The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?",
+              "sentiment": -0.3
             },
             {
               "text": "GNRC Stock Heads For Best Week Since May: Amazon Deal Sparks Fresh Data Center Growth Bets, Analysts Say Generac Is Trading Cheap",
@@ -173,22 +189,6 @@
             {
               "text": "Traders Wary Of Rising AI Risks: Market Snapshot",
               "sentiment": 0.1
-            },
-            {
-              "text": "Ric Edelman Predicts $500,000 Bitcoin by 2030, Says BTC Could Follow Amazon’s 1999 Trajectory: ‘Everybody Owns It’",
-              "sentiment": 0
-            },
-            {
-              "text": "Amazon makes $1.5 billion move for U.S. workers",
-              "sentiment": 0
-            },
-            {
-              "text": "What Amazon.com (AMZN)'s US$8 Billion Backup Power Deal With Generac Means For Shareholders",
-              "sentiment": 0
-            },
-            {
-              "text": "Why Generac Stock Soared Today",
-              "sentiment": 0
             }
           ]
         },
@@ -200,36 +200,44 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-18T15:41:47.370Z"
+      "computedAt": "2026-09-18T18:42:48.249Z"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "bullishProbability": 43,
+      "bullishProbability": 46,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "AAPL",
-          "price": 334.49,
+          "price": 335.5,
           "previousClose": 337,
-          "changeRatio": -0.007448071216617184,
+          "changeRatio": -0.004451038575667656,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 759.2,
+          "price": 760.38,
           "previousClose": 762.6,
-          "changeRatio": -0.004458431681090974,
+          "changeRatio": -0.0029110936270653385,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "AAPL",
-          "averageSentiment": 0.08666666666666666,
+          "averageSentiment": 0.05333333333333333,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+              "sentiment": 0
+            },
+            {
+              "text": "Apple begins iPhone 18 rollout ahead of its biggest premium bet yet: the foldable Duo",
+              "sentiment": 0
+            },
             {
               "text": "Apple, Nvidia, Microsoft, Alphabet, and Amazon: I Ranked the 5 Largest Companies by Market Cap, and 1 Stands Above the Rest",
               "sentiment": 0
@@ -243,12 +251,20 @@
               "sentiment": 0.4
             },
             {
+              "text": "Apple's iPhone 18 Pro hits shelves: Here's what you need to know",
+              "sentiment": 0
+            },
+            {
               "text": "Stock Market Today: Dow Wavers As Oil Extends Losses; Apple, AMD In Buy Zones (Live Coverage)",
               "sentiment": -0.4
             },
             {
               "text": "BUZZ Investing: Rising Oil Prices And Treasury Yields Pressure Equities",
               "sentiment": 0.4
+            },
+            {
+              "text": "‘Daring Fireball’ blogger John Gruber reviews Apple’s new phones",
+              "sentiment": 0
             },
             {
               "text": "Apple Just Announced a Groundbreaking iPhone, but It Has Alienated a Key Market",
@@ -273,22 +289,6 @@
             {
               "text": "Forget the AI Bubble: VanEck’s Nick Frasse Explains How MU, SK Hynix, ASML, and TSMC Control the Pace of 'Token Factories'",
               "sentiment": 0
-            },
-            {
-              "text": "Biohacking Market Outlook 2026-2035 - Featuring Profiles of Apple, Fitbit, and Thync Global",
-              "sentiment": 0
-            },
-            {
-              "text": "Evercore ISI Group Maintains Outperform on Apple, Raises Price Target to $380",
-              "sentiment": 0.5
-            },
-            {
-              "text": "Apple’s Chip Strategy Keeps Paying Dividends",
-              "sentiment": 0
-            },
-            {
-              "text": "Performance Comparison: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
-              "sentiment": 0
             }
           ]
         },
@@ -300,38 +300,50 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-18T15:41:47.363Z"
+      "computedAt": "2026-09-18T18:42:48.242Z"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "bullishProbability": 54,
+      "bullishProbability": 58,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "GOOGL",
-          "price": 349.91,
+          "price": 351.1,
           "previousClose": 347.33,
-          "changeRatio": 0.007428094319523338,
+          "changeRatio": 0.010854230846745283,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:19.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 759.2,
+          "price": 760.38,
           "previousClose": 762.6,
-          "changeRatio": -0.004458431681090974,
+          "changeRatio": -0.0029110936270653385,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "GOOGL",
-          "averageSentiment": -0.06000000000000001,
+          "averageSentiment": -0.00666666666666668,
           "sampleSize": 15,
           "items": [
             {
+              "text": "Which dow jones stocks are moving on Friday?",
+              "sentiment": 0
+            },
+            {
+              "text": "The Latest On The AI Trade: What Actually Changed, And What Didn't",
+              "sentiment": 0
+            },
+            {
               "text": "Top S&P500 movers in Friday's pre-market session",
+              "sentiment": 0
+            },
+            {
+              "text": "Rates Could Reach 4.5% On AI Spending, And Semiconductors Get Paid First",
               "sentiment": 0
             },
             {
@@ -377,18 +389,6 @@
             {
               "text": "Tigress Financial Maintains Strong Buy on Alphabet, Raises Price Target to $485",
               "sentiment": 0.4
-            },
-            {
-              "text": "Warren Buffett Steps Down as Berkshire's Chair — Son Howard Takes to Succeed: 'Father Time Always Wins' (UPDATED)",
-              "sentiment": -0.2
-            },
-            {
-              "text": "Google Delays Thompson Center Opening to 2028 in Chicago",
-              "sentiment": -0.4
-            },
-            {
-              "text": "The Estée Lauder Cos.’ Aude Gandon on Taking the Right Career Risks",
-              "sentiment": -0.2
             }
           ]
         },
@@ -400,36 +400,40 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-18T15:41:47.379Z"
+      "computedAt": "2026-09-18T18:42:48.263Z"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "bullishProbability": 43,
+      "bullishProbability": 45,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "MSFT",
-          "price": 493.71,
+          "price": 495.04,
           "previousClose": 497.75,
-          "changeRatio": -0.008116524359618323,
+          "changeRatio": -0.005444500251130044,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:20.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 759.2,
+          "price": 760.38,
           "previousClose": 762.6,
-          "changeRatio": -0.004458431681090974,
+          "changeRatio": -0.0029110936270653385,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "MSFT",
-          "averageSentiment": 0.06666666666666668,
+          "averageSentiment": 0.053333333333333344,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Which dow jones stocks are moving on Friday?",
+              "sentiment": 0
+            },
             {
               "text": "Watch 5 Stocks on Recent Dividend Hikes Amid Rising Rates & Volatility",
               "sentiment": 0.4
@@ -441,6 +445,10 @@
             {
               "text": "Microsoft: The Distribution Advantage Is Worth More Than Another Model Breakthrough",
               "sentiment": 0.8
+            },
+            {
+              "text": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+              "sentiment": 0
             },
             {
               "text": "The “Magnificent Seven” Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
@@ -481,14 +489,6 @@
             {
               "text": "Microsoft (MSFT) Puts a Clock on Free Xbox Cloud Gaming",
               "sentiment": 0
-            },
-            {
-              "text": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
-              "sentiment": 0.2
-            },
-            {
-              "text": "This eVTOL Stock Could Turn $1,000 Into $100,000",
-              "sentiment": 0
             }
           ]
         },
@@ -500,36 +500,52 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-18T15:41:47.381Z"
+      "computedAt": "2026-09-18T18:42:48.257Z"
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "bullishProbability": 49,
+      "bullishProbability": 50,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "NVDA",
-          "price": 219.57,
+          "price": 219.36,
           "previousClose": 219.34,
-          "changeRatio": 0.0010486003464939809,
+          "changeRatio": 0.00009118263882561426,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 759.2,
+          "price": 760.38,
           "previousClose": 762.6,
-          "changeRatio": -0.004458431681090974,
+          "changeRatio": -0.0029110936270653385,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "NVDA",
-          "averageSentiment": -0.01333333333333333,
+          "averageSentiment": 0.05333333333333334,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+              "sentiment": 0
+            },
+            {
+              "text": "Which dow jones stocks are moving on Friday?",
+              "sentiment": 0
+            },
+            {
+              "text": "SpaceX: Don't Wait Till It Potentially Becomes The Largest AI Cloud",
+              "sentiment": 0
+            },
+            {
+              "text": "Nvidia stock is at he top of the laggards, says MAI Capital’s Chris Grisanti",
+              "sentiment": 0
+            },
             {
               "text": "NVIDIA (NASDAQ:NVDA): High-Growth Leadership and Strong Momentum",
               "sentiment": 0.4
@@ -573,22 +589,6 @@
             {
               "text": "Dario Amodei Just Admitted \"There Are Real Dangers\" in AI, Right as Anthropic Nears a $2 Trillion IPO With Back-to-Back Profitable Quarters. Should That Change How Investors Value the Listing?",
               "sentiment": 0.6
-            },
-            {
-              "text": "Dreamforce 2026: Business leaders say AI is moving too fast",
-              "sentiment": 0
-            },
-            {
-              "text": "Warren Buffett's Top Advice for Protecting Your Portfolio Before a Market Crash",
-              "sentiment": -1
-            },
-            {
-              "text": "Jensen Huang forecasts Nvidia chip sales to double in 2027",
-              "sentiment": 0
-            },
-            {
-              "text": "Meet the Under-the-Radar AI Stock Poised to Outgrow Nvidia",
-              "sentiment": 0
             }
           ]
         },
@@ -600,36 +600,40 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-18T15:41:47.388Z"
+      "computedAt": "2026-09-18T18:42:48.264Z"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "bullishProbability": 40,
+      "bullishProbability": 44,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "TSLA",
-          "price": 362.1,
+          "price": 363.73,
           "previousClose": 366.2,
-          "changeRatio": -0.011196067722555887,
+          "changeRatio": -0.006744948115783645,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 759.2,
+          "price": 760.38,
           "previousClose": 762.6,
-          "changeRatio": -0.004458431681090974,
+          "changeRatio": -0.0029110936270653385,
           "source": "finnhub",
-          "asOf": "2026-09-18T15:41:18.000Z"
+          "asOf": "2026-09-18T18:42:22.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "TSLA",
-          "averageSentiment": 0.026666666666666665,
+          "averageSentiment": 0.01333333333333333,
           "sampleSize": 15,
           "items": [
+            {
+              "text": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+              "sentiment": 0
+            },
             {
               "text": "BUZZ Investing: Rising Oil Prices And Treasury Yields Pressure Equities",
               "sentiment": 0.4
@@ -685,10 +689,6 @@
             {
               "text": "TSLA Trades About 20% Below Fair Value, Says Analyst — But Retail Stays Bearish Amid Cybercab Scrutiny, SpaceX Merger Buzz",
               "sentiment": -0.8
-            },
-            {
-              "text": "The Under-the-Radar Stock Big Money Is Quietly Buying Up",
-              "sentiment": 0.2
             }
           ]
         },
@@ -700,7 +700,7 @@
           "items": []
         }
       },
-      "computedAt": "2026-09-18T15:41:47.385Z"
+      "computedAt": "2026-09-18T18:42:48.260Z"
     }
   ]
 }
