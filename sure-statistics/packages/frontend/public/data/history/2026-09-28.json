@@ -1,0 +1,708 @@
+[
+  {
+    "generatedAt": "2026-09-28T14:40:04.945Z",
+    "nextMarketOpenMadrid": "2026-09-29T13:30:00.000Z",
+    "scores": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "bullishProbability": 24,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "META",
+            "price": 719.67,
+            "previousClose": 751.66,
+            "changeRatio": -0.042559135779474774,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.53,
+            "previousClose": 771.35,
+            "changeRatio": -0.006248784598431386,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "META",
+            "averageSentiment": -0.01333333333333333,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Stocks slip as bond yields rise, but Nvidia stock is rising: AlphaCheck",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Man says Meta's AI agent Muse shared his address, took a lowball offer and told a buyer he was home — nobody came down",
+                "sentiment": -0.2
+              },
+              {
+                "text": "3 tech stock charts you probably won't believe",
+                "sentiment": 0
+              },
+              {
+                "text": "CEO Predicts: “Demand Will Continue to Rise” as AMD and Intel Soar up to 17% Thanks to Muse",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Senate Democrats question Big Tech on AI tax breaks in \"one big beautiful bill\"",
+                "sentiment": 0
+              },
+              {
+                "text": "MongoDB stock tanks after Meta poaches CEO",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta Poaches MongoDB CEO “Effective Immediately” – Stock Sinks 24%",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Marvell vs. Broadcom: Which Custom AI Chip Stock Has More Room to Run?",
+                "sentiment": 0
+              },
+              {
+                "text": "MongoDB stock drops 15% as CEO Desai resigns for Meta",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Nvidia, Meta, SpaceX, Kodiak Sciences, MongoDB, Boeing, and More Stocks That Explain Today’s Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta Stock Pulls Back After Muse-Fueled Rally. What Investors Are Watching Next.",
+                "sentiment": 0.6
+              },
+              {
+                "text": "MongoDB Stock Sinks 16% as CEO Steps Down to ‘Pursue’ Role at Meta",
+                "sentiment": -0.4
+              },
+              {
+                "text": "OpenAI Pauses Training of AI Models. Why Trump Still Holds the Key.",
+                "sentiment": 0
+              },
+              {
+                "text": "AI’s hidden $3tn bill could wreck the world economy",
+                "sentiment": 0
+              },
+              {
+                "text": "These S&P500 stocks that are showing activity before the opening bell on Monday.",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "META",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-28T14:40:04.923Z"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "bullishProbability": 39,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AMZN",
+            "price": 247,
+            "previousClose": 249.67,
+            "changeRatio": -0.010694116233428076,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.53,
+            "previousClose": 771.35,
+            "changeRatio": -0.006248784598431386,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AMZN",
+            "averageSentiment": -0.02666666666666666,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "5 store concepts that launched in 2026",
+                "sentiment": 0
+              },
+              {
+                "text": "I’m Buying Microsoft Exec’s Tactical Assertion That He Supports an AI Killswitch",
+                "sentiment": 0
+              },
+              {
+                "text": "Senate Democrats question Big Tech on AI tax breaks in \"one big beautiful bill\"",
+                "sentiment": 0
+              },
+              {
+                "text": "365 Retail Markets and Evergreen Refreshments Bring Just Walk Out Technology by Amazon to Lake Washington Institute of Technology",
+                "sentiment": 0
+              },
+              {
+                "text": "Veho Names Ronak Patel Senior Vice President of Supply Chain",
+                "sentiment": 0
+              },
+              {
+                "text": "OpenAI, Anthropic CEOs Asked to Appear at Australian AI Inquiry",
+                "sentiment": 0
+              },
+              {
+                "text": "The $600 Billion AI Opportunity Behind Oracle, We See 51% Upside",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon’s AI Capex Is Paying Off and I’m Buying",
+                "sentiment": 0
+              },
+              {
+                "text": "Update: Apple, Amazon Face Renewed UK Consumer Lawsuit",
+                "sentiment": -0.6
+              },
+              {
+                "text": "ACI Worldwide and Cognizant Complete BASE24-eps Performance Testing on AWS",
+                "sentiment": 0
+              },
+              {
+                "text": "Walmart CEO Assures Shoppers AI Won’t Lead to Surge Pricing",
+                "sentiment": 0.8
+              },
+              {
+                "text": "The economist who coined the phrase ‘Magnificent 7’ says the very thing that made them extraordinary is under threat",
+                "sentiment": 0
+              },
+              {
+                "text": "NIQ Expands Health & Beauty Measurement to Capture $56 Billion in Amazon Marketplace Sales",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple and Amazon Face UK Consumer Lawsuit Over Marketplace Sales",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AMZN",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-28T14:40:04.898Z"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "bullishProbability": 49,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AAPL",
+            "price": 341.06,
+            "previousClose": 341.07,
+            "changeRatio": -0.000029319494531887603,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.53,
+            "previousClose": 771.35,
+            "changeRatio": -0.006248784598431386,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AAPL",
+            "averageSentiment": 0.08666666666666666,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Nvidia stock jumps after largest share buyback ever",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Nvidia to hand investors record $150bn after AI profit boom",
+                "sentiment": 0.5
+              },
+              {
+                "text": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple hit with $5.7 billion jury verdict over haptic patents",
+                "sentiment": 0
+              },
+              {
+                "text": "Federal Jury Orders Apple to Pay $5.7 Billion Over Haptics Patent Infringement Case",
+                "sentiment": 0
+              },
+              {
+                "text": "Nvidia Stock Rises on $150 Billion Buyback Plan. It’ll Soothe Fears Over Its AI Investments.",
+                "sentiment": 0.2
+              },
+              {
+                "text": "AI’s hidden $3tn bill could wreck the world economy",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Is the Best-Performing \"Magnificent Seven\" Stock This Year. But It Has Still Lagged This Unassuming Dividend Stock (That Remains a Top Buy Now).",
+                "sentiment": 0
+              },
+              {
+                "text": "Nvidia adds record $150 billion to stock buyback push",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Apple and Nvidia Just Delivered a Major Boost for TSMC Chip Business",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Update: Apple, Amazon Face Renewed UK Consumer Lawsuit",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Jefferies sees signs of softer iPhone 18 demand",
+                "sentiment": 0.2
+              },
+              {
+                "text": "The economist who coined the phrase ‘Magnificent 7’ says the very thing that made them extraordinary is under threat",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple and Amazon Face UK Consumer Lawsuit Over Marketplace Sales",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AAPL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-28T14:40:04.932Z"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "bullishProbability": 42,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "GOOGL",
+            "price": 341.34,
+            "previousClose": 343.92,
+            "changeRatio": -0.0075017445917656455,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.53,
+            "previousClose": 771.35,
+            "changeRatio": -0.006248784598431386,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "GOOGL",
+            "averageSentiment": 0.04000000000000001,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "I’m Buying Microsoft Exec’s Tactical Assertion That He Supports an AI Killswitch",
+                "sentiment": 0
+              },
+              {
+                "text": "Senate Democrats question Big Tech on AI tax breaks in \"one big beautiful bill\"",
+                "sentiment": 0
+              },
+              {
+                "text": "Marvell vs. Broadcom: Which Custom AI Chip Stock Has More Room to Run?",
+                "sentiment": 0
+              },
+              {
+                "text": "OpenAI, Anthropic CEOs Asked to Appear at Australian AI Inquiry",
+                "sentiment": 0
+              },
+              {
+                "text": "Lowe’s test drives drone delivery",
+                "sentiment": 0
+              },
+              {
+                "text": "Musk: Space Will “Round up to 100%” of Compute as Google Reveals Imminent Orbital Data Center Launch",
+                "sentiment": 0.2
+              },
+              {
+                "text": "AI’s hidden $3tn bill could wreck the world economy",
+                "sentiment": 0
+              },
+              {
+                "text": "The AI Conference Unveils Full Agenda, Bringing Applied Insights From the AI Builders at Anthropic, NVIDIA, OpenAI, and More",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon’s AI Capex Is Paying Off and I’m Buying",
+                "sentiment": 0
+              },
+              {
+                "text": "Mona Raises $3.5M to Expand Its AI Platform for Small Business Capital Access and Financial Coaching",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Citadel broadens quant hiring from AI research labs – report",
+                "sentiment": 0
+              },
+              {
+                "text": "These AI Stocks Took Off Or Tumbled In Q3. Here's Why.",
+                "sentiment": 0
+              },
+              {
+                "text": "Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "The economist who coined the phrase ‘Magnificent 7’ says the very thing that made them extraordinary is under threat",
+                "sentiment": 0
+              },
+              {
+                "text": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "GOOGL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-28T14:40:04.945Z"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "bullishProbability": 34,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "MSFT",
+            "price": 506.93,
+            "previousClose": 516.17,
+            "changeRatio": -0.0179010791018462,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.53,
+            "previousClose": 771.35,
+            "changeRatio": -0.006248784598431386,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "MSFT",
+            "averageSentiment": 0.05333333333333334,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Konica Minolta Earns Leader Designation in Quocirca Print Security Landscape 2026",
+                "sentiment": 0
+              },
+              {
+                "text": "I’m Buying Microsoft Exec’s Tactical Assertion That He Supports an AI Killswitch",
+                "sentiment": 0
+              },
+              {
+                "text": "Senate Democrats question Big Tech on AI tax breaks in \"one big beautiful bill\"",
+                "sentiment": 0
+              },
+              {
+                "text": "OpenAI, Anthropic CEOs Asked to Appear at Australian AI Inquiry",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft Rolls Out Refreshed Copilot App as Stock Lags Megacap Peers",
+                "sentiment": 0
+              },
+              {
+                "text": "AI’s hidden $3tn bill could wreck the world economy",
+                "sentiment": 0
+              },
+              {
+                "text": "The $600 Billion AI Opportunity Behind Oracle, We See 51% Upside",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon’s AI Capex Is Paying Off and I’m Buying",
+                "sentiment": 0
+              },
+              {
+                "text": "Darwinbox Among the Top Two HCM Vendors Globally for Applied AI in the 2026 Gartner® Critical Capabilities",
+                "sentiment": 0
+              },
+              {
+                "text": "Take the Zacks Approach to Beat the Markets: Bloom Energy, Microsoft & Amgen in Focus",
+                "sentiment": 0.8
+              },
+              {
+                "text": "These AI Stocks Took Off Or Tumbled In Q3. Here's Why.",
+                "sentiment": 0
+              },
+              {
+                "text": "Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "IREN’s Yearlong Downward Trend Continues: A Prominent Wall Street Firm Says It Will Double and Then Some",
+                "sentiment": 0
+              },
+              {
+                "text": "The economist who coined the phrase ‘Magnificent 7’ says the very thing that made them extraordinary is under threat",
+                "sentiment": 0
+              },
+              {
+                "text": "Trust the customers, not the loudest online critics: Stagwell CEO",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "MSFT",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-28T14:40:04.939Z"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "bullishProbability": 71,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "NVDA",
+            "price": 230.86,
+            "previousClose": 225.07,
+            "changeRatio": 0.025725329897365357,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.53,
+            "previousClose": 771.35,
+            "changeRatio": -0.006248784598431386,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "NVDA",
+            "averageSentiment": 0.22666666666666666,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Prediction: This Will Be Micron Technology’s Stock Price by the End of 2026",
+                "sentiment": 0
+              },
+              {
+                "text": "Trump hosted Anthropic's CEO for dinner at the White House. Here's why that matters.",
+                "sentiment": 0
+              },
+              {
+                "text": "Is QuantumScape a Lost Cause?",
+                "sentiment": 0
+              },
+              {
+                "text": "Is Costco's Stock Overdue for a Big Rally?",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Stock Market Today: Dow Falls, Trump Rejects Iran Deal; Oil, Yields Jump As Nvidia Rises On Buyback (Live Coverage)",
+                "sentiment": 0.3
+              },
+              {
+                "text": "Stocks slip as bond yields rise, but Nvidia stock is rising: AlphaCheck",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Nvidia stock jumps after largest share buyback ever",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Nvidia to hand investors record $150bn after AI profit boom",
+                "sentiment": 0.5
+              },
+              {
+                "text": "3 Key IRA Moves to Make a Year Before You Retire",
+                "sentiment": 0
+              },
+              {
+                "text": "CEO Predicts: “Demand Will Continue to Rise” as AMD and Intel Soar up to 17% Thanks to Muse",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Could This Mid-Cap GLP-1 Stock Be a Better Buy Than Eli Lilly?",
+                "sentiment": 0
+              },
+              {
+                "text": "Prediction: This Lesser-Known ETF Will Be the Best Bear Market Buy",
+                "sentiment": 0
+              },
+              {
+                "text": "Nvidia latest: What to know about its new AI security system & stock buyback increase",
+                "sentiment": 0.6
+              },
+              {
+                "text": "ServiceNow Stock And 2 AI Security Plays Worth Watching Now",
+                "sentiment": 0
+              },
+              {
+                "text": "Marvell vs. Broadcom: Which Custom AI Chip Stock Has More Room to Run?",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "NVDA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-28T14:40:04.917Z"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "bullishProbability": 24,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "TSLA",
+            "price": 361.17,
+            "previousClose": 372.11,
+            "changeRatio": -0.029399908629168785,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.53,
+            "previousClose": 771.35,
+            "changeRatio": -0.006248784598431386,
+            "source": "finnhub",
+            "asOf": "2026-09-28T14:39:41.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "TSLA",
+            "averageSentiment": -0.06666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Stocks slip as bond yields rise, but Nvidia stock is rising: AlphaCheck",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+                "sentiment": 0
+              },
+              {
+                "text": "EXCLUSIVE: Faraday Chairman Warns Cutting China Out of US Robot Supply Chain Too Fast Could Backfire",
+                "sentiment": -0.5
+              },
+              {
+                "text": "Tesla Faces Q3 Delivery Test — JPMorgan Cuts Forecast, Flags Weakness In Two Key Markets",
+                "sentiment": -0.4
+              },
+              {
+                "text": "My Tesla Stock Price Prediction Hinges on One Massive Opportunity",
+                "sentiment": 0
+              },
+              {
+                "text": "3 Growth Stocks with Warning Signs",
+                "sentiment": -0.1
+              },
+              {
+                "text": "Tesla Deliveries Are Coming but the Stock Has a Bigger Catalyst First",
+                "sentiment": 0
+              },
+              {
+                "text": "Elon Musk's Tesla and SpaceX have a huge week on tap",
+                "sentiment": 0
+              },
+              {
+                "text": "Prediction: Tesla Stock Will Plunge to $100 if the S&P 500 Enters a Bear Market",
+                "sentiment": -0.8
+              },
+              {
+                "text": "The economist who coined the phrase ‘Magnificent 7’ says the very thing that made them extraordinary is under threat",
+                "sentiment": 0
+              },
+              {
+                "text": "This Week In Electric Vehicles - Racing Into The Future: Global Mobility Revolution",
+                "sentiment": 0
+              },
+              {
+                "text": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
+                "sentiment": 0
+              },
+              {
+                "text": "MAG 7 Voices: Jensen Huang, Elon Musk, Mark Zuckerberg Shape A Week Of AI Debate",
+                "sentiment": 0
+              },
+              {
+                "text": "Update: Market Chatter: AI Chip Startup DensityAI in Talks to Raise Hundreds of Millions of Dollars in Funding Round",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Trump Administration Ends Fuel Economy Credit Trading In 2028",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-09-28T14:40:04.903Z"
+      }
+    ]
+  }
+]
