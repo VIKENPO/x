@@ -1,0 +1,708 @@
+[
+  {
+    "generatedAt": "2026-10-15T12:14:10.351Z",
+    "nextMarketOpenMadrid": "2026-10-15T13:30:00.000Z",
+    "scores": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "bullishProbability": 23,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "META",
+            "price": 737.54,
+            "previousClose": 762.5,
+            "changeRatio": -0.03273442622950824,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 769.6,
+            "previousClose": 778.01,
+            "changeRatio": -0.010809629696276357,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "META",
+            "averageSentiment": 0.08,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Meta has an AI advantage OpenAI and Anthropic can't replicate",
+                "sentiment": 0
+              },
+              {
+                "text": "Why CoreWeave stock panic matters to Nvidia, explained in under 30 seconds",
+                "sentiment": 0
+              },
+              {
+                "text": "Agentic AI Could Push This Trillion-Dollar Chipmaker to New Heights, According to Wall Street Analysts",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Could Dominate the Agentic AI Market With Siri. Just Not This Siri.",
+                "sentiment": 0
+              },
+              {
+                "text": "Alibaba: Enough Fuel To Power The Trillion-RMB Cloud Machine",
+                "sentiment": 0
+              },
+              {
+                "text": "Wedgewood Partners Q3 2026 Portfolio Activity",
+                "sentiment": 0
+              },
+              {
+                "text": "Polen Focus Growth Portfolio Q3 2026 Portfolio Update",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does.",
+                "sentiment": 0
+              },
+              {
+                "text": "MongoDB lets apps pay only for what they use",
+                "sentiment": 0
+              },
+              {
+                "text": "BofA sees ChatGPT taking aim at Google’s next ad dollar",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta: The Muse Rally Has Priced In The Good News Before Q3",
+                "sentiment": 0.6
+              },
+              {
+                "text": "What Does AppLovin Offer That Omnicom Does Not?",
+                "sentiment": 0
+              },
+              {
+                "text": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Gene Munster Flags Meta’s Muse As A Bigger Risk To Google Search Than ChatGPT",
+                "sentiment": -0.2
+              },
+              {
+                "text": "3 Trillion-Dollar Giants That Could Be the Next Big Stock-Split Plays",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "META",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-15T12:14:10.351Z"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "bullishProbability": 33,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AMZN",
+            "price": 254.08,
+            "previousClose": 258.58,
+            "changeRatio": -0.0174027380307834,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 769.6,
+            "previousClose": 778.01,
+            "changeRatio": -0.010809629696276357,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AMZN",
+            "averageSentiment": 0.04000000000000001,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Here's What a $10,000 Investment in IonQ Could Be Worth by October 2027",
+                "sentiment": 0
+              },
+              {
+                "text": "Big Tech Will Spend $745 Billion on AI This Year. These Stocks Get Paid on Every Dollar.",
+                "sentiment": 0
+              },
+              {
+                "text": "Kroger lost $12 billion to Walmart and Amazon in one year — now 3,000 workers are losing their jobs as SNAP cuts hit",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Satya Nadella’s Call for an AI Killswitch is a Hyperscaler Powerplay to Buy",
+                "sentiment": 0
+              },
+              {
+                "text": "If I Can Only Own Alphabet or Amazon for The Next 5 Years, I’m Choosing This One",
+                "sentiment": 0
+              },
+              {
+                "text": "Update: Market Chatter: Anthropic Revenue Hits $16.8 Billion in Q3, AI-Modeler Cash Flow Positive",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Is Corning (GLW) Quietly Redefining Its AI and Life Sciences Edge With New Long-Term Deals?",
+                "sentiment": 0
+              },
+              {
+                "text": "The Biggest ‘Schumps:’ From SpaceX to IMAX, We Scored the Disruptors",
+                "sentiment": 0
+              },
+              {
+                "text": "Alibaba: Enough Fuel To Power The Trillion-RMB Cloud Machine",
+                "sentiment": 0
+              },
+              {
+                "text": "Wedgewood Partners Q3 2026 Portfolio Activity",
+                "sentiment": 0
+              },
+              {
+                "text": "Will OpenAI Go Public? One VC Says ‘Not Really Sure They Mean It’ But Bets On ‘Blockbuster’ Anthropic Listing",
+                "sentiment": 0
+              },
+              {
+                "text": "Payoneer Checkout Launches in Singapore, Helping Businesses Turn Global Demand into Revenue",
+                "sentiment": 0.2
+              },
+              {
+                "text": "What Would It Take For Synopsys Stock To Move Higher?",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Is Netflix Stock Worth More Than Its Competitors?",
+                "sentiment": 0
+              },
+              {
+                "text": "Kroger makes a pivotal decision as customers turn to rivals",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AMZN",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-15T12:14:10.317Z"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "bullishProbability": 51,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AAPL",
+            "price": 342.96,
+            "previousClose": 341.27,
+            "changeRatio": 0.004952090719957798,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 769.6,
+            "previousClose": 778.01,
+            "changeRatio": -0.010809629696276357,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AAPL",
+            "averageSentiment": 0.12444444444444444,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Apple Intelligence Gets a China Launch Date, but Apple’s China Sales Were Already Up 22%",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Broadcom vs. SK Hynix: Which Technology Stock Is a Better Buy in 2026?",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Needs Just a 7% Gain to Become the World’s Most Valuable Company",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today’s Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Premarket Movers: AAPL Gains On China AI Approval Report — Why WMT, NFLX Stocks Are Also Rising",
+                "sentiment": 0.4666666666666667
+              },
+              {
+                "text": "Taiwan chipmaker TSMC explores Texas investment to expand production in the US",
+                "sentiment": 0
+              },
+              {
+                "text": "Can robust TSMC earnings help settle AI jitters?",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Now Faces Its Own Trade-Secret Claims From OpenAI.",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Could Dominate the Agentic AI Market With Siri. Just Not This Siri.",
+                "sentiment": 0
+              },
+              {
+                "text": "Omdia: Global Smartphone Market Shrinks 20% in 3Q26 as Memory Crisis Reshapes Competition",
+                "sentiment": 0
+              },
+              {
+                "text": "Can Apple Overtake Nvidia as the World's Largest Company in 2027?",
+                "sentiment": 0
+              },
+              {
+                "text": "Wall Street Breakfast Podcast: CoreWeave CEO Defends The Math",
+                "sentiment": 0
+              },
+              {
+                "text": "Wedgewood Partners Q3 2026 Portfolio Activity",
+                "sentiment": 0
+              },
+              {
+                "text": "Polen Focus Growth Portfolio Q3 2026 Portfolio Update",
+                "sentiment": 0.4
+              },
+              {
+                "text": "TSMC’s Profit Surpasses Expectations After AI Orders Rush In",
+                "sentiment": 0.4
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AAPL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-15T12:14:10.312Z"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "bullishProbability": 33,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "GOOGL",
+            "price": 347.64,
+            "previousClose": 353.78,
+            "changeRatio": -0.017355418621742287,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 769.6,
+            "previousClose": 778.01,
+            "changeRatio": -0.010809629696276357,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "GOOGL",
+            "averageSentiment": 0.06666666666666668,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "AEP to invest $4bn in 702MW fuel cell project for Google",
+                "sentiment": 0
+              },
+              {
+                "text": "OpenAI’s average basic pay for British staff hits £794,000",
+                "sentiment": 0
+              },
+              {
+                "text": "Alibaba: Enough Fuel To Power The Trillion-RMB Cloud Machine",
+                "sentiment": 0
+              },
+              {
+                "text": "Google Just Started Paying SpaceX $920 Million a Month. Here's What That's Worth per Share.",
+                "sentiment": 0
+              },
+              {
+                "text": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
+                "sentiment": 0
+              },
+              {
+                "text": "BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google",
+                "sentiment": 0
+              },
+              {
+                "text": "Will OpenAI Go Public? One VC Says ‘Not Really Sure They Mean It’ But Bets On ‘Blockbuster’ Anthropic Listing",
+                "sentiment": 0
+              },
+              {
+                "text": "Mamdani's $29M quantum deal sparks panic: 'Is Zohran coming for our coins..'",
+                "sentiment": 0
+              },
+              {
+                "text": "ByteDance in Talks to Secure MediaTek AI Chips for Data Centers",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Is Everyone Ignoring Zoom Stock's High Cash Yield?",
+                "sentiment": 0
+              },
+              {
+                "text": "BofA sees ChatGPT taking aim at Google’s next ad dollar",
+                "sentiment": 0
+              },
+              {
+                "text": "Prediction: Alphabet Will Soar After Oct. 28",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Is Xero’s (ASX:XRO) Google Gemini Integration Quietly Rewiring Its AI Platform Ambitions?",
+                "sentiment": 0
+              },
+              {
+                "text": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Gene Munster Flags Meta’s Muse As A Bigger Risk To Google Search Than ChatGPT",
+                "sentiment": -0.2
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "GOOGL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-15T12:14:10.299Z"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "bullishProbability": 32,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "MSFT",
+            "price": 533.69,
+            "previousClose": 543.45,
+            "changeRatio": -0.01795933388536202,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 769.6,
+            "previousClose": 778.01,
+            "changeRatio": -0.010809629696276357,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "MSFT",
+            "averageSentiment": 0.05333333333333334,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Microsoft Had Its Best Quarter in 28 Years. Is it Too Late to Buy the Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Hornetsecurity by Proofpoint introduces new capabilities to support secure AI adoption for organisations using Microsoft 365",
+                "sentiment": 0
+              },
+              {
+                "text": "Will Yum! Brands' (YUM) AI-Driven Operations and Supplier Strategy Shift Its Post-Pizza Hut Narrative?",
+                "sentiment": 0
+              },
+              {
+                "text": "Alibaba: Enough Fuel To Power The Trillion-RMB Cloud Machine",
+                "sentiment": 0
+              },
+              {
+                "text": "Wedgewood Partners Q3 2026 Portfolio Activity",
+                "sentiment": 0
+              },
+              {
+                "text": "Polen Focus Growth Portfolio Q3 2026 Portfolio Update",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Will OpenAI Go Public? One VC Says ‘Not Really Sure They Mean It’ But Bets On ‘Blockbuster’ Anthropic Listing",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Is Everyone Ignoring Zoom Stock's High Cash Yield?",
+                "sentiment": 0
+              },
+              {
+                "text": "Is Xero’s (ASX:XRO) Google Gemini Integration Quietly Rewiring Its AI Platform Ambitions?",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For?",
+                "sentiment": 0
+              },
+              {
+                "text": "Should You Be Worried About Take-Two Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "3 Trillion-Dollar Giants That Could Be the Next Big Stock-Split Plays",
+                "sentiment": 0
+              },
+              {
+                "text": "Should Honeywell’s AI Push and Kenya Megarefinery Win Require Action From Honeywell International (HON) Investors?",
+                "sentiment": 0.4
+              },
+              {
+                "text": "CPI Pressures Markets And Fed Reserve's Move On Interest Rates",
+                "sentiment": 0
+              },
+              {
+                "text": "Sara Eisen Went on Bill Maher and Said What Wall Street Will Not About the AI Race",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "MSFT",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-15T12:14:10.296Z"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "bullishProbability": 23,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "NVDA",
+            "price": 221.3,
+            "previousClose": 228.52,
+            "changeRatio": -0.03159460878697706,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 769.6,
+            "previousClose": 778.01,
+            "changeRatio": -0.010809629696276357,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "NVDA",
+            "averageSentiment": 0.04000000000000002,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "TSMC posts record profit amid 'extremely robust demand' for AI chips",
+                "sentiment": 0.5
+              },
+              {
+                "text": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Most New Investors Pick the Wrong Stocks First. Here's What I'd Buy Instead.",
+                "sentiment": 0
+              },
+              {
+                "text": "15-Minute Markets For Cryptocurrency Prices Are Surging in Popularity. It's Easy to Predict What Happens Next.",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Taiwan chipmaker TSMC explores Texas investment to expand production in the US",
+                "sentiment": 0
+              },
+              {
+                "text": "What Is the Stock Market? It's Not a Casino. Here's How I Filter Winners From Losers.",
+                "sentiment": 0
+              },
+              {
+                "text": "5 Stocks to Start With if You Only Have $1,000",
+                "sentiment": 0
+              },
+              {
+                "text": "Can robust TSMC earnings help settle AI jitters?",
+                "sentiment": 0
+              },
+              {
+                "text": "Why CoreWeave stock panic matters to Nvidia, explained in under 30 seconds",
+                "sentiment": 0
+              },
+              {
+                "text": "Vistra Stock Surged Following Its $4.2 Billion Federal Loan. With the Stock Down 23% Over the Past Year, Is It Time to Buy?",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Citigroup Raises Its 12-Month Price Target for Bitcoin to $113,000. These Are the 3 Catalysts Investors Need to Watch.",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Better Buy Right Now: Bitcoin vs. Shiba Inu",
+                "sentiment": 0
+              },
+              {
+                "text": "A Staggering 84% of S&P 500 Stocks Are Now in Correction Territory, and History Says This Foreshadows Disaster for Wall Street",
+                "sentiment": 0
+              },
+              {
+                "text": "2 Glorious Growth Stocks to Buy Hand Over Fist If the Stock Market Crashes",
+                "sentiment": -0.3
+              },
+              {
+                "text": "History Suggests Micron Stock Will Crash and Take Decades to Recover. Is This Time Different?",
+                "sentiment": -1
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "NVDA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-15T12:14:10.314Z"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "bullishProbability": 28,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "TSLA",
+            "price": 367.16,
+            "previousClose": 375.23,
+            "changeRatio": -0.021506809157050322,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 769.6,
+            "previousClose": 778.01,
+            "changeRatio": -0.010809629696276357,
+            "source": "finnhub",
+            "asOf": "2026-10-14T20:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "TSLA",
+            "averageSentiment": -0.07333333333333333,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "TSMC posts record profit amid 'extremely robust demand' for AI chips",
+                "sentiment": 0.5
+              },
+              {
+                "text": "Barclays Expects Tesla-SpaceX Merger Announcement Ahead of December Shareholder Meeting",
+                "sentiment": 0
+              },
+              {
+                "text": "Is Korea’s Memory Chip Boom Ending? Elon Musk Points to China",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Are Nasdaq Futures Sinking Premarket? CRWV, MU, TSM, SKHY, IBRX, RKLB, TSLA Stocks In Focus",
+                "sentiment": -0.6
+              },
+              {
+                "text": "The 1 Thing I'd Want Elon Musk to Answer on Tesla's Oct. 21 Call",
+                "sentiment": 0
+              },
+              {
+                "text": "TSMC Open to Working With Terafab But Must Control Plants",
+                "sentiment": 0
+              },
+              {
+                "text": "Elon Musk Sees SpaceX Topping $100 Trillion In Under 10 Years — Retail Eyes Tesla Merger Reveal At Roadster Event",
+                "sentiment": 0
+              },
+              {
+                "text": "Analyst Sees TSLA-SPCX Merger Coming By December, but Prediction Markets Aren’t Buying It",
+                "sentiment": 0
+              },
+              {
+                "text": "TSLA Stock Slips Overnight Ahead Of Roadster Event — Elon Musk Promises ‘Greatest Product Demo Of All Time’",
+                "sentiment": 0
+              },
+              {
+                "text": "Elon Musk Sees ‘Almost All Cars’ Going Electric as Gasoline-Only Vehicles Fall Below Half of Global Sales",
+                "sentiment": -0.4
+              },
+              {
+                "text": "How Laptops Brought EVs Back From The Dead",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla's Elon Musk Might Have Gone Back on His Word, but It's Working in China",
+                "sentiment": 0
+              },
+              {
+                "text": "What Does Tesla (TSLA) NHTSA School Zone Probe Mean For Robotaxis?",
+                "sentiment": -0.6
+              },
+              {
+                "text": "What Is Rivian Building That Investors Should Watch?",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-15T12:14:10.308Z"
+      }
+    ]
+  }
+]
