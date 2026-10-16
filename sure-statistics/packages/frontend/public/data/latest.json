@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:12:22.229Z",
+  "generatedAt": "2026-10-16T11:59:04.916Z",
   "nextMarketOpenMadrid": "2026-10-16T13:30:00.000Z",
   "scores": [
     {
@@ -10,85 +10,85 @@
       "breakdown": {
         "quote": {
           "symbol": "META",
-          "price": 736.59,
+          "price": 736.72,
           "previousClose": 737.54,
-          "changeRatio": -0.001288065732028001,
+          "changeRatio": -0.0011118041055399523,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:02.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.23,
+          "price": 771.79,
           "previousClose": 769.6,
-          "changeRatio": 0.0008186070686070627,
+          "changeRatio": 0.0028456340956340186,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:01.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "META",
-          "averageSentiment": 0.05333333333333334,
+          "averageSentiment": -0.01333333333333333,
           "sampleSize": 15,
           "items": [
             {
-              "text": "Senators Want to Know Why Meta Claimed $6.6 Billion in Research Tax Credits for AI Data Centers",
-              "sentiment": 0
-            },
-            {
-              "text": "Meta Platforms Investors Look Forward to Understanding AI Assistant Muse's ROI, Oppenheimer Says",
-              "sentiment": 0
-            },
-            {
-              "text": "Anthropic Is Growing 50%, Microsoft Isn’t",
+              "text": "Meta Platforms (NASDAQ:META) Offers Strong Growth and a Constructive Technical Setup",
               "sentiment": 0.4
             },
             {
-              "text": "Robots & Pencils Acquires Tiger Pistol to Scale Reusable Agentic Patterns into Products",
+              "text": "Meta’s Two-Track Strategy Is Now Explicit – and the Gap Is the Moat",
               "sentiment": 0
             },
             {
-              "text": "Meta’s AI Spending Is Massive. The Payoff Could Be Even Bigger",
+              "text": "Does Muse Wonder Launch Change The Bull Case For Meta Stock?",
               "sentiment": 0
             },
             {
-              "text": "Consumer goods giants step up ad intensity as other big spenders pull back: report",
-              "sentiment": 0.2
-            },
-            {
-              "text": "From Search Destruction to Efficiency, I Have Faith in Alphabet’s Abilities",
+              "text": "Meta Releases Muse Spark Open With an Unlikely Assist From Apple: Why It Can Afford to Give It Away",
               "sentiment": 0
             },
             {
-              "text": "Unum Group Declares Quarterly Dividend of $0.505 Per Share of Its Common Stock",
+              "text": "What Amazon.com (AMZN)'s AI Shopping Bot Block Means For Shareholders",
               "sentiment": 0
             },
             {
-              "text": "Meta's Muse Agent Is a Massive Hit. I'm Still Not Sold on Meta Stock.",
+              "text": "Look How Much Money the AI Gods Are Giving Away",
               "sentiment": 0
             },
             {
-              "text": "Musk floats Amazon rival as AI shopping battle comes into focus",
+              "text": "Jamie Dimon Warns AI Agents That Make Payments on Your Behalf ‘May Not’ Act Properly: AI Revolution Like a ‘Tsunami’ That Must Be Managed",
+              "sentiment": -0.6
+            },
+            {
+              "text": "Anthropic’s $2 Trillion IPO Dream Meets a $1.5 Trillion Reality Check",
               "sentiment": 0
             },
             {
-              "text": "Prediction: Broadcom Could Be the AI Winner After Nvidia",
+              "text": "AI's Credit Scare Is Sorting The Strong From The Borrowed",
+              "sentiment": 0.4
+            },
+            {
+              "text": "Samsung’s AI glasses make a bold bet against Meta",
               "sentiment": 0
             },
             {
-              "text": "What's going on with CoreWeave?",
+              "text": "Review & Preview: Bounce Back",
               "sentiment": 0
             },
             {
-              "text": "The Stock Market Will Look Completely Different by 2030. This Is the Stock I'm Buying Before It Does.",
+              "text": "Dow Sees Best Day In Over A Month As Investors Rotate Out Of AI Trade On Overspending Concerns — CRWV, META, SPCX, PEP In Focus",
+              "sentiment": -0.4
+            },
+            {
+              "text": "Here Are the 3 Magnificent Seven Stocks I'd Buy Today",
               "sentiment": 0
             },
             {
-              "text": "Discounted Valuation and AI Compute Potential Create Entry Point in Meta Platforms (META)",
+              "text": "3 Chip Stocks to Buy Before Big Tech Reports Its Spending Plans",
               "sentiment": 0
             },
             {
-              "text": "Alphabet Stock Can Soar 24%, JPMorgan Says. Why Google Can Defy AI Fears.",
-              "sentiment": 0.2
+              "text": "AppLovin Stock Has One Thing Left To Prove",
+              "sentiment": 0
             }
           ]
         },
@@ -100,94 +100,94 @@
           "items": []
         }
       },
-      "computedAt": "2026-10-15T17:12:22.216Z"
+      "computedAt": "2026-10-16T11:59:04.913Z"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "bullishProbability": 49,
+      "bullishProbability": 53,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "AMZN",
-          "price": 253.47,
+          "price": 254.76,
           "previousClose": 254.08,
-          "changeRatio": -0.002400818639798542,
+          "changeRatio": 0.002676322418135935,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:02.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.23,
+          "price": 771.79,
           "previousClose": 769.6,
-          "changeRatio": 0.0008186070686070627,
+          "changeRatio": 0.0028456340956340186,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:01.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "AMZN",
-          "averageSentiment": 0.06666666666666667,
+          "averageSentiment": -0.04,
           "sampleSize": 15,
           "items": [
             {
-              "text": "These dow jones stocks are moving in today's session",
+              "text": "What Amazon.com (AMZN)'s AI Shopping Bot Block Means For Shareholders",
               "sentiment": 0
             },
             {
-              "text": "Top Midday Stories: Anthropic Reports $16.8 Billion in Q3 Revenue; CoreWeave's Credit Risk Hits Intraday High",
-              "sentiment": -0.2
-            },
-            {
-              "text": "Amazon sells smart thermostats, towel warmers, heated gloves, and more starting at $14",
-              "sentiment": 0
-            },
-            {
-              "text": "5 Growth Stocks With Home Run Potential",
+              "text": "AI's Credit Scare Is Sorting The Strong From The Borrowed",
               "sentiment": 0.4
             },
             {
-              "text": "Why Reports About Anthropic's Revenue Are Adding To AI Stock Woes",
+              "text": "Here Are the 3 Magnificent Seven Stocks I'd Buy Today",
               "sentiment": 0
             },
             {
-              "text": "Anthropic Is Growing 50%, Microsoft Isn’t",
-              "sentiment": 0.4
-            },
-            {
-              "text": "Here's What $5,000 Invested in Nvidia Stock Could Be Worth by the End of 2030",
+              "text": "Elon Musk wants to start an Amazon competitor after Grok bot users say the company blocked them from placing orders",
               "sentiment": 0
             },
             {
-              "text": "Ryan Israel on Investing Beyond AI",
+              "text": "How to Play AMZN Stock Amid the Latest Round of Amazon Layoffs",
+              "sentiment": -0.6
+            },
+            {
+              "text": "3 Chip Stocks to Buy Before Big Tech Reports Its Spending Plans",
               "sentiment": 0
             },
             {
-              "text": "Robots & Pencils Acquires Tiger Pistol to Scale Reusable Agentic Patterns into Products",
+              "text": "Elon Musk has shopping advice after Amazon blocks his AI",
               "sentiment": 0
             },
             {
-              "text": "Why OKX And NYSE Are Going All-In on 24/7 Stock Trading",
+              "text": "Corning vs. Honeywell International: Which Stock Is a Better Buy in 2026?",
               "sentiment": 0
             },
             {
-              "text": "Robinhood, Cboe Expand Prediction Market Offerings After SEC Win",
-              "sentiment": 0.4
-            },
-            {
-              "text": "From Search Destruction to Efficiency, I Have Faith in Alphabet’s Abilities",
+              "text": "Amazon’s Reinvestment Model Is Dave Ellison’s Market Playbook",
               "sentiment": 0
             },
             {
-              "text": "Musk floats Amazon rival as AI shopping battle comes into focus",
+              "text": "Amazon’s New Devices Show Push to Avoid Getting Shut Out of Personal AI",
               "sentiment": 0
             },
             {
-              "text": "What's going on with CoreWeave?",
+              "text": "These Consumer Stocks Are Getting a Lift as Investors Rotate Out of Tech",
               "sentiment": 0
             },
             {
-              "text": "The Stock Market Will Look Completely Different by 2030. This Is the Stock I'm Buying Before It Does.",
+              "text": "These 2 Stocks Have Run Circles Around the Magnificent Seven This Year, and Wall Street Says There Is More Upside Ahead",
+              "sentiment": 0
+            },
+            {
+              "text": "Michael Dell Loses Title of World’s Fourth Richest Person After $36 Billion Drop in Net Worth in Two Days",
+              "sentiment": -0.4
+            },
+            {
+              "text": "What Changed In eBay's Story?",
+              "sentiment": 0
+            },
+            {
+              "text": "Why This Downtrodden Paper Maker Is a Top S&P 500 Stock Today",
               "sentiment": 0
             }
           ]
@@ -200,195 +200,195 @@
           "items": []
         }
       },
-      "computedAt": "2026-10-15T17:12:22.224Z"
+      "computedAt": "2026-10-16T11:59:04.894Z"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "bullishProbability": 54,
+      "bullishProbability": 49,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "AAPL",
-          "price": 344.4,
+          "price": 342,
           "previousClose": 342.96,
-          "changeRatio": 0.004198740377886628,
+          "changeRatio": -0.002799160251924363,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:02.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.23,
+          "price": 771.79,
           "previousClose": 769.6,
-          "changeRatio": 0.0008186070686070627,
+          "changeRatio": 0.0028456340956340186,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:01.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "AAPL",
-          "averageSentiment": 0.006666666666666665,
-          "sampleSize": 15,
-          "items": [
-            {
-              "text": "Better Artificial Intelligence Stock for 2026: Broadcom vs. NVIDIA",
-              "sentiment": 0
-            },
-            {
-              "text": "Why OKX And NYSE Are Going All-In on 24/7 Stock Trading",
-              "sentiment": 0
-            },
-            {
-              "text": "As AI stocks plunge, Apple is riding high",
-              "sentiment": -0.8
-            },
-            {
-              "text": "Robinhood, Cboe Expand Prediction Market Offerings After SEC Win",
-              "sentiment": 0.4
-            },
-            {
-              "text": "Japan Is Putting Up to $21 Billion Into New GlobalFoundries Chip Plants in New York",
-              "sentiment": 0.2
-            },
-            {
-              "text": "iPhone Duo: Damaging Apple’s new folding phone could cost you $1,499",
-              "sentiment": 0
-            },
-            {
-              "text": "Meta's Muse Agent Is a Massive Hit. I'm Still Not Sold on Meta Stock.",
-              "sentiment": 0
-            },
-            {
-              "text": "CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today’s Market",
-              "sentiment": 0
-            },
-            {
-              "text": "Apple Is Reportedly Bringing AI to China in December, but Not the New Siri",
-              "sentiment": 0
-            },
-            {
-              "text": "Stock Market Today: Dow Rises, Nasdaq Tumbles As AI Worries Hit Major Players (Live Coverage)",
-              "sentiment": -0.1
-            },
-            {
-              "text": "Dell downgraded, Texas Roadhouse upgraded: Wall Street's top analyst calls",
-              "sentiment": 0
-            },
-            {
-              "text": "Apple (AAPL): Can Longer iPhone Ownership Still Produce More Profit per Customer?",
-              "sentiment": 0.4
-            },
-            {
-              "text": "AI boom triggers record slump in smartphone sales",
-              "sentiment": 0
-            },
-            {
-              "text": "A 20% Drop in Smartphone Shipments Shows Who Wins When Memory Gets Expensive",
-              "sentiment": 0
-            },
-            {
-              "text": "Apple joins Nvidia in the $5 trillion market cap club",
-              "sentiment": 0
-            }
-          ]
-        },
-        "reddit": {
-          "source": "reddit",
-          "symbol": "AAPL",
-          "averageSentiment": 0,
-          "sampleSize": 0,
-          "items": []
-        }
-      },
-      "computedAt": "2026-10-15T17:12:22.214Z"
-    },
-    {
-      "symbol": "GOOGL",
-      "name": "Alphabet Inc.",
-      "bullishProbability": 54,
-      "confidence": 85,
-      "breakdown": {
-        "quote": {
-          "symbol": "GOOGL",
-          "price": 348.94,
-          "previousClose": 347.64,
-          "changeRatio": 0.0037395006328386016,
-          "source": "finnhub",
-          "asOf": "2026-10-15T17:12:00.000Z"
-        },
-        "marketProxy": {
-          "symbol": "SPY",
-          "price": 770.23,
-          "previousClose": 769.6,
-          "changeRatio": 0.0008186070686070627,
-          "source": "finnhub",
-          "asOf": "2026-10-15T17:12:01.000Z"
-        },
-        "news": {
-          "source": "news",
-          "symbol": "GOOGL",
           "averageSentiment": 0.05333333333333334,
           "sampleSize": 15,
           "items": [
             {
-              "text": "These dow jones stocks are moving in today's session",
+              "text": "6 Blue Chip Stocks Trading Well Below Their Highs",
               "sentiment": 0
             },
             {
-              "text": "XPENG Expands Collaboration with Google to Bring Google Play into Its AI-Powered Cockpits",
+              "text": "SpaceX Has Climbed 15% From Its IPO Price. Here’s Where History Says It Will Be After 1 Year.",
               "sentiment": 0
             },
             {
-              "text": "Microsoft’s Azure Grew 40% and Is Still Reportedly Hunting for 20% Cost Cuts",
+              "text": "Warren Buffett's Successor, Greg Abel, Has Over 45% of Berkshire Hathaway's $356 Billion Portfolio Invested in 3 Undeniable Winners",
+              "sentiment": 0
+            },
+            {
+              "text": "Meta Releases Muse Spark Open With an Unlikely Assist From Apple: Why It Can Afford to Give It Away",
+              "sentiment": 0
+            },
+            {
+              "text": "Apple (AAPL) Gets Court Order For AI Hiring Records In Trade Secrets Fight",
+              "sentiment": 0
+            },
+            {
+              "text": "Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch",
               "sentiment": -0.4
             },
             {
-              "text": "Anthropic Is Growing 50%, Microsoft Isn’t",
+              "text": "Jim Cramer Says Starbucks Can Rise On Its Own, Apple’s Audience Is Worth Paying For, And Intel Investors Need Patience",
               "sentiment": 0.4
             },
             {
-              "text": "Here's What $5,000 Invested in Nvidia Stock Could Be Worth by the End of 2030",
+              "text": "iPhone Duo Preorders Begin Friday. Is Apple’s First Foldable Phone Reason Alone to Buy the Stock?",
               "sentiment": 0
             },
             {
-              "text": "Meta’s AI Spending Is Massive. The Payoff Could Be Even Bigger",
+              "text": "VGT Returned 799.70% and VOO Returned 324.46% Over a Decade. Adding VUG Does Not Make It Diversified",
               "sentiment": 0
             },
             {
-              "text": "Robinhood, Cboe Expand Prediction Market Offerings After SEC Win",
+              "text": "Here Are the 3 Magnificent Seven Stocks I'd Buy Today",
+              "sentiment": 0
+            },
+            {
+              "text": "Is Apple the Ultimate Stock to Buy Right Now?",
+              "sentiment": 0
+            },
+            {
+              "text": "Think the iPhone Duo is expensive? Skip Apple's insurance plan and 1 mishap could send your real cost soaring",
+              "sentiment": 0.8
+            },
+            {
+              "text": "AI Stocks Are Hurting. Look at These Other Sectors for Protection.",
+              "sentiment": 0
+            },
+            {
+              "text": "These 2 Stocks Have Run Circles Around the Magnificent Seven This Year, and Wall Street Says There Is More Upside Ahead",
+              "sentiment": 0
+            },
+            {
+              "text": "Discover which dow jones stocks are making waves on Thursday.",
+              "sentiment": 0
+            }
+          ]
+        },
+        "reddit": {
+          "source": "reddit",
+          "symbol": "AAPL",
+          "averageSentiment": 0,
+          "sampleSize": 0,
+          "items": []
+        }
+      },
+      "computedAt": "2026-10-16T11:59:04.907Z"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "bullishProbability": 55,
+      "confidence": 85,
+      "breakdown": {
+        "quote": {
+          "symbol": "GOOGL",
+          "price": 349.22,
+          "previousClose": 347.64,
+          "changeRatio": 0.004544931538373148,
+          "source": "finnhub",
+          "asOf": "2026-10-15T20:00:00.000Z"
+        },
+        "marketProxy": {
+          "symbol": "SPY",
+          "price": 771.79,
+          "previousClose": 769.6,
+          "changeRatio": 0.0028456340956340186,
+          "source": "finnhub",
+          "asOf": "2026-10-15T20:00:00.000Z"
+        },
+        "news": {
+          "source": "news",
+          "symbol": "GOOGL",
+          "averageSentiment": 0.060000000000000005,
+          "sampleSize": 15,
+          "items": [
+            {
+              "text": "Warren Buffett's Successor, Greg Abel, Has Over 45% of Berkshire Hathaway's $356 Billion Portfolio Invested in 3 Undeniable Winners",
+              "sentiment": 0
+            },
+            {
+              "text": "Not AMD. Not Broadcom. This is the Chip Designer Nvidia Investors Should Be Watching",
+              "sentiment": 0
+            },
+            {
+              "text": "Does Muse Wonder Launch Change The Bull Case For Meta Stock?",
+              "sentiment": 0
+            },
+            {
+              "text": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think",
+              "sentiment": -0.3
+            },
+            {
+              "text": "Look How Much Money the AI Gods Are Giving Away",
+              "sentiment": 0
+            },
+            {
+              "text": "Google’s Quantum Breakthrough Puts Bitcoin in Trouble? Analyst Says Not Today, but ‘Gap Is Getting Smaller’",
+              "sentiment": 0.8
+            },
+            {
+              "text": "AI's Credit Scare Is Sorting The Strong From The Borrowed",
               "sentiment": 0.4
             },
             {
-              "text": "Consumer goods giants step up ad intensity as other big spenders pull back: report",
-              "sentiment": 0.2
-            },
-            {
-              "text": "From Search Destruction to Efficiency, I Have Faith in Alphabet’s Abilities",
+              "text": "Samsung’s AI glasses make a bold bet against Meta",
               "sentiment": 0
             },
             {
-              "text": "Prediction: AI Could Transform This Magnificent 7 Stock Over the Next 3 Years",
+              "text": "Zohran Mamdani Says Quantum Is Poised to Become a ‘Multi-Trillion Dollar Industry’ and New Yorkers Should ‘Share in That Profit’",
               "sentiment": 0
             },
             {
-              "text": "Prediction: Broadcom Could Be the AI Winner After Nvidia",
+              "text": "Jim Cramer's Rate Test: Why He Backs Reddit but Passes on SiTime",
               "sentiment": 0
             },
             {
-              "text": "Is Alphabet (GOOGL) Fully Valued After Its Unity Spark Gaming AI Push?",
+              "text": "Should You Buy Adobe Stock For Its Cash?",
               "sentiment": 0
             },
             {
-              "text": "The Stock Market Will Look Completely Different by 2030. This Is the Stock I'm Buying Before It Does.",
+              "text": "Here Are the 3 Magnificent Seven Stocks I'd Buy Today",
               "sentiment": 0
             },
             {
-              "text": "Can Alphabet Afford Its Spending Bill?",
+              "text": "JPMorgan's Chicago Office Renovation Costing Bank Over $800M, Dimon Says",
               "sentiment": 0
             },
             {
-              "text": "Alphabet Stock Can Soar 24%, JPMorgan Says. Why Google Can Defy AI Fears.",
-              "sentiment": 0.2
+              "text": "3 Chip Stocks to Buy Before Big Tech Reports Its Spending Plans",
+              "sentiment": 0
+            },
+            {
+              "text": "AI Stocks Are Hurting. Look at These Other Sectors for Protection.",
+              "sentiment": 0
             }
           ]
         },
@@ -400,7 +400,7 @@
           "items": []
         }
       },
-      "computedAt": "2026-10-15T17:12:22.229Z"
+      "computedAt": "2026-10-16T11:59:04.898Z"
     },
     {
       "symbol": "MSFT",
@@ -410,84 +410,84 @@
       "breakdown": {
         "quote": {
           "symbol": "MSFT",
-          "price": 539.48,
+          "price": 539.44,
           "previousClose": 533.69,
-          "changeRatio": 0.010848994734771052,
+          "changeRatio": 0.010774044857501545,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:02.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.23,
+          "price": 771.79,
           "previousClose": 769.6,
-          "changeRatio": 0.0008186070686070627,
+          "changeRatio": 0.0028456340956340186,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:01.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "MSFT",
-          "averageSentiment": 0.09333333333333332,
+          "averageSentiment": 0.08000000000000002,
           "sampleSize": 15,
           "items": [
             {
-              "text": "Proofpoint MSP Platform Introduces New Capabilities to Support Secure AI Adoption for Organizations Using Microsoft 365",
+              "text": "Microsoft CEO Satya Nadella Just Shared Bad News for Nvidia and Great News for This Rival Chipmaker",
               "sentiment": 0
             },
             {
-              "text": "ServiceNow vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
+              "text": "Clash of the Billionaires: Bill Gates Says Musk Is “Mean” to Him, but He’s “Brilliant”",
               "sentiment": 0
             },
             {
-              "text": "Microsoft’s Azure Grew 40% and Is Still Reportedly Hunting for 20% Cost Cuts",
-              "sentiment": -0.4
+              "text": "Is Investor Day Outlook Altering The Investment Case For Accenture (ACN)?",
+              "sentiment": 0
             },
             {
-              "text": "Anthropic Is Growing 50%, Microsoft Isn’t",
+              "text": "Anthropic’s $2 Trillion IPO Dream Meets a $1.5 Trillion Reality Check",
+              "sentiment": 0
+            },
+            {
+              "text": "How Earnings Beat Will Impact Microsoft (MSFT) Stock",
+              "sentiment": 0.8
+            },
+            {
+              "text": "AI's Credit Scare Is Sorting The Strong From The Borrowed",
               "sentiment": 0.4
             },
             {
-              "text": "MSFT Stock Gets Slew Of Price Target Hikes Ahead Of Earnings – TD Cowen Sees ‘Higher Than Normal’ Azure Beat Potential",
-              "sentiment": 0.6
-            },
-            {
-              "text": "Why OKX And NYSE Are Going All-In on 24/7 Stock Trading",
+              "text": "Should You Buy Adobe Stock For Its Cash?",
               "sentiment": 0
             },
             {
-              "text": "Oracle Fell Nearly 9% as CoreWeave’s Bond Scare Spread",
+              "text": "UnitedHealth Fell 51.32%, Then Rose 40.64%. DIA’s Exposure Followed Both Moves by Design",
               "sentiment": 0
             },
             {
-              "text": "From Search Destruction to Efficiency, I Have Faith in Alphabet’s Abilities",
+              "text": "Here Are the 3 Magnificent Seven Stocks I'd Buy Today",
               "sentiment": 0
             },
             {
-              "text": "Microsoft (MSFT), Why Is It Back In The Spotlight?",
+              "text": "3 Chip Stocks to Buy Before Big Tech Reports Its Spending Plans",
               "sentiment": 0
             },
             {
-              "text": "North.cloud Raises $60M Series B to Unify Spend Intelligence and Enable Full Automation Across Cloud, AI, and Data",
-              "sentiment": 0.4
-            },
-            {
-              "text": "Microsoft’s Brad Smith Says Green-Card Curbs Could “Cripple” U.S. Tech. Here’s How Much It Hits Microsoft",
+              "text": "What Did CrowdStrike Say Before Its Stock Nearly Doubled?",
               "sentiment": 0
             },
             {
-              "text": "Microsoft (MSFT): Can Security Bundles Generate More Profit per Customer?",
-              "sentiment": 0.4
-            },
-            {
-              "text": "My Microsoft Price Prediction Looks Well Beyond the Current AI Cycle",
+              "text": "CoreWeave’s Freakout Hurt Constellation and NRG Stocks. It Shouldn’t Have.",
               "sentiment": 0
             },
             {
-              "text": "Is The Market Underpricing Amazon Stock At Twenty Times Earnings?",
+              "text": "These 2 Stocks Have Run Circles Around the Magnificent Seven This Year, and Wall Street Says There Is More Upside Ahead",
               "sentiment": 0
             },
             {
-              "text": "Can Gaming Pipeline and Activision Add Momentum to Microsoft Stock?",
+              "text": "New York City Wants to Be the Capital of Quantum. Join the Club.",
+              "sentiment": 0
+            },
+            {
+              "text": "Tucuvi joins the Microsoft Pegasus Program to scale clinically governed AI Care Management across health systems",
               "sentiment": 0
             }
           ]
@@ -500,7 +500,7 @@
           "items": []
         }
       },
-      "computedAt": "2026-10-15T17:12:22.222Z"
+      "computedAt": "2026-10-16T11:59:04.906Z"
     },
     {
       "symbol": "NVDA",
@@ -510,84 +510,84 @@
       "breakdown": {
         "quote": {
           "symbol": "NVDA",
-          "price": 217.36,
+          "price": 217.23,
           "previousClose": 221.3,
-          "changeRatio": -0.01780388612742882,
+          "changeRatio": -0.018391323994577595,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:02.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.23,
+          "price": 771.79,
           "previousClose": 769.6,
-          "changeRatio": 0.0008186070686070627,
+          "changeRatio": 0.0028456340956340186,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:01.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "NVDA",
-          "averageSentiment": -0.04,
+          "averageSentiment": -0.06666666666666667,
           "sampleSize": 15,
           "items": [
             {
-              "text": "These dow jones stocks are moving in today's session",
+              "text": "Why Nvidia Stock Is Rising While the Broader Chip Sector Keeps Falling",
               "sentiment": 0
             },
             {
-              "text": "Why Direxion Daily Semiconductor Bull 3X ETF Crashed Today",
+              "text": "6 Blue Chip Stocks Trading Well Below Their Highs",
               "sentiment": 0
             },
             {
-              "text": "Micron Stock Has Some Eye-Popping Analyst Targets. Here’s My Price Prediction",
+              "text": "Billionaires Are Selling These 6 Artificial Intelligence (AI) Stocks. Should You Follow?",
               "sentiment": 0
             },
             {
-              "text": "ServiceNow vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
+              "text": "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)",
               "sentiment": 0
             },
             {
-              "text": "Germany to partner with Nvidia on AI development initiative - report",
+              "text": "SpaceX Has Climbed 15% From Its IPO Price. Here’s Where History Says It Will Be After 1 Year.",
               "sentiment": 0
             },
             {
-              "text": "AMD, NVDA, Other Chip Stocks Extend Rout Amid AI Debt Concerns — Saxo Says Financing Squeeze Could Hit Supply Chain",
+              "text": "CoreWeave Stock Drops. Why AI Debt Fears Aren’t Over Despite Nvidia’s Confidence.",
               "sentiment": -0.4
             },
             {
-              "text": "Better Artificial Intelligence Stock for 2026: Broadcom vs. NVIDIA",
+              "text": "Warren Buffett's Successor, Greg Abel, Has Over 45% of Berkshire Hathaway's $356 Billion Portfolio Invested in 3 Undeniable Winners",
               "sentiment": 0
             },
             {
-              "text": "5 Growth Stocks With Home Run Potential",
-              "sentiment": 0.4
-            },
-            {
-              "text": "Why Reports About Anthropic's Revenue Are Adding To AI Stock Woes",
+              "text": "AI is coming for every company, Nvidia boss says",
               "sentiment": 0
             },
             {
-              "text": "Anthropic Is Growing 50%, Microsoft Isn’t",
-              "sentiment": 0.4
-            },
-            {
-              "text": "Cramer Says “People Are Terrified” As CoreWeave Insiders Dump Shares",
+              "text": "VOO, VTI, SPY, or IVV? How These 4 Index Funds Differ",
               "sentiment": 0
             },
             {
-              "text": "Why SpaceX Stock Is Sinking Today",
-              "sentiment": -0.6
+              "text": "This Hot Artificial Intelligence IPO Stock Is Down 52%, but It Could Double From Here, According to Wall Street",
+              "sentiment": -0.2
             },
             {
-              "text": "Here's What $5,000 Invested in Nvidia Stock Could Be Worth by the End of 2030",
+              "text": "Microsoft CEO Satya Nadella Just Shared Bad News for Nvidia and Great News for This Rival Chipmaker",
               "sentiment": 0
             },
             {
-              "text": "1 eVTOL STock to Buy Before the First Paying Passenger Takes Off",
+              "text": "History Says a Stock Market Downturn Is Coming, and Investors Should Do This When It Happens",
               "sentiment": 0
             },
             {
-              "text": "Why Is Micron Stock Still Dropping?",
+              "text": "Not AMD. Not Broadcom. This is the Chip Designer Nvidia Investors Should Be Watching",
+              "sentiment": 0
+            },
+            {
+              "text": "NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout",
+              "sentiment": 0
+            },
+            {
+              "text": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
               "sentiment": -0.4
             }
           ]
@@ -600,95 +600,95 @@
           "items": []
         }
       },
-      "computedAt": "2026-10-15T17:12:22.220Z"
+      "computedAt": "2026-10-16T11:59:04.916Z"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "bullishProbability": 36,
+      "bullishProbability": 42,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "TSLA",
-          "price": 360.45,
+          "price": 362.44,
           "previousClose": 367.16,
-          "changeRatio": -0.018275411264843763,
+          "changeRatio": -0.01285543087482304,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:02.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 770.23,
+          "price": 771.79,
           "previousClose": 769.6,
-          "changeRatio": 0.0008186070686070627,
+          "changeRatio": 0.0028456340956340186,
           "source": "finnhub",
-          "asOf": "2026-10-15T17:12:01.000Z"
+          "asOf": "2026-10-15T20:00:00.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "TSLA",
-          "averageSentiment": 0.013333333333333338,
+          "averageSentiment": 0.10000000000000002,
           "sampleSize": 15,
           "items": [
             {
-              "text": "Will SpaceX merge with Tesla? Speculation resurfaces it could before the end of 2026",
-              "sentiment": 0
-            },
-            {
-              "text": "Robinhood, Cboe Expand Prediction Market Offerings After SEC Win",
+              "text": "US Stock Futures Edge Higher as Fed Chair Warsh Avoids Rate Guidance and Tesla Unveils New Roadster: Dow Jones, S&P, Nasdaq, Wall Street",
               "sentiment": 0.4
             },
             {
-              "text": "Tesla’s Volatility Is Tempting Investors Again at $375",
+              "text": "Elon Musk's net worth could reach $2 trillion as a rumored SpaceX-Tesla merger may be just weeks away, analyst predicts",
               "sentiment": 0
             },
             {
-              "text": "Will Tesla's Roadster Fly Tonight? Prediction Markets Say It's Likely",
-              "sentiment": 0
-            },
-            {
-              "text": "What's causing the latest AI stock sell-off? Plus, TSMC earnings and Tesla's new Roadster",
-              "sentiment": 0
-            },
-            {
-              "text": "Tesla-SpaceX Merger could be announced before December, Barclays says",
-              "sentiment": 0
-            },
-            {
-              "text": "Tesla Preps Roadster Demo For Rumored Flying Car. The Stock Is Sinking.",
-              "sentiment": -0.6
-            },
-            {
-              "text": "Tesla to unveil its next-generation Roadster EV: What to know",
-              "sentiment": 0
-            },
-            {
-              "text": "SpaceX Has a Ukraine Problem. What It Means for the Stock.",
-              "sentiment": 0
-            },
-            {
-              "text": "Alphabet Might Use Waymo to Destroy Tesla’s First-Mover “Robotaxi Monopoly” Premium",
-              "sentiment": 0
-            },
-            {
-              "text": "Elon Musk Just Gave Investors Another Reason to Buy Micron Stock",
-              "sentiment": 0
-            },
-            {
-              "text": "Elon Musk Could Announce A Tesla-SpaceX Merger In Coming Weeks, Analyst",
-              "sentiment": 0
-            },
-            {
-              "text": "Battery Stocks Earnings Preview: Tesla’s Premium Multiple vs. Deep-Value Lithium Suppliers",
-              "sentiment": 0
-            },
-            {
-              "text": "Energy Transition Update - North America Wind Power Market Set For Strong Growth",
+              "text": "Why Are Nasdaq Futures Edging Higher Premarket? TSLA, CRWV, TSM, NVDA, RKLB, ASST, PEP Stocks In Focus",
               "sentiment": 0.4
             },
             {
-              "text": "Barclays Says a Tesla-SpaceX Merger Could Be Announced Before December",
+              "text": "Warsh avoids rate guidance; Tesla’s Roadster turns in air - what’s moving markets",
               "sentiment": 0
+            },
+            {
+              "text": "3 Founder Led Stocks With Revenue Growth Up To 17%",
+              "sentiment": 0.3
+            },
+            {
+              "text": "Clash of the Billionaires: Bill Gates Says Musk Is “Mean” to Him, but He’s “Brilliant”",
+              "sentiment": 0
+            },
+            {
+              "text": "Tesla’s $250,000 Roadster Deposit: Is It a Rounding Error at 186x Earnings?",
+              "sentiment": 0
+            },
+            {
+              "text": "Wall Street Breakfast Podcast: Tesla Roadster Takes Flight",
+              "sentiment": 0
+            },
+            {
+              "text": "Stocktwits Space Race Weekly: SPCX Weathers Selloff Better Than ASTS, RKLB And FLY — RDW Fares Best",
+              "sentiment": 0
+            },
+            {
+              "text": "Top 3 Founder Led Stocks To Watch In October 2026",
+              "sentiment": 0
+            },
+            {
+              "text": "Tesla unveils ‘flying’ sports car",
+              "sentiment": 0
+            },
+            {
+              "text": "Elon Musk Unveils Tesla Roadster That Can Fly, Drive Upside Down and Barrel Roll With SpaceX Thrusters",
+              "sentiment": -0.2
+            },
+            {
+              "text": "TSLA Stock Gets Some Thrust From ‘Flying’ Roadster Reveal — Munster Calls It ‘Engineering Flex’ With A Tesla-SpaceX Clue",
+              "sentiment": 0
+            },
+            {
+              "text": "Dow Jones Futures Rise; Anthropic Valuation Report, Flying Tesla Roadster In Focus",
+              "sentiment": 0.4
+            },
+            {
+              "text": "Tesla's Revenue, Earnings Expected To Edge Lower Despite Delivery Beat",
+              "sentiment": 0.2
             }
           ]
         },
@@ -700,7 +700,7 @@
           "items": []
         }
       },
-      "computedAt": "2026-10-15T17:12:22.224Z"
+      "computedAt": "2026-10-16T11:59:04.900Z"
     }
   ]
 }
