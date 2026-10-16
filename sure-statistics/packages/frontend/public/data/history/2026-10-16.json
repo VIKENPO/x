@@ -1410,5 +1410,711 @@
         "computedAt": "2026-10-16T16:07:46.613Z"
       }
     ]
+  },
+  {
+    "generatedAt": "2026-10-16T19:36:43.531Z",
+    "nextMarketOpenMadrid": "2026-10-19T13:30:00.000Z",
+    "scores": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "bullishProbability": 22,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "META",
+            "price": 704.74,
+            "previousClose": 736.72,
+            "changeRatio": -0.0434086220002172,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 762.7,
+            "previousClose": 771.79,
+            "changeRatio": -0.011777815208800215,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "META",
+            "averageSentiment": 0.02666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "The Next Stock Market Crash Could Start With Just 3 Companies",
+                "sentiment": -1
+              },
+              {
+                "text": "The Tech Trade Needs a Life Raft. Mag 7 Earnings Can’t Come Soon Enough.",
+                "sentiment": 0
+              },
+              {
+                "text": "Strong Top-Line Growth and AI Innovation Lifted Meta Platforms (META) Higher",
+                "sentiment": 0.4
+              },
+              {
+                "text": "RBC raises Shopify price target to $200 on sustained growth outlook",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Big Tech Earnings Suddenly Matter for the Bond Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta expected to beat revenue forecasts as AI boosts advertising, says Bank of America",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Meta launches new ‘open’ AI model – and it comes with a big surprise",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta Platforms (META) Unveiled Muse Spark Open For Developers",
+                "sentiment": 0
+              },
+              {
+                "text": "If You Invest $1,000 in AMD Each Month Starting Now, This is What You’d Have in 5 Years",
+                "sentiment": 0
+              },
+              {
+                "text": "AI infrastructure stocks sell off, but the data center boom rolls on",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta, Tesla, SpaceX Take Center Stage As Earnings Season Kicks Into High Gear. Everything You Need To Know.",
+                "sentiment": 0
+              },
+              {
+                "text": "CEO Of Tech Titan States AI Investors Have 'No Clue'",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Roadster Debut, Tech Sell-Off, and a college alternative for entrepreneurship",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta Releases Open-Weight Muse Spark Model for Developers and Coding Agents",
+                "sentiment": 0
+              },
+              {
+                "text": "Anthropic Might Be Worth ‘Only’ $1.5 Trillion. Why It Isn’t a Disaster for the AI Trade.",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "META",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-16T19:36:43.479Z"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "bullishProbability": 29,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AMZN",
+            "price": 249.65,
+            "previousClose": 254.76,
+            "changeRatio": -0.020058093892290726,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 762.7,
+            "previousClose": 771.79,
+            "changeRatio": -0.011777815208800215,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AMZN",
+            "averageSentiment": -0.04,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Amazon's $70 screenless fitness band improves physical and mental health",
+                "sentiment": 0
+              },
+              {
+                "text": "Sector Update: Tech Stocks Fall Friday Afternoon",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Amazon Is 11% Below Its High Heading Into Earnings on Oct. 29. Here's the 1 Number That Will Decide What Happens Next.",
+                "sentiment": 0
+              },
+              {
+                "text": "Pet store chain closures grow, as PetSmart shutters locations",
+                "sentiment": 0
+              },
+              {
+                "text": "The Next Stock Market Crash Could Start With Just 3 Companies",
+                "sentiment": -1
+              },
+              {
+                "text": "Alphabet’s Cloud Surge and AI Dominance Overshadow Capex Fears and Keep Me Buying",
+                "sentiment": 0.2
+              },
+              {
+                "text": "CoreWeave Rides Rollercoaster Despite ARK's Wood, Nvidia Support",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Fox Can Finally Breathe a Sigh of Relief With the Roku Deal—and Why the NFL Can’t",
+                "sentiment": 0
+              },
+              {
+                "text": "Big Tech Earnings Suddenly Matter for the Bond Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Does The Move In Snowflake Stock Change Anything?",
+                "sentiment": 0
+              },
+              {
+                "text": "What Is The Biggest Threat To Microsoft Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "2 Tech Stocks to Buy Now and Hold for a Decade (Hint: 1 Isn't in the AI Trade)",
+                "sentiment": 0
+              },
+              {
+                "text": "CoreWeave Stock Rally Fizzles Despite ARK's Wood, Nvidia Support",
+                "sentiment": 0.6
+              },
+              {
+                "text": "AI infrastructure stocks sell off, but the data center boom rolls on",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Roadster Debut, Tech Sell-Off, and a college alternative for entrepreneurship",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AMZN",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-16T19:36:43.476Z"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "bullishProbability": 49,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AAPL",
+            "price": 343.66,
+            "previousClose": 342,
+            "changeRatio": 0.004853801169590716,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 762.7,
+            "previousClose": 771.79,
+            "changeRatio": -0.011777815208800215,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AAPL",
+            "averageSentiment": -0.04666666666666666,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Stock Market Today: Nasdaq Stung As ServiceNow Dives After Breakout; Tesla Comes Back To Earth (Live Coverage)",
+                "sentiment": 0
+              },
+              {
+                "text": "The Next Stock Market Crash Could Start With Just 3 Companies",
+                "sentiment": -1
+              },
+              {
+                "text": "Nvidia and Apple Each Gave $25 Million to Trump’s White House Ballroom",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Is Up Nearly 12X in 10 Years. Can It Repeat That Run?",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Apple and Alphabet Are Especially Scared of a Blue Wave",
+                "sentiment": 0
+              },
+              {
+                "text": "AAPL Stock Adds 1% As It Prepares To Tackle UK Regulators Over Apple Pay Dominance",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla, SpaceX, CoreWeave, Lam Research, Netflix, Strategy, and More Stocks That Explain Today’s Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple faces growing iPhone demand concerns as delivery wait times shrink, UBS warns",
+                "sentiment": -0.1
+              },
+              {
+                "text": "iPhone Duo in Short Supply After Shipments Slip Into 2027",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Fox Can Finally Breathe a Sigh of Relief With the Roku Deal—and Why the NFL Can’t",
+                "sentiment": 0
+              },
+              {
+                "text": "We are Only 'Third Inning Relative to this AI Game,' Says Dan Ives",
+                "sentiment": 0
+              },
+              {
+                "text": "Big Tech Earnings Suddenly Matter for the Bond Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple and Samsung Are Nearly Tied as Global Phone Shipments Collapse",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Could Face Downside Risk From Declining Wait Times for New iPhone Models, UBS Says",
+                "sentiment": -0.3
+              },
+              {
+                "text": "Stock Market Today: Dow Up, Nasdaq Slammed; This Fund Is Beating Semiconductors (Live Coverage)",
+                "sentiment": 0.5
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AAPL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-16T19:36:43.481Z"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "bullishProbability": 25,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "GOOGL",
+            "price": 340.64,
+            "previousClose": 349.22,
+            "changeRatio": -0.02456903957390768,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 762.7,
+            "previousClose": 771.79,
+            "changeRatio": -0.011777815208800215,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "GOOGL",
+            "averageSentiment": -0.08000000000000002,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "The Next Stock Market Crash Could Start With Just 3 Companies",
+                "sentiment": -1
+              },
+              {
+                "text": "Nvidia and Apple Each Gave $25 Million to Trump’s White House Ballroom",
+                "sentiment": 0
+              },
+              {
+                "text": "Quantum could end bitcoin — or not. Here's why not to panic.",
+                "sentiment": 0
+              },
+              {
+                "text": "Alphabet’s Cloud Surge and AI Dominance Overshadow Capex Fears and Keep Me Buying",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Apple and Alphabet Are Especially Scared of a Blue Wave",
+                "sentiment": 0
+              },
+              {
+                "text": "The Next $5 Trillion Dollar Company: Alphabet or Microsoft?",
+                "sentiment": 0
+              },
+              {
+                "text": "Chase Tower Renovation Costs JPMorgan Over $800M in Chicago",
+                "sentiment": 0
+              },
+              {
+                "text": "If Google Grows At 10% a Year, Here’s What $1,000 Becomes By 2030",
+                "sentiment": 0
+              },
+              {
+                "text": "Frontier Climate buyers ink deal to store CO2 as solid rock",
+                "sentiment": 0
+              },
+              {
+                "text": "Big Tech Earnings Suddenly Matter for the Bond Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Waymo’s robotaxis are headed to Canada",
+                "sentiment": 0
+              },
+              {
+                "text": "The Next AI Stock Wall Street Is Starting to Pay Attention To",
+                "sentiment": 0
+              },
+              {
+                "text": "Hot PPI report throws cold water on rate cuts",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Does The Move In Snowflake Stock Change Anything?",
+                "sentiment": 0
+              },
+              {
+                "text": "What Is The Biggest Threat To Microsoft Stock?",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "GOOGL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-16T19:36:43.531Z"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "bullishProbability": 27,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "MSFT",
+            "price": 526.53,
+            "previousClose": 539.44,
+            "changeRatio": -0.02393222601216091,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 762.7,
+            "previousClose": 771.79,
+            "changeRatio": -0.011777815208800215,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "MSFT",
+            "averageSentiment": 0.03333333333333333,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "The Next Stock Market Crash Could Start With Just 3 Companies",
+                "sentiment": -1
+              },
+              {
+                "text": "Nvidia and Apple Each Gave $25 Million to Trump’s White House Ballroom",
+                "sentiment": 0
+              },
+              {
+                "text": "Alphabet’s Cloud Surge and AI Dominance Overshadow Capex Fears and Keep Me Buying",
+                "sentiment": 0.2
+              },
+              {
+                "text": "The Next $5 Trillion Dollar Company: Alphabet or Microsoft?",
+                "sentiment": 0
+              },
+              {
+                "text": "The Tech Trade Needs a Life Raft. Mag 7 Earnings Can’t Come Soon Enough.",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft Signs 1,100 MW Power Deal With NiSource Until 2048 as AI Spending Outruns the Grid",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft (MSFT) Remains a High-Quality AI Leader",
+                "sentiment": 0
+              },
+              {
+                "text": "Top 3 British Undervalued Tech Stocks To Watch In October 2026",
+                "sentiment": 0
+              },
+              {
+                "text": "Strong Azure Results Powered Microsoft Corporation’s (MSFT) Rally",
+                "sentiment": 0.5
+              },
+              {
+                "text": "Is Adobe A Better Way Than Salesforce To Own AI Software Growth?",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Does The Move In Snowflake Stock Change Anything?",
+                "sentiment": 0
+              },
+              {
+                "text": "What Is The Biggest Threat To Microsoft Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "High Switching Costs Protect Microsoft Corporation (MSFT) in the AI Era",
+                "sentiment": 0
+              },
+              {
+                "text": "If AI Crumbles, Microsoft Wins",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Nvidia and Apple Donate Millions for Planned White House Project",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "MSFT",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-16T19:36:43.482Z"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "bullishProbability": 35,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "NVDA",
+            "price": 214.55,
+            "previousClose": 217.23,
+            "changeRatio": -0.01233715416839285,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 762.7,
+            "previousClose": 771.79,
+            "changeRatio": -0.011777815208800215,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "NVDA",
+            "averageSentiment": -0.13333333333333333,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "The Stock Market Has Seen This Happen Only 2 Other Times in Over 150 Years, and History Has an Ominous Warning for Investors",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Why Lockheed Martin Stock Keeps Going Up",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Amazon Is 11% Below Its High Heading Into Earnings on Oct. 29. Here's the 1 Number That Will Decide What Happens Next.",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Is CoreWeave Stock Falling Today?",
+                "sentiment": -0.4
+              },
+              {
+                "text": "The Next Stock Market Crash Could Start With Just 3 Companies",
+                "sentiment": -1
+              },
+              {
+                "text": "Nvidia and Apple Each Gave $25 Million to Trump’s White House Ballroom",
+                "sentiment": 0
+              },
+              {
+                "text": "Truist Financial Corporation Q3 2026 Earnings Call Summary",
+                "sentiment": 0
+              },
+              {
+                "text": "M&T Bank Corporation Q3 2026 Earnings Call Summary",
+                "sentiment": 0
+              },
+              {
+                "text": "The Travelers Companies, Inc. Q3 2026 Earnings Call Summary",
+                "sentiment": 0
+              },
+              {
+                "text": "Regions Financial Corporation Q3 2026 Earnings Call Summary",
+                "sentiment": 0
+              },
+              {
+                "text": "Citizens Financial Group, Inc. Q3 2026 Earnings Call Summary",
+                "sentiment": 0
+              },
+              {
+                "text": "China Moves to Control AI Tech Exports While Taiwan Cracks Down on Smuggling",
+                "sentiment": -0.2
+              },
+              {
+                "text": "CoreWeave Rides Rollercoaster Despite ARK's Wood, Nvidia Support",
+                "sentiment": 0
+              },
+              {
+                "text": "If I Had $5,000 to Put Toward Just 1 Dividend Stock, This Would Be It",
+                "sentiment": 0
+              },
+              {
+                "text": "2 Tech Stocks to Buy Now and Hold for a Decade (Hint: 1 Isn't in the AI Trade)",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "NVDA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-16T19:36:43.485Z"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "bullishProbability": 24,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "TSLA",
+            "price": 351.55,
+            "previousClose": 362.44,
+            "changeRatio": -0.030046352499724056,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 762.7,
+            "previousClose": 771.79,
+            "changeRatio": -0.011777815208800215,
+            "source": "finnhub",
+            "asOf": "2026-10-16T19:36:19.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "TSLA",
+            "averageSentiment": 0.16666666666666666,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Sector Update: Consumer Stocks Mixed Friday Afternoon",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX Earnings Due Amid AI Revenue Surge, Tesla Merger Buzz",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Stock Market Today: Nasdaq Stung As ServiceNow Dives After Breakout; Tesla Comes Back To Earth (Live Coverage)",
+                "sentiment": 0
+              },
+              {
+                "text": "The Tech Trade Needs a Life Raft. Mag 7 Earnings Can’t Come Soon Enough.",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Retreats After Flying Roadster Demo; Musk Cites SpaceX Collaboration",
+                "sentiment": 0
+              },
+              {
+                "text": "Elon Musk Has a Tesla Problem He Can’t Seem to Fix",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Midday, Oct. 16: Tech Stocks Slide as Investors Rotate Into Defensive Sectors",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Stocks Rise After Elon Musk Reveals Highly Anticipated Flying Roadster: ‘Well, It Worked’",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Tesla, SpaceX, CoreWeave, Lam Research, Netflix, Strategy, and More Stocks That Explain Today’s Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Unveils Roadster With a Nod to SpaceX Merger",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Just Unveiled a Flying Car That Leverages SpaceX Technology. Is This the Next Big Catalyst For the Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla's flying Roadster is more fuel for SpaceX merger rumors than a real car",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Dow Up, Nasdaq Slammed; This Fund Is Beating Semiconductors (Live Coverage)",
+                "sentiment": 0.5
+              },
+              {
+                "text": "'There's no point': Tesla Roadster's splashy reveal doesn't mean a merger with SpaceX",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla’s Flying Roadster Sends Hyperliquid Trading Volume Soaring 1,500%",
+                "sentiment": 0.8
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-16T19:36:43.483Z"
+      }
+    ]
   }
 ]
