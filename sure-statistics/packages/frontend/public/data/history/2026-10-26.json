@@ -704,5 +704,711 @@
         "computedAt": "2026-10-26T13:41:24.548Z"
       }
     ]
+  },
+  {
+    "generatedAt": "2026-10-26T19:37:41.708Z",
+    "nextMarketOpenMadrid": "2026-10-27T13:30:00.000Z",
+    "scores": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "bullishProbability": 44,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "META",
+            "price": 634.35,
+            "previousClose": 642.62,
+            "changeRatio": -0.012869191746288602,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:24.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.72,
+            "previousClose": 759.97,
+            "changeRatio": 0.0075660881350579625,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:25.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "META",
+            "averageSentiment": 0.18666666666666665,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Sector Update: Tech Stocks Gain Monday Afternoon",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Walmart (WMT) Joins Meta’s AI Commerce Push as Retailers Explore Agentic Shopping",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon’s (AMZN) Stance on Meta’s AI-Driven Commerce Plans Draws Burke Wealth’s Attention",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla stock leaves rest of the Magnificent 7 in the dust, surging to October's top spot",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Burke Wealth Sees Meta Platforms’ (META) Muse AI Assistant as a Potential Growth Catalyst",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "MSFT Stock Gains After Unveiling Massive Buyout Offer For 60,000 Employees To Trim Costs Amid AI Push",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Meta Looks to Raise $95 Billion From Stock Sale to Fund AI Investments",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Is Anthropic's IPO helping engineer an AI 'duopoly'?",
+                "sentiment": 0
+              },
+              {
+                "text": "Can Pinterest Stock Jump 50%?",
+                "sentiment": 0.6
+              },
+              {
+                "text": "SpaceX, Meta Pursue $135 Billion for AI Infrastructure as Musk Warns of Neocloud Funding Crunch",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Zuckerberg shakes California's wealth tax before the vote",
+                "sentiment": 0
+              },
+              {
+                "text": "Prediction: This Magnificent Seven Stock Could Be a $1 Trillion Opportunity",
+                "sentiment": 0
+              },
+              {
+                "text": "Top Midday Stories: Anthropic Files With SEC for IPO; Meta Looking to Raise $95 Billion From Stock Offerings for AI Expansion",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Microsoft offers buyouts to 60,000 workers as AI reshapes workforce",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "META",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-26T19:37:41.704Z"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "bullishProbability": 57,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AMZN",
+            "price": 249.13,
+            "previousClose": 248,
+            "changeRatio": 0.004556451612903208,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:25.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.72,
+            "previousClose": 759.97,
+            "changeRatio": 0.0075660881350579625,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:25.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AMZN",
+            "averageSentiment": 0.04666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Amazon’s (AMZN) Stance on Meta’s AI-Driven Commerce Plans Draws Burke Wealth’s Attention",
+                "sentiment": 0
+              },
+              {
+                "text": "Anthropic is leasing data centers to reduce reliance on Amazon, Google, others",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Pharma Play Offers Entry (Live Coverage)",
+                "sentiment": 0.3
+              },
+              {
+                "text": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX Isn’t Even Anthropic’s Biggest Partner. Here’s Who Is, Plus More of Its Biggest Deals",
+                "sentiment": 0
+              },
+              {
+                "text": "Can Pinterest Stock Jump 50%?",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+                "sentiment": 0
+              },
+              {
+                "text": "If Amazon Grows At 10% a Year, Here’s What $1,000 Becomes By 2030",
+                "sentiment": 0
+              },
+              {
+                "text": "As Anthropic’s IPO Looms, The Company Faces A Significant Risk From A Surprising Place, Midterm State And Local Elections",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Anthropic’s Public IPO Filing Shows a $266 Billion Cloud Risk",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Big Tech Earnings Roll On With More Mag 7 Results Coming",
+                "sentiment": 0
+              },
+              {
+                "text": "$8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?",
+                "sentiment": 0
+              },
+              {
+                "text": "H2O.ai's TimeH2O Beats Mistral, Google, and Amazon in Time-Series Forecasting",
+                "sentiment": 0.8
+              },
+              {
+                "text": "UBS on Amazon: Street’s AWS margin estimates for 2027 are too low",
+                "sentiment": 0
+              },
+              {
+                "text": "SanDisk's report could reignite the AI trade — or signal a warning",
+                "sentiment": -0.6
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AMZN",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-26T19:37:41.700Z"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "bullishProbability": 47,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AAPL",
+            "price": 344.54,
+            "previousClose": 347.725,
+            "changeRatio": -0.009159536990437853,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:25.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.72,
+            "previousClose": 759.97,
+            "changeRatio": 0.0075660881350579625,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:25.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AAPL",
+            "averageSentiment": 0.12999999999999998,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Tesla stock leaves rest of the Magnificent 7 in the dust, surging to October's top spot",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "Big Tech Earnings Roll On With More Mag 7 Results Coming",
+                "sentiment": 0
+              },
+              {
+                "text": "Prediction: The Next Chapter for Apple Could Be Its Most Important Yet",
+                "sentiment": 0
+              },
+              {
+                "text": "Retiree Alleges Morgan Stanley Covered Call Strategy Cost Him His Apple and NVIDIA Shares; Reif Law Group Files Financial Elder Abuse Claims",
+                "sentiment": 0
+              },
+              {
+                "text": "Intel: Agentic AI Is Making CPUs A New Bottleneck",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Dow Rises As Oil Prices Fall; Tesla Shares Rally On This Brokerage's Upgrade (Live Coverage)",
+                "sentiment": 0.35
+              },
+              {
+                "text": "Apple’s $5 Trillion Dilemma: 3 Reasons Earnings Could Spark a Breakout on Nov. 2 — or a Meltdown",
+                "sentiment": 0
+              },
+              {
+                "text": "T-Mobile Shakes Up Wireless Again with First-Ever T-Mix: Built for Value, Powered by Customer Choice",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Q3 Peak Season Arrives: Strong Beats, Sky-High AI Scrutiny",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Apple® gives iPad mini® its biggest update ever",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple (AAPL) Earnings Expected to Grow: Should You Buy?",
+                "sentiment": 0
+              },
+              {
+                "text": "1 Unstoppable Stock-Split Stock to Buy Before It Joins Nvidia, Alphabet, Microsoft, and Apple in the $3 Trillion Club",
+                "sentiment": 0
+              },
+              {
+                "text": "The 10 biggest stocks are faltering, and it's dragging the S&P 500 down",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Early read on iPhone Duo demand: Here's what you need to know",
+                "sentiment": 0.2
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AAPL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-26T19:37:41.689Z"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "bullishProbability": 47,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "GOOGL",
+            "price": 317.27,
+            "previousClose": 320.21,
+            "changeRatio": -0.00918147465725617,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:25.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.72,
+            "previousClose": 759.97,
+            "changeRatio": 0.0075660881350579625,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:25.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "GOOGL",
+            "averageSentiment": 0.14666666666666664,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Update: Equities Rise Intraday as Traders Weigh Anthropic IPO",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Alphabet (GOOG) Could Be a Key Rival to Meta in the Race for AI Assistants, Burke Wealth Says",
+                "sentiment": 0
+              },
+              {
+                "text": "Anthropic is leasing data centers to reduce reliance on Amazon, Google, others",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla stock leaves rest of the Magnificent 7 in the dust, surging to October's top spot",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Nearly 13% of SpaceX's $4.4 Billion Profit Came From This \"Boring\" Investment",
+                "sentiment": 0.4
+              },
+              {
+                "text": "MSFT Stock Gains After Unveiling Massive Buyout Offer For 60,000 Employees To Trim Costs Amid AI Push",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Can Pinterest Stock Jump 50%?",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Prediction: This Magnificent Seven Stock Could Be a $1 Trillion Opportunity",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft offers buyouts to 60,000 workers as AI reshapes workforce",
+                "sentiment": 0
+              },
+              {
+                "text": "As Anthropic’s IPO Looms, The Company Faces A Significant Risk From A Surprising Place, Midterm State And Local Elections",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Bill Gates: Meta’s Muse Is “the First Truly Great Consumer AI Product”",
+                "sentiment": 0
+              },
+              {
+                "text": "Anthropic’s Public IPO Filing Shows a $266 Billion Cloud Risk",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Big Tech Earnings Roll On With More Mag 7 Results Coming",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta Seeks About $95 Billion for AI Buildout as Nvidia, AMD and Broadcom Consider Investing in Their Own Customer",
+                "sentiment": 0
+              },
+              {
+                "text": "$8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "GOOGL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-26T19:37:41.706Z"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "bullishProbability": 64,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "MSFT",
+            "price": 531.92,
+            "previousClose": 524.51,
+            "changeRatio": 0.014127471354216256,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:23.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.72,
+            "previousClose": 759.97,
+            "changeRatio": 0.0075660881350579625,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:25.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "MSFT",
+            "averageSentiment": 0.04666666666666666,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft offers voluntary exit packages to 60,000 staff",
+                "sentiment": 0
+              },
+              {
+                "text": "Citigroup (C) Structured A $72 Million Carbon Removal Bond",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft offers voluntary buyouts to about 60,000 employees",
+                "sentiment": 0
+              },
+              {
+                "text": "MSFT Stock Gains After Unveiling Massive Buyout Offer For 60,000 Employees To Trim Costs Amid AI Push",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Microsoft Offers Buyouts to 60,000 Employees. What Could It Mean for Margins?",
+                "sentiment": 0
+              },
+              {
+                "text": "Is Anthropic's IPO helping engineer an AI 'duopoly'?",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX Isn’t Even Anthropic’s Biggest Partner. Here’s Who Is, Plus More of Its Biggest Deals",
+                "sentiment": 0
+              },
+              {
+                "text": "Aldi’s Thanksgiving Deal, Microsoft’s Buyout Offer and More of Today’s Top Money News",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft Offers Employees Buyouts as It Continues to Cut Costs for the AI Buildout",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Prediction: This Magnificent Seven Stock Could Be a $1 Trillion Opportunity",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft's Healthy Enterprise Demand Supports Growth Ahead of Fiscal Q1 Results, Oppenheimer Says",
+                "sentiment": 0.3
+              },
+              {
+                "text": "$8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?",
+                "sentiment": 0
+              },
+              {
+                "text": "MSFT Stock Gets Wall Street’s Attention Ahead Of Earnings: Truist, Oppenheimer Raise Targets On Azure Growth Outlook",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Microsoft’s $678B AI backlog is massive, but is the stock priced for perfection",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "MSFT",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-26T19:37:41.702Z"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "bullishProbability": 75,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "NVDA",
+            "price": 216.45,
+            "previousClose": 210.96,
+            "changeRatio": 0.026023890784982844,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:24.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.72,
+            "previousClose": 759.97,
+            "changeRatio": 0.0075660881350579625,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:25.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "NVDA",
+            "averageSentiment": 0.12222222222222223,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Intel Rises 5% as New Street Upgrade Cites Server CPU Shortage; AMD and NVIDIA Gain 3%",
+                "sentiment": 0.5333333333333333
+              },
+              {
+                "text": "You Can Do Better Than Nike. Buy This High-Yield Dividend Stock Instead.",
+                "sentiment": 0
+              },
+              {
+                "text": "Bristol Myers Squibb: Bargain Buy or Value Trap?",
+                "sentiment": 0
+              },
+              {
+                "text": "5 Key Numbers From Anthropic's S-1 Filing",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla stock leaves rest of the Magnificent 7 in the dust, surging to October's top spot",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Nearly 13% of SpaceX's $4.4 Billion Profit Came From This \"Boring\" Investment",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Why Lockheed Martin Stock Keeps Going Up",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Pharma Play Offers Entry (Live Coverage)",
+                "sentiment": 0.3
+              },
+              {
+                "text": "Netflix Stock: Should You Buy the Post-Earnings Dip?",
+                "sentiment": 0
+              },
+              {
+                "text": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX Isn’t Even Anthropic’s Biggest Partner. Here’s Who Is, Plus More of Its Biggest Deals",
+                "sentiment": 0
+              },
+              {
+                "text": "Rocket Lab Delayed Neutron Over Voids in a Carbon-Composite Tank Dome. Here's Why That's Better News Than It Sounds.",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Why Petroleo Brasileiro SA Petrobras ADR Crashed Today",
+                "sentiment": 0
+              },
+              {
+                "text": "Dogecoin Is Finally Getting Serious About Offering Real Utility to Users. Here's What That Could Mean for the Price of DOGE.",
+                "sentiment": 0
+              },
+              {
+                "text": "Medifast, Inc. Q3 2026 Earnings Call Summary",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "NVDA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-26T19:37:41.708Z"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "bullishProbability": 79,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "TSLA",
+            "price": 393.68,
+            "previousClose": 372.22,
+            "changeRatio": 0.05765407554671962,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:24.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 765.72,
+            "previousClose": 759.97,
+            "changeRatio": 0.0075660881350579625,
+            "source": "finnhub",
+            "asOf": "2026-10-26T19:37:25.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "TSLA",
+            "averageSentiment": 0.26222222222222225,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Musk: Terafab Will Rank in “Top 20” GDP From a Single Building",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla stock leaves rest of the Magnificent 7 in the dust, surging to October's top spot",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Madison Energy Infrastructure and CORE Electric Cooperative Launch Community Infrastructure Partnership",
+                "sentiment": 0.4
+              },
+              {
+                "text": "SpaceX, Meta Pursue $135 Billion for AI Infrastructure as Musk Warns of Neocloud Funding Crunch",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Stock Market Midday, Oct. 26: Tech Sector Rallies on Anthropic IPO Filing and Cooling Oil Prices",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Big Tech Earnings Roll On With More Mag 7 Results Coming",
+                "sentiment": 0
+              },
+              {
+                "text": "I Wouldn't Buy Tesla Stock Betting on a SpaceX Deal. Here's Why.",
+                "sentiment": 0
+              },
+              {
+                "text": "Trucking Needs More Than a Choice Between Diesel and EV Trucks",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Soars 6% on Barclays Upgrade Calling SpaceX Merger “Key Part of the Tesla Bull Case”",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Tesla stock jumps as Barclays bets a SpaceX takeout bump is coming",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Tesla rises after Barclays upgrade highlights potential SpaceX merger",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Musk wants a Tesla and SpaceX merger, here’s what the numbers say",
+                "sentiment": 0
+              },
+              {
+                "text": "Range Energy’s Whitepaper Finds That its eTrailers Match Electric Semi-Truck Returns With Less Capital and Infrastructure",
+                "sentiment": 0
+              },
+              {
+                "text": "BC-Most Active Stocks",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Stock Jumps on Buy Upgrade. Why It Can Surge 20%.",
+                "sentiment": 0.7333333333333333
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-26T19:37:41.697Z"
+      }
+    ]
   }
 ]
