@@ -1,0 +1,708 @@
+[
+  {
+    "generatedAt": "2026-10-30T13:41:20.625Z",
+    "nextMarketOpenMadrid": "2026-11-02T14:30:00.000Z",
+    "scores": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "bullishProbability": 33,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "META",
+            "price": 614.92,
+            "previousClose": 624.52,
+            "changeRatio": -0.015371805546659872,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 760.71,
+            "previousClose": 769.36,
+            "changeRatio": -0.01124311115732554,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "META",
+            "averageSentiment": -0.05333333333333334,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Satya Nadella Just Took a Shot at Oracle and CoreWeave",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Meta and Alphabet Don’t Care That Q3 Earnings Paints Them as Laggards",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech’s Underwhelming Earnings.",
+                "sentiment": 0
+              },
+              {
+                "text": "Google's AI is winning. Search is paying for it.",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Should You Buy or Sell Meta Stock After Its $95 Billion Bombshell Announcement?",
+                "sentiment": 0
+              },
+              {
+                "text": "Tech Earnings Sink SpaceX Stock. No Other Companies Meet Elon Musk’s High Bar.",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Alphabet Suffers Its Worst Day Ever as AI Fears Spread From Search to Software",
+                "sentiment": -0.4
+              },
+              {
+                "text": "What Sent Alphabet Stock Lower?",
+                "sentiment": -0.4
+              },
+              {
+                "text": "YouTube isn't just dominating TV — it's dominating Google",
+                "sentiment": 0
+              },
+              {
+                "text": "How Low Can Snap Stock Go?",
+                "sentiment": 0
+              },
+              {
+                "text": "The Magnificent 7 stocks are seeing stunning declines",
+                "sentiment": -0.4
+              },
+              {
+                "text": "AMD Earnings Preview: The Bull Case Is Largely Priced In",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon, Alphabet, SpaceX and Meta are all to blame for the new tech stock rout",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon CEO Andy Jassy Just Made a Wild Prediction. It Could Make the Tech Giant a Big Winner.",
+                "sentiment": 0
+              },
+              {
+                "text": "AI Bubble Burst: Confirmed By Alphabet, Caterpillar, ServiceNow, And Amazon",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "META",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-30T13:41:20.594Z"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "bullishProbability": 22,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AMZN",
+            "price": 237.24,
+            "previousClose": 243.79,
+            "changeRatio": -0.02686738586488364,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 760.71,
+            "previousClose": 769.36,
+            "changeRatio": -0.01124311115732554,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AMZN",
+            "averageSentiment": -0.22666666666666666,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "AI Anxiety, French Tensions Pressure European Bourses Midday",
+                "sentiment": 0
+              },
+              {
+                "text": "A Big Tech Selloff and Crypto Heist to Start the Day. Next Week Brings Apple Earnings and Midterms.",
+                "sentiment": 0
+              },
+              {
+                "text": "Stocks Mostly Down Pre-Bell as Traders Parse Amazon, Intel Earnings",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Dow Jones Futures: Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
+                "sentiment": -0.8
+              },
+              {
+                "text": "Intel, Amazon, Reddit, Chevron, Exxon, and More Stocks That Explain Today’s Market",
+                "sentiment": 0
+              },
+              {
+                "text": "What Could Lift IBM Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft Showed Me What I Needed to Know to Do What I Was Going to Do Anyway",
+                "sentiment": 0
+              },
+              {
+                "text": "Tech Earnings Drive Losses on Wall Street Pre-Bell; Asia Off, Europe Mixed",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech’s Underwhelming Earnings.",
+                "sentiment": 0
+              },
+              {
+                "text": "Why raising your first $1M is the hardest: Little Spoon CEO",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Alphabet Suffers Its Worst Day Ever as AI Fears Spread From Search to Software",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Tech firms take fresh hit as disappointing earnings fan AI fears",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Update: Amazon Slumps Pre-Bell After Q3 Earnings Fall Amid Higher Revenue While Free Cash Outflow Hits $42.4 Billion",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Nasdaq futures tumble; Binance suffers massive hack - what’s moving markets",
+                "sentiment": -0.6
+              },
+              {
+                "text": "The Magnificent 7 stocks are seeing stunning declines",
+                "sentiment": -0.4
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AMZN",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-30T13:41:20.569Z"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "bullishProbability": 37,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AAPL",
+            "price": 345.1,
+            "previousClose": 348.91,
+            "changeRatio": -0.010919721418130756,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 760.71,
+            "previousClose": 769.36,
+            "changeRatio": -0.01124311115732554,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AAPL",
+            "averageSentiment": -0.013333333333333338,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Apple Is Priced for Its Cash. Its November 2 Report Must Show Memory Costs Aren’t Eating It",
+                "sentiment": 0
+              },
+              {
+                "text": "Just 15 Stocks Make Up 71% of the Dow. Here's My Top Pick to Buy Now.",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Google's AI is winning. Search is paying for it.",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Is Garmin Stock's Winning Streak Skill Or Luck?",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell Friday; Intel, Reddit to Fall",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Should You Buy And Hold Microsoft Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "What Sent Alphabet Stock Lower?",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Apple Earnings Ahead: What Past Reactions Say About The Stock",
+                "sentiment": 0
+              },
+              {
+                "text": "How Low Can Snap Stock Go?",
+                "sentiment": 0
+              },
+              {
+                "text": "The Magnificent 7 stocks are seeing stunning declines",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Warren Buffett's Successor, Greg Abel, Has 54% of Berkshire Hathaway's $365 Billion Portfolio Invested in 4 Proven Winners",
+                "sentiment": 0
+              },
+              {
+                "text": "Could Apple's First Touchscreen MacBook Pro, First Foldable iPhone Duo Phone, and HomeView Pole Vault Apple Beyond Nvidia to Become the First Company in the $10 Trillion Club?",
+                "sentiment": 0
+              },
+              {
+                "text": "Nov. 2 Could Be a Big Day for Apple Stock",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Earnings Preview: Q4 2026",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple supplier Luxshare falls as Q3 profit growth slows; 9M profit misses forecast",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AAPL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-30T13:41:20.571Z"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "bullishProbability": 38,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "GOOGL",
+            "price": 281.38,
+            "previousClose": 283.82,
+            "changeRatio": -0.008596998097385658,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 760.71,
+            "previousClose": 769.36,
+            "changeRatio": -0.01124311115732554,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "GOOGL",
+            "averageSentiment": -0.09333333333333332,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "AI Stocks Are Splitting: Compute and Data Software Lead While Alphabet Stumbles",
+                "sentiment": 0
+              },
+              {
+                "text": "A Big Tech Selloff and Crypto Heist to Start the Day. Next Week Brings Apple Earnings and Midterms.",
+                "sentiment": 0
+              },
+              {
+                "text": "Stocks Mostly Down Pre-Bell as Traders Parse Amazon, Intel Earnings",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Dow Jones Futures: Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
+                "sentiment": -0.8
+              },
+              {
+                "text": "Apple Is Priced for Its Cash. Its November 2 Report Must Show Memory Costs Aren’t Eating It",
+                "sentiment": 0
+              },
+              {
+                "text": "Google Just Burned $9 Billion in a Quarter. Is the AI Spending Party Getting Dangerous?",
+                "sentiment": 0
+              },
+              {
+                "text": "What Could Lift IBM Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Meta and Alphabet Don’t Care That Q3 Earnings Paints Them as Laggards",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft Showed Me What I Needed to Know to Do What I Was Going to Do Anyway",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech’s Underwhelming Earnings.",
+                "sentiment": 0
+              },
+              {
+                "text": "Google's AI is winning. Search is paying for it.",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Tech Earnings Sink SpaceX Stock. No Other Companies Meet Elon Musk’s High Bar.",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Pay and Google Pay launch in Uzbekistan amid wider fintech reforms",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Alphabet Suffers Its Worst Day Ever as AI Fears Spread From Search to Software",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Tech firms take fresh hit as disappointing earnings fan AI fears",
+                "sentiment": -0.4
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "GOOGL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-30T13:41:20.586Z"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "bullishProbability": 27,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "MSFT",
+            "price": 517.85,
+            "previousClose": 530.14,
+            "changeRatio": -0.023182555551363723,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 760.71,
+            "previousClose": 769.36,
+            "changeRatio": -0.01124311115732554,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "MSFT",
+            "averageSentiment": -0.09333333333333334,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Stocks Mostly Down Pre-Bell as Traders Parse Amazon, Intel Earnings",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Satya Nadella Just Took a Shot at Oracle and CoreWeave",
+                "sentiment": 0
+              },
+              {
+                "text": "If a Stock Market Crash Is Coming, History Suggests These Are 2 Crucial Moves to Make.",
+                "sentiment": -1
+              },
+              {
+                "text": "Google Just Burned $9 Billion in a Quarter. Is the AI Spending Party Getting Dangerous?",
+                "sentiment": 0
+              },
+              {
+                "text": "What Could Lift IBM Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft Showed Me What I Needed to Know to Do What I Was Going to Do Anyway",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech’s Underwhelming Earnings.",
+                "sentiment": 0
+              },
+              {
+                "text": "Google's AI is winning. Search is paying for it.",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Stock Market Today: Alphabet Suffers Its Worst Day Ever as AI Fears Spread From Search to Software",
+                "sentiment": -0.4
+              },
+              {
+                "text": "The Magnificent 7 stocks are seeing stunning declines",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Amazon: An Early Christmas Gift",
+                "sentiment": 0
+              },
+              {
+                "text": "But What If AI Isn't A Busted Flush? Microsoft Q1 FY6/27 Earnings Review",
+                "sentiment": 0
+              },
+              {
+                "text": "Selling the map, not the chips: How Gartner is cashing in on AI",
+                "sentiment": 0
+              },
+              {
+                "text": "Big Tech Capex Scorecard: Amazon Spends Over $77B In One Quarter — How It Stacks Up With MSFT, TSLA, GOOGL",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Amazon CEO Andy Jassy Just Made a Wild Prediction. It Could Make the Tech Giant a Big Winner.",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "MSFT",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-30T13:41:20.625Z"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "bullishProbability": 22,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "NVDA",
+            "price": 206.79,
+            "previousClose": 213.66,
+            "changeRatio": -0.03215388935692223,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 760.71,
+            "previousClose": 769.36,
+            "changeRatio": -0.01124311115732554,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "NVDA",
+            "averageSentiment": -0.039999999999999994,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "The Biggest Risk to Anthropic Stock Is the Company Itself",
+                "sentiment": -0.2
+              },
+              {
+                "text": "If a Stock Market Crash Is Coming, History Suggests These Are 2 Crucial Moves to Make.",
+                "sentiment": -1
+              },
+              {
+                "text": "The Anthropic IPO Will Be an Epic Failure, Based on What History Tells Us",
+                "sentiment": 0
+              },
+              {
+                "text": "1,000 Units of Enterprise Products Partners Pay $2,240 a Year. Here’s What the Latest Earnings Say About Whether That’s a Safe Passive Income Stream.",
+                "sentiment": 0
+              },
+              {
+                "text": "Management Set A Higher Bar For Micron Stock; Does The Chart Agree?",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Marvell in advanced talks to buy Nvidia-backed Lumentum – report",
+                "sentiment": 0
+              },
+              {
+                "text": "Just 15 Stocks Make Up 71% of the Dow. Here's My Top Pick to Buy Now.",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Google's AI is winning. Search is paying for it.",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Should You Buy or Sell Meta Stock After Its $95 Billion Bombshell Announcement?",
+                "sentiment": 0
+              },
+              {
+                "text": "Can You Invest in Anthropic Before the IPO? Here's the Clear Answer.",
+                "sentiment": 0
+              },
+              {
+                "text": "How Much Would the Average Worker Need to Invest to Replace Their Salary With Dividends? Here's the Math.",
+                "sentiment": 0
+              },
+              {
+                "text": "If a Stock Market Correction Is Coming, History Says This 1 Move Has Always Paid Off Big Time",
+                "sentiment": 0
+              },
+              {
+                "text": "Annaly Pays 75 Cents a Share Each Quarter. 4,000 Shares Would Pay You $1,000 a Month.",
+                "sentiment": 0
+              },
+              {
+                "text": "Elon Musk vs. Jensen Huang: Who Is Right About CoreWeave?",
+                "sentiment": 0
+              },
+              {
+                "text": "The Magnificent 7 stocks are seeing stunning declines",
+                "sentiment": -0.4
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "NVDA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-30T13:41:20.593Z"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "bullishProbability": 24,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "TSLA",
+            "price": 392.08,
+            "previousClose": 403.3,
+            "changeRatio": -0.027820481031490273,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 760.71,
+            "previousClose": 769.36,
+            "changeRatio": -0.01124311115732554,
+            "source": "finnhub",
+            "asOf": "2026-10-30T13:41:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "TSLA",
+            "averageSentiment": 0.04000000000000001,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "What Sent Eli Lilly Stock Higher?",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Electric Vehicles Today - Green Rain Energy Expands EV Charging Network Nationwide",
+                "sentiment": 0
+              },
+              {
+                "text": "There are 3 Questions to Answer Before a Possible Tesla and SpaceX Merger",
+                "sentiment": 0
+              },
+              {
+                "text": "Jim Cramer sees more pain for beaten-down AI stocks: ‘I think it’s too soon to say the coast is clear’",
+                "sentiment": -0.2
+              },
+              {
+                "text": "The Magnificent 7 stocks are seeing stunning declines",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Why Is Tesla (TSLA) Reworking Cybertruck Plans And Battery Rules Now?",
+                "sentiment": 0
+              },
+              {
+                "text": "Stocktwits Wall Street Wrap — Tesla, Broadcom, MercadoLibre Get Bullish Calls As Alphabet, Enphase Face Downgrades",
+                "sentiment": 0
+              },
+              {
+                "text": "The Case Against a SpaceX and Tesla Merger",
+                "sentiment": 0
+              },
+              {
+                "text": "‘This Is a Knife Fight:’ Inside China’s Ruthless EV Blitz Upending the World",
+                "sentiment": 0
+              },
+              {
+                "text": "Stocktwits Space Race Monthly: SPCX Holds Up Better Than ASTS, RKLB And PL In October — But VSAT Takes The Crown",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Big Tech Capex Scorecard: Amazon Spends Over $77B In One Quarter — How It Stacks Up With MSFT, TSLA, GOOGL",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Jim Cramer praises Broadcom and recommends buying another iconic stock",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla-SpaceX Merger ‘Does Make Strategic Sense,’ Analyst Says — But SpaceX Needs Nearly 2x The Growth",
+                "sentiment": 0.4
+              },
+              {
+                "text": "How Much Anthropic Matters to SpaceX and Other Gems From SpaceX’s Filing",
+                "sentiment": 0
+              },
+              {
+                "text": "Rivian Earnings Show There Is Still Life in the EV Market",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-10-30T13:41:20.592Z"
+      }
+    ]
+  }
+]
