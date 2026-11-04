@@ -1,0 +1,708 @@
+[
+  {
+    "generatedAt": "2026-11-04T14:55:46.238Z",
+    "nextMarketOpenMadrid": "2026-11-05T14:30:00.000Z",
+    "scores": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "bullishProbability": 69,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "META",
+            "price": 631.26,
+            "previousClose": 621.03,
+            "changeRatio": 0.01647263417226224,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.68,
+            "previousClose": 754.35,
+            "changeRatio": 0.01634519785245566,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "META",
+            "averageSentiment": 3.7007434154171884e-18,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Global X Launches Magnificent Six ETF",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta Just Paid 7.5% to Borrow for 30 Years as Bond Sale Drew $58 Billion in Orders",
+                "sentiment": 0
+              },
+              {
+                "text": "AMD's AI megadeals with OpenAI and Meta just cost it $1.1 billion: Chart of the Day",
+                "sentiment": 0
+              },
+              {
+                "text": "Since Evercore Said the OpenAI Deal Made AMD a ‘Buy,’ It’s Up More Than 140%. Here’s Where We See It Going",
+                "sentiment": 0.2
+              },
+              {
+                "text": "What Has Changed About Owning Alphabet Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Market Chatter: Data Center Developers May Face Tighter Rules After Democratic Wins",
+                "sentiment": 0.4
+              },
+              {
+                "text": "AMD Takes $1 Billion Hit From OpenAI and Meta AI Chip Deals",
+                "sentiment": 0
+              },
+              {
+                "text": "Ray Dalio says one AI risk is hiding in plain sight",
+                "sentiment": -0.2
+              },
+              {
+                "text": "State Street Comm Services SPDR (XLC) Sells $38.1 Million of Meta on Nov. 2",
+                "sentiment": 0
+              },
+              {
+                "text": "What Direxion Daily S&P 500 Bull 3X ETF (SPXL) Sold: Apple Leads on Nov. 2",
+                "sentiment": 0
+              },
+              {
+                "text": "Capital Group Dividend Value (CGDV) Buys $146.3 Million More AMAT on Nov. 2",
+                "sentiment": 0
+              },
+              {
+                "text": "ETFs Are Buying Meta Platforms (META) on Monday",
+                "sentiment": 0
+              },
+              {
+                "text": "Wall Street Futures Plunged After Democrats Swept Congress. Then Investors Started Buying Again.",
+                "sentiment": 0
+              },
+              {
+                "text": "How Much Should This Fall Change Your View Of Reddit Stock?",
+                "sentiment": -0.4
+              },
+              {
+                "text": "What Is Driving The Move In Trade Desk Stock?",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "META",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-04T14:55:46.197Z"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "bullishProbability": 80,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AMZN",
+            "price": 269.31,
+            "previousClose": 250.69,
+            "changeRatio": 0.07427500099724761,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:13.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.68,
+            "previousClose": 754.35,
+            "changeRatio": 0.01634519785245566,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AMZN",
+            "averageSentiment": 0.03333333333333333,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Meet the Only \"Magnificent Seven\" Stock That's Outperforming the S&P 500 and Nasdaq This Year (Hint: It's Not Nvidia)",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon’s Good Problems to Have Keep Me Hitting The Buy Button",
+                "sentiment": 0
+              },
+              {
+                "text": "What Kraft Heinz (KHC) Said on Its Q3 Earnings Call",
+                "sentiment": 0
+              },
+              {
+                "text": "Why tech earnings are facing an unprecedented high bar",
+                "sentiment": 0
+              },
+              {
+                "text": "What Has Changed About Owning Alphabet Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Market Chatter: Data Center Developers May Face Tighter Rules After Democratic Wins",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Ray Dalio says one AI risk is hiding in plain sight",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Elon says Grok Bot costs more than it makes",
+                "sentiment": 0
+              },
+              {
+                "text": "Luzern eCommerce and TripleLift Drive Purchaser Growth for Optibac Probiotics with Full-Funnel Demand Strategy",
+                "sentiment": 0.3
+              },
+              {
+                "text": "YieldMax® ETFs Announces Weekly Distributions for Group 2 ETFs",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Every IBM Investor Is Looking At This One Number",
+                "sentiment": 0
+              },
+              {
+                "text": "UPS Has Paid the Same $1.64 Dividend for 7 Quarters. Should Retirees Worry?",
+                "sentiment": 0
+              },
+              {
+                "text": "Andy Jassy Just Delivered Magnificent News for Amazon Investors",
+                "sentiment": 0
+              },
+              {
+                "text": "SK Telecom Q3 Earnings Call Highlights",
+                "sentiment": 0
+              },
+              {
+                "text": "SPDR Portfolio S&P 500 Value ETF (SPYV) Sells Apple and Amazon on Monday",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AMZN",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-04T14:55:46.238Z"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "bullishProbability": 79,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AAPL",
+            "price": 351.03,
+            "previousClose": 331.9,
+            "changeRatio": 0.05763784272371195,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:13.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.68,
+            "previousClose": 754.35,
+            "changeRatio": 0.01634519785245566,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AAPL",
+            "averageSentiment": -0.01333333333333333,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Global X Launches Magnificent Six ETF",
+                "sentiment": 0
+              },
+              {
+                "text": "Micron Stock Faces a Memory Price Conundrum in Wake of Democrat Success",
+                "sentiment": 0
+              },
+              {
+                "text": "BofA Warned About This Exact Election Night in August",
+                "sentiment": -0.6
+              },
+              {
+                "text": "What Has Changed About Owning Alphabet Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Buy, Sell, or Hold? Wednesday’s Top Upgrades and Downgrades: Adobe, Apple, Duolingo, Exxon Mobil, Fiserv, Fortinet, Gartner, Lockheed Martin, Skyworks Solutions, Visa and More",
+                "sentiment": 0
+              },
+              {
+                "text": "Nvidia Took Back the World’s Biggest Company Title From Apple on Election Day",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Democrats Take Congress as AMD’s Blowout Quarter Pulls Chip Stocks Back Into the Light",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Has $89.7 Billion in Purchase Obligations, and Most of It Comes Due Within a Year",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple’s ‘Free-Rider’ Status Isn’t Changing Anytime Soon",
+                "sentiment": 0
+              },
+              {
+                "text": "What Bayerische Motoren Werke Aktiengesellschaft (BMW) Said on Its Q3 Earnings Call",
+                "sentiment": 0
+              },
+              {
+                "text": "YieldMax® ETFs Announces Weekly Distributions for Group 2 ETFs",
+                "sentiment": 0
+              },
+              {
+                "text": "SPDR Portfolio S&P 500 Value ETF (SPYV) Sells Apple and Amazon on Monday",
+                "sentiment": 0
+              },
+              {
+                "text": "NEOS Nasdaq 100 High Income (QQQI) Buys $148.8 Million More SpaceX on Monday",
+                "sentiment": 0
+              },
+              {
+                "text": "What SPDR Portfolio S&P 500 Growth (SPYG) Bought: NVDA Leads on Nov. 2",
+                "sentiment": 0.4
+              },
+              {
+                "text": "What JPMorgan Nasdaq Equity Premium Income (JEPQ) Sold: Marriott Leads on Monday",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AAPL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-04T14:55:46.222Z"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "bullishProbability": 79,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "GOOGL",
+            "price": 290.44,
+            "previousClose": 280.03,
+            "changeRatio": 0.037174588436953274,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.68,
+            "previousClose": 754.35,
+            "changeRatio": 0.01634519785245566,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "GOOGL",
+            "averageSentiment": -0.013333333333333334,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Amazon’s Good Problems to Have Keep Me Hitting The Buy Button",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Elon Musk will keep funding Grok, no matter the cost",
+                "sentiment": 0
+              },
+              {
+                "text": "Global X Launches Magnificent Six ETF",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta Just Paid 7.5% to Borrow for 30 Years as Bond Sale Drew $58 Billion in Orders",
+                "sentiment": 0
+              },
+              {
+                "text": "Google Cloud Revenue Could Overtake Search In 2028. Can It Be A Cash Machine?",
+                "sentiment": 0
+              },
+              {
+                "text": "Why tech earnings are facing an unprecedented high bar",
+                "sentiment": 0
+              },
+              {
+                "text": "What Has Changed About Owning Alphabet Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Nvidia Took Back the World’s Biggest Company Title From Apple on Election Day",
+                "sentiment": 0
+              },
+              {
+                "text": "Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple’s ‘Free-Rider’ Status Isn’t Changing Anytime Soon",
+                "sentiment": 0
+              },
+              {
+                "text": "Ray Dalio says one AI risk is hiding in plain sight",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Elon says Grok Bot costs more than it makes",
+                "sentiment": 0
+              },
+              {
+                "text": "Bernie Sanders Calls Google’s AI-in-Schools Move “Extortion”",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Every IBM Investor Is Looking At This One Number",
+                "sentiment": 0
+              },
+              {
+                "text": "Is One Stalled Business Reason Enough To Sell Zoom Stock?",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "GOOGL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-04T14:55:46.223Z"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "bullishProbability": 80,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "MSFT",
+            "price": 551.3,
+            "previousClose": 520.99,
+            "changeRatio": 0.058177700147795434,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.68,
+            "previousClose": 754.35,
+            "changeRatio": 0.01634519785245566,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "MSFT",
+            "averageSentiment": 0.02666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Amazon’s Good Problems to Have Keep Me Hitting The Buy Button",
+                "sentiment": 0
+              },
+              {
+                "text": "Exxon Mobil Just Raised Its Dividend for the 44th Year. Here Are 3 More Wall Street Favorites",
+                "sentiment": 0.4
+              },
+              {
+                "text": "60% of S&P 500 Stocks Are in a Bear Market, With the Index Near a Record",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Docusign vs. Okta: Which Tech Stock Is a Better Buy for 2027?",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta Just Paid 7.5% to Borrow for 30 Years as Bond Sale Drew $58 Billion in Orders",
+                "sentiment": 0
+              },
+              {
+                "text": "BofA Warned About This Exact Election Night in August",
+                "sentiment": -0.6
+              },
+              {
+                "text": "WiseStamp Announces Integration with HiBob, Automating and Controlling Employee Data in Email Signatures",
+                "sentiment": 0
+              },
+              {
+                "text": "What Has Changed About Owning Alphabet Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "HP Names Emma Walmsley as New CEO, Ending Monthlong Search",
+                "sentiment": 0
+              },
+              {
+                "text": "Nvidia Took Back the World’s Biggest Company Title From Apple on Election Day",
+                "sentiment": 0
+              },
+              {
+                "text": "Ray Dalio says one AI risk is hiding in plain sight",
+                "sentiment": -0.2
+              },
+              {
+                "text": "HP Inc. Appoints Emma Walmsley as Chief Executive Officer",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Every IBM Investor Is Looking At This One Number",
+                "sentiment": 0
+              },
+              {
+                "text": "Is One Stalled Business Reason Enough To Sell Zoom Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Is There A Risk Hiding In Salesforce Stock's Record Quarter?",
+                "sentiment": 0.2
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "MSFT",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-04T14:55:46.211Z"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "bullishProbability": 46,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "NVDA",
+            "price": 204.21,
+            "previousClose": 206.69,
+            "changeRatio": -0.011998645314238665,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.68,
+            "previousClose": 754.35,
+            "changeRatio": 0.01634519785245566,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "NVDA",
+            "averageSentiment": -0.04666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Marvell Slipped Over The Last Month and Then Crashed Massively on the Lumentum Announcement: This Wall Street Desk Doubled Down on Its 130% Gains Prediction",
+                "sentiment": 0.1
+              },
+              {
+                "text": "This Is How the Stock Market Typically Performs After Midterm Elections",
+                "sentiment": 0
+              },
+              {
+                "text": "5 Dividend Stocks to Buy in 2027 and Hold for the Next 5 Years",
+                "sentiment": 0
+              },
+              {
+                "text": "If You Invested $10,000 in Intel Stock at Its Dot-Com-Era Peak, Here's How Much You'd Have Today",
+                "sentiment": 0
+              },
+              {
+                "text": "Global X Launches Magnificent Six ETF",
+                "sentiment": 0
+              },
+              {
+                "text": "If a Stock Market Crash Is Coming, Warren Buffett's 7-Word Investing Advice Has Never Been Wrong",
+                "sentiment": -1
+              },
+              {
+                "text": "BofA Warned About This Exact Election Night in August",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Venture Global Wants to Be an \"AI Utility.\" Its 10-Gigawatt Plan Still Needs Customers.",
+                "sentiment": 0
+              },
+              {
+                "text": "What's Happening With AMD Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Bank Stock Looks To Finance Breakout In Troubled Market",
+                "sentiment": 0
+              },
+              {
+                "text": "AI Faces A Higher Hurdle, Not An Extinction Event After Democrats’ Midterm Sweep, Says Saxo Strategist",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Uber’s Delivery Business Narrows Gap With Ride-Sharing. Now Comes the Robo-Taxi Push.",
+                "sentiment": 0
+              },
+              {
+                "text": "Tech Sell-Off: 2 Growth Stocks Investors Might Regret Not Buying on the Dip",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Nvidia Took Back the World’s Biggest Company Title From Apple on Election Day",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Democrats Take Congress as AMD’s Blowout Quarter Pulls Chip Stocks Back Into the Light",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "NVDA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-04T14:55:46.203Z"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "bullishProbability": 33,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "TSLA",
+            "price": 384.14,
+            "previousClose": 398.5,
+            "changeRatio": -0.03603513174404018,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:13.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 766.68,
+            "previousClose": 754.35,
+            "changeRatio": 0.01634519785245566,
+            "source": "finnhub",
+            "asOf": "2026-11-04T14:55:12.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "TSLA",
+            "averageSentiment": 0.13066666666666665,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "SpaceX, Tesla stocks sink as analyst warns Democrats' victory will create 'major hurdles' for AI build-out",
+                "sentiment": -0.6
+              },
+              {
+                "text": "SpaceX Declines 6%, Tesla Falls 5% as Democratic Sweep Raises Merger and Regulatory Risks; General Motors Rises 2%",
+                "sentiment": -0.04
+              },
+              {
+                "text": "Tesla Has Cash But It Won’t Matter for The Rest of 2026",
+                "sentiment": 0
+              },
+              {
+                "text": "BYD Does Many Things Better Than Tesla But It Doesn’t Matter",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Dow Surges Nearly 1,000 Points On Election; Musk-Led SpaceX, Tesla Dive (Live Coverage)",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Which sectors will benefit most and face pressure after Democratic sweep?",
+                "sentiment": 0
+              },
+              {
+                "text": "Texas, Ohio and Georgia data center risks after Democratic election wins",
+                "sentiment": 0.1
+              },
+              {
+                "text": "Tesla, SpaceX Dive As Elon Musk's Big GOP Election Bet Fails",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX Stock Keeps Getting Cheaper. Starship Flight 15 Could Spark a Massive Rally.",
+                "sentiment": 0.6
+              },
+              {
+                "text": "SpaceX, Tesla slide as election risks mount, Morgan Stanley turns bullish",
+                "sentiment": 0.3
+              },
+              {
+                "text": "The Market Loves the Democrat Sweep. It’s More Complicated for AI Stocks.",
+                "sentiment": 0
+              },
+              {
+                "text": "Electric Vehicles Today - European Connector Market Driven By EV Adoption And Innovation",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Tesla (NASDAQ:TSLA): Strong Growth Meets a High-Quality Bull Flag Setup",
+                "sentiment": 0.4
+              },
+              {
+                "text": "SpaceX, AMD, Arista, Block, Super Micro, and More Stocks That Explain Today’s Market",
+                "sentiment": 0
+              },
+              {
+                "text": "What Bayerische Motoren Werke Aktiengesellschaft (BMW) Said on Its Q3 Earnings Call",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-04T14:55:46.233Z"
+      }
+    ]
+  }
+]
