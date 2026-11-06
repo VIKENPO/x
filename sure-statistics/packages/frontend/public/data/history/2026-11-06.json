@@ -1,0 +1,708 @@
+[
+  {
+    "generatedAt": "2026-11-06T14:40:44.335Z",
+    "nextMarketOpenMadrid": "2026-11-09T14:30:00.000Z",
+    "scores": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "bullishProbability": 73,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "META",
+            "price": 621.64,
+            "previousClose": 605.08,
+            "changeRatio": 0.02736828188008188,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 737.77,
+            "previousClose": 733,
+            "changeRatio": 0.006507503410641176,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "META",
+            "averageSentiment": -0.1,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Healthcare and Staples Hold the Line Against Tech. The Time to Be Fearful When Others Are Greedy Has Arrived.",
+                "sentiment": 0
+              },
+              {
+                "text": "Why The Blue Tsunami Rattled AI Stocks As Microsoft, Google, Amazon Fall",
+                "sentiment": -0.4
+              },
+              {
+                "text": "AI Trade, Alphabet, Meta Lose Steam As Medical And Energy Sectors Attract Investors",
+                "sentiment": 0
+              },
+              {
+                "text": "How Has Meta's Story Changed?",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Amazon and Other AI Data-Center Stocks Will Be Post-Midterm Winners",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Nasdaq Crashes 5.5% as Midterm Fallout Turns Into a Brutal AI Chip Selloff",
+                "sentiment": -1
+              },
+              {
+                "text": "What State Street Comm Services SPDR (XLC) Bought: Meta Leads on Wednesday",
+                "sentiment": 0
+              },
+              {
+                "text": "Capital Group Growth (CGGR) Buys $16.8 Million More Seagate on Nov. 4",
+                "sentiment": 0.4
+              },
+              {
+                "text": "ETFs Are Net Sellers of Meta Platforms (META) on Nov. 4",
+                "sentiment": 0
+              },
+              {
+                "text": "Kalshi Users Pour $300 Million Into Stock Perps Within Hours of U.S. Debut",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock-Split Watch: Is Meta Platforms Next?",
+                "sentiment": 0
+              },
+              {
+                "text": "Softbank In Discussions To Invest Hundreds Of Millions Of Dollars In Latest OpenAI Funding Round Of $20B Across Two Parts; Emirati Group Including MGX Expected To Be Largest Investor At Latest Valuation Of $1.25T - NY Times DealBook",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Trade Mixed as October Jobs Rose by 165,000— Airbnb, Cloudflare, Lam Research in Focus (UPDATED)",
+                "sentiment": 0
+              },
+              {
+                "text": "Former Goldman Sachs CEO Slams 'Current Hysteria' to Block AI Data Centers, Calls it a 'Gift to China'—Patrick Moorhead Warns US Jobs, Tax Revenue Losses",
+                "sentiment": -0.5
+              },
+              {
+                "text": "Meta Platforms Heads 3 Top Founder Led Stocks To Watch",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "META",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-06T14:40:44.311Z"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "bullishProbability": 60,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AMZN",
+            "price": 263.1,
+            "previousClose": 260.21,
+            "changeRatio": 0.011106414050190397,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 737.77,
+            "previousClose": 733,
+            "changeRatio": 0.006507503410641176,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AMZN",
+            "averageSentiment": -0.12000000000000001,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "OpenAI Says It Will Pay for Its Data Centers’ Power After the Election Backlash",
+                "sentiment": 0
+              },
+              {
+                "text": "Big Investors Now Doubt Anthropic Can IPO at $1.5 Trillion After the AI Crash",
+                "sentiment": -1
+              },
+              {
+                "text": "Cloud Infrastructure Trade Splits as AI Hardware Selloffs Test Investor Selectivity",
+                "sentiment": 0
+              },
+              {
+                "text": "Healthcare and Staples Hold the Line Against Tech. The Time to Be Fearful When Others Are Greedy Has Arrived.",
+                "sentiment": 0
+              },
+              {
+                "text": "Why The Blue Tsunami Rattled AI Stocks As Microsoft, Google, Amazon Fall",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Elon Musk warns AI could surpass all human intelligence by 2032. Can investors ride the wave or get crushed?",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Who Is Paying For Rivian's Cash Burn?",
+                "sentiment": 0
+              },
+              {
+                "text": "How Has Meta's Story Changed?",
+                "sentiment": 0
+              },
+              {
+                "text": "What Are Microsoft Investors Betting On?",
+                "sentiment": 0
+              },
+              {
+                "text": "Alphabet is The Best Positioned Hyperscaler for This Blue Wave AI-Energy Regulation Shift",
+                "sentiment": 0
+              },
+              {
+                "text": "AI Rally Cools — And Takes Average U.S. Stock Fund Down With It",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Stocks lost $2 trillion. The market is wrong about AI",
+                "sentiment": 0
+              },
+              {
+                "text": "Latest News In AI Chips - Race to Dominate AI Infrastructure Accelerates Globally",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Amazon and Other AI Data-Center Stocks Will Be Post-Midterm Winners",
+                "sentiment": 0
+              },
+              {
+                "text": "Jeff Green Wants “Smaller Pods and Smaller Scrums.” Trade Desk Needs Revenue Above $650 Million",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AMZN",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-06T14:40:44.318Z"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "bullishProbability": 41,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AAPL",
+            "price": 339.46,
+            "previousClose": 344.17,
+            "changeRatio": -0.013685097480896174,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 737.77,
+            "previousClose": 733,
+            "changeRatio": 0.006507503410641176,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AAPL",
+            "averageSentiment": -0.08000000000000002,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Apple Is Borrowing $7.5 Billion, Its First Bond Sale Since 2025",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Is Now Worth $600 Billion More Than Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",
+                "sentiment": 0
+              },
+              {
+                "text": "Cloud AI Update - AI Accelerator Market Poised for Significant Growth by 2030",
+                "sentiment": 0.4
+              },
+              {
+                "text": "From Musk’s Tesla Cybertruck To Ternus’ Memory Warning: MAG 7 Voices In Midterm Election Week",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Should You Buy Qualcomm Stock Now Or Wait?",
+                "sentiment": 0
+              },
+              {
+                "text": "What Are Microsoft Investors Betting On?",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Is Virtually Insulated From Blue-Wave Pain Points",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Vs. Alphabet: The Midterms Just Separated Them from The Mag 7 Pack",
+                "sentiment": 0
+              },
+              {
+                "text": "Tech Stocks Just Had Their Worst Day Since 2020",
+                "sentiment": 0
+              },
+              {
+                "text": "Stocks lost $2 trillion. The market is wrong about AI",
+                "sentiment": 0
+              },
+              {
+                "text": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce After Nasdaq Dives 5.5%",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Stock Market Today: Nasdaq Crashes 5.5% as Midterm Fallout Turns Into a Brutal AI Chip Selloff",
+                "sentiment": -1
+              },
+              {
+                "text": "SPDR Portfolio S&P 500 Growth (SPYG) Buys $29.8 Million More NVDA on Nov. 4",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Technology Select Sector SPDR (XLK) Adds Oracle, Trims Apple on Nov. 4",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AAPL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-06T14:40:44.319Z"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "bullishProbability": 73,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "GOOGL",
+            "price": 290.21,
+            "previousClose": 282.57,
+            "changeRatio": 0.02703754821814059,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:16.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 737.77,
+            "previousClose": 733,
+            "changeRatio": 0.006507503410641176,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "GOOGL",
+            "averageSentiment": -0.05333333333333334,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "OpenAI Says It Will Pay for Its Data Centers’ Power After the Election Backlash",
+                "sentiment": 0
+              },
+              {
+                "text": "Cathie Wood Is Buying The Dip In Nvidia As She Adds $45.9 Million Of NVDA And Sells $119.7 Million Of Broadcom",
+                "sentiment": 0
+              },
+              {
+                "text": "Google parent reveals $548 million bet on beaten-down chip stock",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Cathie Wood sells $120 million in AI stock, buys Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "USA Today Co Inc (TDAY) (Q3 2026) Earnings Call Highlights: Digital Subscriptions Shine as Cost ...",
+                "sentiment": 0
+              },
+              {
+                "text": "Healthcare and Staples Hold the Line Against Tech. The Time to Be Fearful When Others Are Greedy Has Arrived.",
+                "sentiment": 0
+              },
+              {
+                "text": "Why The Blue Tsunami Rattled AI Stocks As Microsoft, Google, Amazon Fall",
+                "sentiment": -0.4
+              },
+              {
+                "text": "AI Trade, Alphabet, Meta Lose Steam As Medical And Energy Sectors Attract Investors",
+                "sentiment": 0
+              },
+              {
+                "text": "Cloud AI Update - AI Accelerator Market Poised for Significant Growth by 2030",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Brutal AI Implosion Torches $4.5 Trillion — These 3 Stocks Hit The Worst",
+                "sentiment": 0
+              },
+              {
+                "text": "Elon Musk warns AI could surpass all human intelligence by 2032. Can investors ride the wave or get crushed?",
+                "sentiment": -0.6
+              },
+              {
+                "text": "How Much Could You Lose In Rigetti Computing Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "How Has Meta's Story Changed?",
+                "sentiment": 0
+              },
+              {
+                "text": "What Are Microsoft Investors Betting On?",
+                "sentiment": 0
+              },
+              {
+                "text": "Netflix (NFLX) Stock Looks Cheap With 23% Upside To Fair Value",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "GOOGL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-06T14:40:44.301Z"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "bullishProbability": 45,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "MSFT",
+            "price": 531.45,
+            "previousClose": 535.93,
+            "changeRatio": -0.008359300654936102,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 737.77,
+            "previousClose": 733,
+            "changeRatio": 0.006507503410641176,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "MSFT",
+            "averageSentiment": -0.10666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "OpenAI Says It Will Pay for Its Data Centers’ Power After the Election Backlash",
+                "sentiment": 0
+              },
+              {
+                "text": "Cloud Infrastructure Trade Splits as AI Hardware Selloffs Test Investor Selectivity",
+                "sentiment": 0
+              },
+              {
+                "text": "Healthcare and Staples Hold the Line Against Tech. The Time to Be Fearful When Others Are Greedy Has Arrived.",
+                "sentiment": 0
+              },
+              {
+                "text": "Nvidia Partner CoreWeave Ready To Report Q3 As AI Stocks Crumble; Nebius, Qualys Also Due",
+                "sentiment": 0
+              },
+              {
+                "text": "Why The Blue Tsunami Rattled AI Stocks As Microsoft, Google, Amazon Fall",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",
+                "sentiment": 0
+              },
+              {
+                "text": "Cloud AI Update - AI Accelerator Market Poised for Significant Growth by 2030",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Elon Musk warns AI could surpass all human intelligence by 2032. Can investors ride the wave or get crushed?",
+                "sentiment": -0.6
+              },
+              {
+                "text": "How Has Meta's Story Changed?",
+                "sentiment": 0
+              },
+              {
+                "text": "What Are Microsoft Investors Betting On?",
+                "sentiment": 0
+              },
+              {
+                "text": "Alphabet is The Best Positioned Hyperscaler for This Blue Wave AI-Energy Regulation Shift",
+                "sentiment": 0
+              },
+              {
+                "text": "Stocks lost $2 trillion. The market is wrong about AI",
+                "sentiment": 0
+              },
+              {
+                "text": "Latest News In AI Chips - Race to Dominate AI Infrastructure Accelerates Globally",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Amazon and Other AI Data-Center Stocks Will Be Post-Midterm Winners",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Nasdaq Crashes 5.5% as Midterm Fallout Turns Into a Brutal AI Chip Selloff",
+                "sentiment": -1
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "MSFT",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-06T14:40:44.335Z"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "bullishProbability": 76,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "NVDA",
+            "price": 193.25,
+            "previousClose": 181.6,
+            "changeRatio": 0.06415198237885465,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:16.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 737.77,
+            "previousClose": 733,
+            "changeRatio": 0.006507503410641176,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "NVDA",
+            "averageSentiment": -0.013333333333333338,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Here's How Many Shares of This Unstoppable Dividend Stock You'd Need for $10,000 in Yearly Passive Income",
+                "sentiment": 0
+              },
+              {
+                "text": "Marvell Drops 50% in One Month: This Analyst Stands Pat on 195% Gains Prediction",
+                "sentiment": 0
+              },
+              {
+                "text": "AMD Vs. Nvidia: The Balance of Power Shifts To AMD Now",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Dow Slides 500 Points Amid Surprise Jobs Report; Nvidia Leads Tech Rebound (Live Coverage)",
+                "sentiment": 0
+              },
+              {
+                "text": "Cathie Wood Is Buying The Dip In Nvidia As She Adds $45.9 Million Of NVDA And Sells $119.7 Million Of Broadcom",
+                "sentiment": 0
+              },
+              {
+                "text": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
+                "sentiment": 0.4
+              },
+              {
+                "text": "These 6 Utility Stocks Offer Income and a Link to Power Demand",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Cathie Wood sells $120 million in AI stock, buys Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Is Now Worth $600 Billion More Than Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "Tech just had a crisis-sized day — the kind that came in 2000, 2008, and 2020: Chart of the Day",
+                "sentiment": 0
+              },
+              {
+                "text": "Equity Futures Mostly Point Higher Following Tech-Led Selloff",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Democrats Retake the House and Senate: Here's What It Could Mean for SpaceX and Tesla",
+                "sentiment": 0
+              },
+              {
+                "text": "Micron's 17% stock plunge reveals a surprising valuation",
+                "sentiment": -0.8
+              },
+              {
+                "text": "Michael Burry Dumps 25% of His Semiconductor Bet Amid Brutal Tech Selloff",
+                "sentiment": 0
+              },
+              {
+                "text": "TSX futures edged lower amid fallout from AI-driven stock rout",
+                "sentiment": -0.4
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "NVDA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-06T14:40:44.315Z"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "bullishProbability": 70,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "TSLA",
+            "price": 351.4,
+            "previousClose": 343.69,
+            "changeRatio": 0.02243300648840519,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:16.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 737.77,
+            "previousClose": 733,
+            "changeRatio": 0.006507503410641176,
+            "source": "finnhub",
+            "asOf": "2026-11-06T14:40:15.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "TSLA",
+            "averageSentiment": -0.05333333333333333,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Tesla winds down Cybertruck production as Musk shifts focus to robotaxis",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Tesla’s Primary Growth Drivers Just Got Choked Out",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Tesla To End Cybertruck Production; Shares Inch Up After Election Rout",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Musk says Tesla will end Cybertruck production next year",
+                "sentiment": 0
+              },
+              {
+                "text": "Democrats Retake the House and Senate: Here's What It Could Mean for SpaceX and Tesla",
+                "sentiment": 0
+              },
+              {
+                "text": "Elon Musk's controversial Tesla Cybertruck appears to be dead",
+                "sentiment": 0
+              },
+              {
+                "text": "Musk-Free ETFs Arrive: Investing Without the Tesla Factor",
+                "sentiment": 0
+              },
+              {
+                "text": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce After Nasdaq Dives 5.5%",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Elon Musk makes stunning decision on Tesla Cybertruck's future",
+                "sentiment": 0
+              },
+              {
+                "text": "Looking for a Floor in Tesla and SpaceX? Good Luck.",
+                "sentiment": 0
+              },
+              {
+                "text": "‘He wants the whole bag:’ A SpaceX-Tesla merger could help Elon Musk gain major control — without hitting lofty goals",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Elon Musk warns AI could surpass all human intelligence by 2032. Can investors ride the wave or get crushed?",
+                "sentiment": -0.6
+              },
+              {
+                "text": "From Musk’s Tesla Cybertruck To Ternus’ Memory Warning: MAG 7 Voices In Midterm Election Week",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Tesla and SpaceX Have Lost $457 Billion in Two Days",
+                "sentiment": 0
+              },
+              {
+                "text": "Who Is Paying For Rivian's Cash Burn?",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-06T14:40:44.330Z"
+      }
+    ]
+  }
+]
