@@ -704,5 +704,711 @@
         "computedAt": "2026-11-13T14:58:13.636Z"
       }
     ]
+  },
+  {
+    "generatedAt": "2026-11-13T21:09:36.955Z",
+    "nextMarketOpenMadrid": "2026-11-16T14:30:00.000Z",
+    "scores": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "bullishProbability": 73,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "META",
+            "price": 641.69,
+            "previousClose": 623.61,
+            "changeRatio": 0.02899247927390523,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 754.21,
+            "previousClose": 757.12,
+            "changeRatio": -0.0038435122569737534,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "META",
+            "averageSentiment": 0.10666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Wall Street Is Writing Off Nvidia Stock. Here's Why That's a Mistake.",
+                "sentiment": 0
+              },
+              {
+                "text": "Should You Wait Before Buying Reddit Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "OpenAI Wants to Spend Your Money—With Your Permission, of Course",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta reportedly paid 2 teens a combined $7 million to settle social media addiction claims as 9,800 more cases loom",
+                "sentiment": 0
+              },
+              {
+                "text": "United is the first airline to ban bookings from Meta’s AI agent, Muse: 'I don't want to create another middleman'",
+                "sentiment": 0
+              },
+              {
+                "text": "Liberty All-Star® Growth Fund, Inc. October 2026 Monthly Update",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Liberty All-Star® Equity Fund October 2026 Monthly Update",
+                "sentiment": 0
+              },
+              {
+                "text": "Qualcomm’s CEO Says Chipmakers Are in an “Extreme Shortage”",
+                "sentiment": 0
+              },
+              {
+                "text": "4 Stocks Bill Ackman and Jim Cramer Are Bullish On",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Microsoft vs. Meta: enterprise AI distribution against monetization speed",
+                "sentiment": 0
+              },
+              {
+                "text": "Forget the \"Magnificent Seven.\" Berkshire Hathaway Could Be the Better Long-Term Bet.",
+                "sentiment": 0
+              },
+              {
+                "text": "AMD CEO Lisa SU on being named Yahoo Finance CEO of the Year",
+                "sentiment": 0
+              },
+              {
+                "text": "Anthropic’s Toughest Challenge: Maintaining Its Massive Margins",
+                "sentiment": 0
+              },
+              {
+                "text": "Form Energy Adds Meta and Tesla Veterans Lori Goler and Jon McNeill to Board as It Ramps Production for Commercial Growth",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Anthropic IPO: Buy Day One Or Wait?",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "META",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-13T21:09:36.953Z"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "bullishProbability": 48,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AMZN",
+            "price": 266.64,
+            "previousClose": 267.44,
+            "changeRatio": -0.0029913251570446134,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 754.21,
+            "previousClose": 757.12,
+            "changeRatio": -0.0038435122569737534,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AMZN",
+            "averageSentiment": 0.12666666666666665,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Amazon Prime and Uber Eats partnership: $0 delivery fees on $25+ orders for Prime members",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Sector Update: Consumer Stocks Mixed in Afternoon Trading",
+                "sentiment": 0
+              },
+              {
+                "text": "How Investors May Respond To Amazon Stock As AWS Growth And Anthropic IPO Near",
+                "sentiment": 0.4
+              },
+              {
+                "text": "OpenAI Wants to Spend Your Money—With Your Permission, of Course",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon's secret AI plan could change how Americans shop",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon Eyes Products It Doesn't Sell in AI Shopping Tussle",
+                "sentiment": 0
+              },
+              {
+                "text": "Liberty All-Star® Equity Fund October 2026 Monthly Update",
+                "sentiment": 0
+              },
+              {
+                "text": "Netflix Said To Eye 'Channel Store,' May Bundle With Fox One",
+                "sentiment": 0
+              },
+              {
+                "text": "Qualcomm’s CEO Says Chipmakers Are in an “Extreme Shortage”",
+                "sentiment": 0
+              },
+              {
+                "text": "What Could Still Send Apple Stock Higher?",
+                "sentiment": 0.4
+              },
+              {
+                "text": "4 Stocks Bill Ackman and Jim Cramer Are Bullish On",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Why Billionaire investor Bill Ackman isn't touching Anthropic",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon stands out as the best consumer stock pick",
+                "sentiment": 0
+              },
+              {
+                "text": "Lowe’s Stock Cut to Sell as It Struggles to Catch Up to Home Depot",
+                "sentiment": -0.1
+              },
+              {
+                "text": "Forget the \"Magnificent Seven.\" Berkshire Hathaway Could Be the Better Long-Term Bet.",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AMZN",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-13T21:09:36.928Z"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "bullishProbability": 52,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AAPL",
+            "price": 356.27,
+            "previousClose": 354.88,
+            "changeRatio": 0.003916816952209159,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 754.21,
+            "previousClose": 757.12,
+            "changeRatio": -0.0038435122569737534,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AAPL",
+            "averageSentiment": 0.026666666666666672,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "JardogsHealth Forms Strategic Advisory Council with Leaders from Discover Card, MTV, DoorDash and Apple",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Nvidia’s leadership shift could reshape its competitive edge",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Nasdaq In Red As Nvidia Wipes Out $650 Billion; Applied Materials Sinks (Live Coverage)",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Nvidia Without Huang Has It Harder Than Apple Without Jobs, DA Davidson Says",
+                "sentiment": 0
+              },
+              {
+                "text": "Can Dell Stock Fall 40%?",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Apple Stocks Rise 1.04% as Siri AI-Powered HomeView and Apple TV Hit Shelves",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Liberty All-Star® Growth Fund, Inc. October 2026 Monthly Update",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Microsoft Goes Ex-Dividend Nov 19. Here’s What Backs the $0.98 Payout",
+                "sentiment": 0
+              },
+              {
+                "text": "What Could Still Send Apple Stock Higher?",
+                "sentiment": 0.4
+              },
+              {
+                "text": "The road ahead without Jensen Huang: Who can run Nvidia?",
+                "sentiment": 0
+              },
+              {
+                "text": "What investors should consider before hitting buy on Nvidia",
+                "sentiment": 0
+              },
+              {
+                "text": "Forget the \"Magnificent Seven.\" Berkshire Hathaway Could Be the Better Long-Term Bet.",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Is the World’s Largest Company, and Nvidia Is Second. Here’s What $10,000 Invested in Each Today Could Be Worth by the End of Next Year.",
+                "sentiment": 0
+              },
+              {
+                "text": "Stock Market Today: Nasdaq Slides Amid Surprise Economic Data; Microsoft Outage Trips Up Stock (Live Coverage)",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Qualcomm CEO Cristiano Amon on fueling the AI boom",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AAPL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-13T21:09:36.841Z"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "bullishProbability": 42,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "GOOGL",
+            "price": 295.77,
+            "previousClose": 298.7,
+            "changeRatio": -0.009809173083361255,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 754.21,
+            "previousClose": 757.12,
+            "changeRatio": -0.0038435122569737534,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "GOOGL",
+            "averageSentiment": 0.09333333333333332,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Wall Street Is Writing Off Nvidia Stock. Here's Why That's a Mistake.",
+                "sentiment": 0
+              },
+              {
+                "text": "Is Oppenheimer Wrong to Give Up on Reddit? Wall Street Still Sees $150",
+                "sentiment": 0.2
+              },
+              {
+                "text": "The Dow Is Flat. The Stock Market is Doing Better Than it Looks.",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Nvidia’s leadership shift could reshape its competitive edge",
+                "sentiment": 0
+              },
+              {
+                "text": "HSBC Says Buy the Dip in These 11 Stocks -- Alphabet and Oracle Top the List",
+                "sentiment": 0
+              },
+              {
+                "text": "Should You Wait Before Buying Reddit Stock?",
+                "sentiment": 0
+              },
+              {
+                "text": "Alphabet Stocks Rise 1.19% as Gemini 4 Hydrogen and $395 AI Glasses Launch",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Marvell Is Still Up 81% This Year. Can MRVL Stock Hit $300 by 2029?",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Meta reportedly paid 2 teens a combined $7 million to settle social media addiction claims as 9,800 more cases loom",
+                "sentiment": 0
+              },
+              {
+                "text": "Is Rothschild & Co Redburn Wrong to Give Up on Broadcom? Wall Street Still Sees $533",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Google Maps makes major change after 20-year standoff",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon's secret AI plan could change how Americans shop",
+                "sentiment": 0
+              },
+              {
+                "text": "Liberty All-Star® Growth Fund, Inc. October 2026 Monthly Update",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Microsoft Goes Ex-Dividend Nov 19. Here’s What Backs the $0.98 Payout",
+                "sentiment": 0
+              },
+              {
+                "text": "Liberty All-Star® Equity Fund October 2026 Monthly Update",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "GOOGL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-13T21:09:36.920Z"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "bullishProbability": 51,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "MSFT",
+            "price": 523.88,
+            "previousClose": 523,
+            "changeRatio": 0.001682600382409169,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 754.21,
+            "previousClose": 757.12,
+            "changeRatio": -0.0038435122569737534,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "MSFT",
+            "averageSentiment": 0.10666666666666665,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Microsoft's latest outage hit Outlook and Copilot — what it means for your email",
+                "sentiment": 0
+              },
+              {
+                "text": "Cerebras Stocks Jump 11.70% After Raising Outlook and Confirming Microsoft Cloud Deal",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Nvidia Is Lending This AI Start-Up $2 Billion. Now Jensen Huang Is Gone, and an IPO Looms.",
+                "sentiment": 0.2
+              },
+              {
+                "text": "CBRG 2X Cerebras ETF Surges 16% as Cerebras Jumps 8% on Microsoft Deal and Raised Guidance",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Microsoft Outage Sends Cybersecurity Stocks Higher. Palo Alto and CrowdStrike Lead Gains",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Cerebras Lands Microsoft Deal as Profit Test Nears",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Microsoft Stocks Edge Lower as Outlook and Teams Outage Tops 12 Hours",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Update: Microsoft Services Continue to Recover From Global Outage",
+                "sentiment": 0
+              },
+              {
+                "text": "Top Midday Stories: Bessent Says Commerce Was in Charge of Megaspeed Restrictions; Microsoft Sees 'Broader Improvements' in North America Service",
+                "sentiment": 0
+              },
+              {
+                "text": "Billionaire Jeffrey Gundlach Calls the Stock Market a ‘Hollow Tree’ as Weakness Spreads Beyond Big Tech",
+                "sentiment": 0
+              },
+              {
+                "text": "Liberty All-Star® Growth Fund, Inc. October 2026 Monthly Update",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Microsoft Goes Ex-Dividend Nov 19. Here’s What Backs the $0.98 Payout",
+                "sentiment": 0
+              },
+              {
+                "text": "Liberty All-Star® Equity Fund October 2026 Monthly Update",
+                "sentiment": 0
+              },
+              {
+                "text": "Microsoft outage is ‘one of the most economically damaging in history’, expert warns",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Anthropic IPO reportedly 6 times oversubscribed",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "MSFT",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-13T21:09:36.839Z"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "bullishProbability": 31,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "NVDA",
+            "price": 162.85,
+            "previousClose": 166.19,
+            "changeRatio": -0.020097478789337524,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 754.21,
+            "previousClose": 757.12,
+            "changeRatio": -0.0038435122569737534,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "NVDA",
+            "averageSentiment": -0.16,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Where Will AGNC Investment Stock Be in 5 Years?",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet",
+                "sentiment": 0
+              },
+              {
+                "text": "If the Stock Market Crashes, These Are the First 3 Dividend Stocks I Want to Buy",
+                "sentiment": -1
+              },
+              {
+                "text": "Nvidia Scandal is Poking Real Holes in the AI Trade. But That Doesn’t Mean it’s Over.",
+                "sentiment": -0.8
+              },
+              {
+                "text": "Wall Street Is Writing Off Nvidia Stock. Here's Why That's a Mistake.",
+                "sentiment": 0
+              },
+              {
+                "text": "Investing.com’s stocks of the week",
+                "sentiment": 0
+              },
+              {
+                "text": "Veteran Analyst Downgrades Nvidia Stock Ahead of Earnings",
+                "sentiment": -0.8
+              },
+              {
+                "text": "Jensen Huang Joins Wall Street’s Fallen-Founder Hall of Fame: 13 Founders Who Fell Before Him",
+                "sentiment": 0
+              },
+              {
+                "text": "The powerful figures caught up in the Nvidia scandal",
+                "sentiment": -0.3
+              },
+              {
+                "text": "The Human Flaw in the AI Trade: Analyzing Jensen Huang’s Nvidia Downfall",
+                "sentiment": 0
+              },
+              {
+                "text": "How Investors May Respond To Broadcom (AVGO) As Nvidia Rivals Gain Attention",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Investor: Anthropic's S-1 is the 'most impressive business I've ever reviewed'",
+                "sentiment": 0
+              },
+              {
+                "text": "Update: US Equity Indexes Fall as Nvidia Debacle Hits Chipmakers, Long Treasury Yields Jump on 'Elevated' Producer Prices",
+                "sentiment": 0.1
+              },
+              {
+                "text": "The Dow Is Flat. The Stock Market is Doing Better Than it Looks.",
+                "sentiment": 0
+              },
+              {
+                "text": "Chipotle Bought Back Stock at $34.05 a Share Last Quarter. Is It Still a Buy Today?",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "NVDA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-13T21:09:36.926Z"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "bullishProbability": 34,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "TSLA",
+            "price": 390.22,
+            "previousClose": 397.45,
+            "changeRatio": -0.018190967417285098,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 754.21,
+            "previousClose": 757.12,
+            "changeRatio": -0.0038435122569737534,
+            "source": "finnhub",
+            "asOf": "2026-11-13T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Elon Musk's SpaceX–Tesla Merger 'Almost Inconceivable' to Avoid, Biographer Says",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla and SpaceX Move Closer to a Deal. What Would Tesla Shareholders Get?",
+                "sentiment": 0
+              },
+              {
+                "text": "Texas AG-elect vows 'tremendous scrutiny' of SpaceX-Tesla merger",
+                "sentiment": 0
+              },
+              {
+                "text": "General Motors vs. Tesla: Which Is the Better Automotive Stock to Buy Going Into 2027?",
+                "sentiment": 0
+              },
+              {
+                "text": "Trader Loses $200K, Quits For 3 Years, Then Returns To Win It Back And Loses Another $100K. Says, ‘The FOMO Was Unbearable’",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Sector Update: Tech Stocks Fall Friday Afternoon",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Tesla-SpaceX Merger Talks Progress. Gary Black Sees “Little Windfall” for Tesla Holders",
+                "sentiment": 0
+              },
+              {
+                "text": "Automotive Properties Real Est Invt TR Q3 Earnings Call Highlights",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Pulls $42K Model Y AWD From US Website Amid Musk’s Pivot Toward Robotaxis",
+                "sentiment": 0
+              },
+              {
+                "text": "You Can Do Better Than Tesla: 3 Industrial Stocks With More Upside",
+                "sentiment": 0
+              },
+              {
+                "text": "Investors Just Got Big News on a SpaceX-Tesla Merger",
+                "sentiment": 0
+              },
+              {
+                "text": "Here’s What Needs to Happen for Tesla’s Bull Case to Materialize and Push Past $500 Next Year",
+                "sentiment": 0
+              },
+              {
+                "text": "Forget the \"Magnificent Seven.\" Berkshire Hathaway Could Be the Better Long-Term Bet.",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX Flight 15: Morgan Stanley Calls Upcoming Starship Test One Of The Most ‘Significant Catalysts’ In Company’s 25-Year History",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-13T21:09:36.955Z"
+      }
+    ]
   }
 ]
