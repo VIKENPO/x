@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-11-17T16:32:44.696Z",
-  "nextMarketOpenMadrid": "2026-11-18T14:30:00.000Z",
+  "generatedAt": "2026-11-18T16:01:46.182Z",
+  "nextMarketOpenMadrid": "2026-11-19T14:30:00.000Z",
   "scores": [
     {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "bullishProbability": 34,
+      "bullishProbability": 44,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "META",
-          "price": 616.27,
-          "previousClose": 626.41,
-          "changeRatio": -0.016187481042767494,
+          "price": 614.12,
+          "previousClose": 618.87,
+          "changeRatio": -0.0076752791377833795,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:24.000Z"
+          "asOf": "2026-11-18T16:01:16.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 730.77,
-          "previousClose": 739.95,
-          "changeRatio": -0.012406243665112593,
+          "price": 730.53,
+          "previousClose": 732.44,
+          "changeRatio": -0.002607722134236363,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:17.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "META",
-          "averageSentiment": 0.08,
+          "averageSentiment": 0.10666666666666667,
           "sampleSize": 15,
           "items": [
             {
-              "text": "Fed Chair Kevin Warsh Outlined 3 Possible Futures for AI Yesterday. One Could Be Devastating for Stocks",
-              "sentiment": 0
+              "text": "Snap Stock Hinges On Ad Growth And Buybacks",
+              "sentiment": 0.5
             },
             {
-              "text": "Jensen Huang holds 3.6% of Nvidia’s votes, so his board could show him the door. Musk and Zuckerberg have a shield",
-              "sentiment": 0
-            },
-            {
-              "text": "Stock market outlook for 2027: 5 key predictions for investors",
-              "sentiment": 0
-            },
-            {
-              "text": "Bill Ackman Just Sold 35% of His Microsoft Stake",
-              "sentiment": 0
-            },
-            {
-              "text": "Lumentum, Corning, and other optical-related stocks jump on Chinese import restrictions",
-              "sentiment": 0.6
-            },
-            {
-              "text": "White House Pushes Ahead With Chinese Data-Center Equipment Restrictions",
-              "sentiment": 0
-            },
-            {
-              "text": "Trump Media Climbs 3% After Buying Back $100 Million in Convertible Notes; Rumble Slides 3%, Meta Dips",
-              "sentiment": 0
-            },
-            {
-              "text": "AI Fever Creates Cottage Industry For Small Agencies, Firms",
-              "sentiment": 0
-            },
-            {
-              "text": "Meta AI Momentum Offsetting Spending Concerns, Says UBS — Analyst Sees 30% Potential Upside",
-              "sentiment": -0.4
-            },
-            {
-              "text": "Viant's AI Dive With Waymark, 'Attention' With TVision",
-              "sentiment": 0
-            },
-            {
-              "text": "Dan Loeb Dumps These 3 Stocks",
-              "sentiment": 0
-            },
-            {
-              "text": "Coherent Rises 3% as Trump Presses Ahead With Chinese Optics Ban Despite Big Tech Lobbying",
+              "text": "Broadcom Stock Has Another Growth Driver. Here’s Where I See It Going in 2027",
               "sentiment": 0.4
             },
             {
-              "text": "George Soros, Cathie Wood and 18 Other Big Funds Sold Snowflake, While 23 Bought. Who’s Right?",
+              "text": "Loblaw becomes first Canadian retailer to bring AI-powered shopping to Meta's Muse",
               "sentiment": 0
             },
             {
-              "text": "Meta Platforms (META) Surges as AI Ranking Models Accelerate U.S. Ad Revenue Growth to 31%",
+              "text": "Apple Is the Only Magnificent Seven Stock Near a Record",
               "sentiment": 0.6
             },
             {
-              "text": "Roblox Stock Fell Nearly 8%. What Happened?",
+              "text": "Why Is Snap Stock Going Up?",
+              "sentiment": 0.2
+            },
+            {
+              "text": "Anthropic Is Going Public Into a Shaky Market. Here’s How Past Mega IPOs Fared in Similar Conditions.",
+              "sentiment": 0
+            },
+            {
+              "text": "Is Reddit Stock's Fall A Bargain Or A Warning?",
+              "sentiment": -0.5
+            },
+            {
+              "text": "First Trust NASDAQ-100 Tech (QTEC) Sells $5.0 Million More Applovin on Nov. 16",
+              "sentiment": 0
+            },
+            {
+              "text": "Capital Group Growth (CGGR) Buys $56.4 Million More Cloudflare on Nov. 16",
+              "sentiment": 0.4
+            },
+            {
+              "text": "ETFs Are Buying Meta Platforms (META) on Monday",
+              "sentiment": 0
+            },
+            {
+              "text": "Progressive Ventures Closes $12.24 Million Fund I to Back B2B AI Founders Before Demo Day",
+              "sentiment": 0
+            },
+            {
+              "text": "The Zacks Analyst Blog Highlights Meta, Amazon's, Microsoft's and Alphabet's",
+              "sentiment": 0
+            },
+            {
+              "text": "Loblaw Announces Its Customers Can Go From Store Selection To Checkout Using Meta's Muse Agent",
+              "sentiment": 0
+            },
+            {
+              "text": "Bill Ackman Sold Over 2 Million Microsoft Shares In Q3 Months After Calling It 'Compellingly Cheap': What's Going On?",
+              "sentiment": 0
+            },
+            {
+              "text": "Nvidia Says Meta, OpenAI and CoreWeave Adopt Vera, Expects CPU Revenue to More Than Double in 2028 as Physical AI Revenue Nears $25 Billion",
               "sentiment": 0
             }
           ]
@@ -100,95 +100,95 @@
           "items": []
         }
       },
-      "computedAt": "2026-11-17T16:32:44.571Z"
+      "computedAt": "2026-11-18T16:01:46.173Z"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "bullishProbability": 38,
+      "bullishProbability": 68,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "AMZN",
-          "price": 254.9,
-          "previousClose": 257.75,
-          "changeRatio": -0.011057225994180386,
+          "price": 263.68,
+          "previousClose": 257.89,
+          "changeRatio": 0.022451432781418514,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:17.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 730.77,
-          "previousClose": 739.95,
-          "changeRatio": -0.012406243665112593,
+          "price": 730.53,
+          "previousClose": 732.44,
+          "changeRatio": -0.002607722134236363,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:17.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "AMZN",
-          "averageSentiment": 0.06666666666666667,
+          "averageSentiment": 0.13333333333333333,
           "sampleSize": 15,
           "items": [
             {
-              "text": "Fed Chair Kevin Warsh Outlined 3 Possible Futures for AI Yesterday. One Could Be Devastating for Stocks",
+              "text": "Brandmovers Launches RetailerConnect™ to Bring Receiptless Rewards to Brand Loyalty and Promotions",
               "sentiment": 0
             },
             {
-              "text": "SpaceX, Rivals Win $985 Million In Launch Awards. Cathie Wood, David Tepper Shift Space Holdings.",
-              "sentiment": 0.4
-            },
-            {
-              "text": "There's 'no difference' between buying Anthropic's IPO and Amazon's IPO: Kevin O'Leary",
+              "text": "Bill Gurley says giving away AI is Google's 'No. 1' move against Anthropic",
               "sentiment": 0
             },
             {
-              "text": "If Nvidia’s Earnings Show Tightness, Alphabet and Amazon Could Rise 40% and 33% By The End of 2026, Respectively",
-              "sentiment": 0.4
+              "text": "Snap Stock Hinges On Ad Growth And Buybacks",
+              "sentiment": 0.5
             },
             {
-              "text": "AI Bubble Panic: Wall Street Makes Its Biggest Tech Cut in 20 Years",
-              "sentiment": -0.4
-            },
-            {
-              "text": "Pardon the Disruption: Grocers have backed themselves into a corner with e-commerce",
+              "text": "GUTSI Engages PLTFRM for Online Supplement Rollout",
               "sentiment": 0
             },
             {
-              "text": "A $22 Billion Hedge Fund Dumps These 3 Stocks",
+              "text": "GB News launches British-only rival to Amazon",
               "sentiment": 0
             },
             {
-              "text": "Stanley Druckenmiller Dumps These 3 Stocks",
+              "text": "Dow Jones Futures Fall, Techs Rise After Nvidia, Target Earnings; Anthropic IPO Ahead",
               "sentiment": 0
             },
             {
-              "text": "Hinojosa: Abbott Started “the Data Center Madness.” Cipher Digital Lost 21% the Next Day",
+              "text": "Why Huang's Exit May Not Sink Nvidia Stock",
               "sentiment": 0
             },
             {
-              "text": "Lumentum, Corning, and other optical-related stocks jump on Chinese import restrictions",
+              "text": "EasyPost, the Leading Shipping AI and API Platform for Modern Commerce, to Go Public on Nasdaq Through Business Combination with American Drive Acquisition Company",
+              "sentiment": 0
+            },
+            {
+              "text": "Apple Is the Only Magnificent Seven Stock Near a Record",
               "sentiment": 0.6
             },
             {
-              "text": "White House Pushes Ahead With Chinese Data-Center Equipment Restrictions",
+              "text": "Celsius vs. Hershey: Which Consumer Goods Stock Is a Better Buy for 2027?",
               "sentiment": 0
             },
             {
-              "text": "SpaceX Has Slumped Since June. 3 Billionaires Just Piled In Anyway (and 1 Went 17x Bigger)",
+              "text": "Prediction: Colette Kress Is More Vital to Nvidia’s Future Than Her Interim CEO Title Implies",
               "sentiment": 0
             },
             {
-              "text": "Nvidia's \"Valuation Sanity Check\", tech software debacles, and Anthropic IPO preview",
+              "text": "Bank of America sees a tech retreat not seen since 2006",
               "sentiment": 0
             },
             {
-              "text": "AI Fever Creates Cottage Industry For Small Agencies, Firms",
+              "text": "Jim Cramer Told Nvidia’s Interim CEO “the Cheapest Stock in the World Is Yours”",
               "sentiment": 0
             },
             {
-              "text": "Dan Loeb Dumps These 3 Stocks",
-              "sentiment": 0
+              "text": "Why Is Snap Stock Going Up?",
+              "sentiment": 0.2
+            },
+            {
+              "text": "Dow Jones Futures: Techs Jump On Nvidia Earnings; Target Beats, Anthropic IPO Ahead",
+              "sentiment": 0.7
             }
           ]
         },
@@ -200,195 +200,195 @@
           "items": []
         }
       },
-      "computedAt": "2026-11-17T16:32:44.561Z"
+      "computedAt": "2026-11-18T16:01:46.182Z"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "bullishProbability": 43,
+      "bullishProbability": 53,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "AAPL",
-          "price": 352,
-          "previousClose": 352.78,
-          "changeRatio": -0.0022110096944270444,
+          "price": 353.04,
+          "previousClose": 351.91,
+          "changeRatio": 0.0032110482793896037,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:17.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 730.77,
-          "previousClose": 739.95,
-          "changeRatio": -0.012406243665112593,
+          "price": 730.53,
+          "previousClose": 732.44,
+          "changeRatio": -0.002607722134236363,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:17.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "AAPL",
-          "averageSentiment": -0.04,
-          "sampleSize": 15,
-          "items": [
-            {
-              "text": "George Soros and 21 Other Big Funds Sold Apple Last Quarter, While 13 Bought. Who’s Right?",
-              "sentiment": 0
-            },
-            {
-              "text": "What Does SMCI Stock Offer That HP Does Not?",
-              "sentiment": 0
-            },
-            {
-              "text": "Apple Is Now the World’s Largest Company. Time to Buy the Stock?",
-              "sentiment": 0
-            },
-            {
-              "text": "Arm Could Become a Much Bigger AI Winner by 2030. Here’s the Case",
-              "sentiment": 0
-            },
-            {
-              "text": "What Triggered Dell Stock's 7% Drop?",
-              "sentiment": -0.4
-            },
-            {
-              "text": "Nvidia’s Board Reportedly Isn’t Considering Bringing Jensen Huang Back",
-              "sentiment": 0
-            },
-            {
-              "text": "Snap Promised Specs This Fall. Five Weeks Left and the $2,195 Glasses Still Have No Ship Date",
-              "sentiment": -0.4
-            },
-            {
-              "text": "Can Subscriptions Lift Snap Stock Nearly 50%?",
-              "sentiment": 0
-            },
-            {
-              "text": "Alphabet Stock Down Nearly 17%: What Decides It Now?",
-              "sentiment": -0.2
-            },
-            {
-              "text": "Archer and Jeppesen ForeFlight Unveil AI Partnership",
-              "sentiment": 0.4
-            },
-            {
-              "text": "Warren Buffett’s Berkshire Didn’t Sell a Single Apple Share for a Second Straight Quarter. The Stake Is Now Worth $80 Billion",
-              "sentiment": 0
-            },
-            {
-              "text": "Could Nvidia Be Berkshire's Next Big Tech Purchase?",
-              "sentiment": 0
-            },
-            {
-              "text": "Microsoft Is Making Voluntary Exit Offers to Engineers for the First Time",
-              "sentiment": 0
-            },
-            {
-              "text": "Sam Altman Says It’s “Hard to Imagine the AI Revolution Without Jensen”",
-              "sentiment": 0
-            },
-            {
-              "text": "Apple Inc. (AAPL) Is a Trending Stock: Facts to Know Before Betting on It",
-              "sentiment": 0
-            }
-          ]
-        },
-        "reddit": {
-          "source": "reddit",
-          "symbol": "AAPL",
-          "averageSentiment": 0,
-          "sampleSize": 0,
-          "items": []
-        }
-      },
-      "computedAt": "2026-11-17T16:32:44.443Z"
-    },
-    {
-      "symbol": "GOOGL",
-      "name": "Alphabet Inc.",
-      "bullishProbability": 37,
-      "confidence": 85,
-      "breakdown": {
-        "quote": {
-          "symbol": "GOOGL",
-          "price": 280.43,
-          "previousClose": 283.72,
-          "changeRatio": -0.011595939658818624,
-          "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
-        },
-        "marketProxy": {
-          "symbol": "SPY",
-          "price": 730.77,
-          "previousClose": 739.95,
-          "changeRatio": -0.012406243665112593,
-          "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
-        },
-        "news": {
-          "source": "news",
-          "symbol": "GOOGL",
           "averageSentiment": 0.09333333333333332,
           "sampleSize": 15,
           "items": [
             {
-              "text": "Fed Chair Kevin Warsh Outlined 3 Possible Futures for AI Yesterday. One Could Be Devastating for Stocks",
+              "text": "Bill Gurley says giving away AI is Google's 'No. 1' move against Anthropic",
               "sentiment": 0
             },
             {
-              "text": "If Nvidia’s Earnings Show Tightness, Alphabet and Amazon Could Rise 40% and 33% By The End of 2026, Respectively",
-              "sentiment": 0.4
+              "text": "Snap Stock Hinges On Ad Growth And Buybacks",
+              "sentiment": 0.5
             },
             {
-              "text": "Broadcom’s AI Revenue is Contracted to Double in 2027, So I’m Buying",
+              "text": "Why Huang's Exit May Not Sink Nvidia Stock",
               "sentiment": 0
             },
             {
-              "text": "AI Bubble Panic: Wall Street Makes Its Biggest Tech Cut in 20 Years",
-              "sentiment": -0.4
+              "text": "MP Materials' NdPr Production Up 41% in Q3: Will Magnet Growth Follow?",
+              "sentiment": 0.3
             },
             {
-              "text": "Nvidia Isn’t the Whole AI Story. This Stock Could Prove It",
-              "sentiment": 0
-            },
-            {
-              "text": "Stanley Druckenmiller Dumps These 3 Stocks",
-              "sentiment": 0
-            },
-            {
-              "text": "Hinojosa: Abbott Started “the Data Center Madness.” Cipher Digital Lost 21% the Next Day",
-              "sentiment": 0
-            },
-            {
-              "text": "Lumentum, Corning, and other optical-related stocks jump on Chinese import restrictions",
+              "text": "Apple Is the Only Magnificent Seven Stock Near a Record",
               "sentiment": 0.6
             },
             {
-              "text": "White House Pushes Ahead With Chinese Data-Center Equipment Restrictions",
+              "text": "Apple Outage Adds to a Week of US Tech Failures",
               "sentiment": 0
             },
             {
-              "text": "AI Fever Creates Cottage Industry For Small Agencies, Firms",
+              "text": "Why Is Snap Stock Going Up?",
+              "sentiment": 0.2
+            },
+            {
+              "text": "Planes, banks and the NSA all went down in one week",
+              "sentiment": -0.2
+            },
+            {
+              "text": "Apple Reveals Cause of Major Outage That Disrupted iCloud and Apple Pay",
               "sentiment": 0
             },
             {
-              "text": "Coherent Rises 3% as Trump Presses Ahead With Chinese Optics Ban Despite Big Tech Lobbying",
+              "text": "What ProShares Ultra QQQ 2x Shares (QLD) Bought: Apple Leads on Nov. 16",
+              "sentiment": 0
+            },
+            {
+              "text": "What Invesco NASDAQ 100 ETF (QQQM) Bought: Apple Leads on Nov. 16",
+              "sentiment": 0
+            },
+            {
+              "text": "What State Street Tech Select SPDR (XLK) Bought: Apple Leads on Nov. 16",
+              "sentiment": 0
+            },
+            {
+              "text": "What ProShares Trust (TQQQ) Bought: Apple Leads on Nov. 16",
+              "sentiment": 0
+            },
+            {
+              "text": "Invesco QQQ (QQQ) Buys $23.2 Million More Apple on Nov. 16",
+              "sentiment": 0
+            },
+            {
+              "text": "State Street SPDR Portfolio S&P 500 (SPYM) Adds Apple and Microsoft on Nov. 16",
+              "sentiment": 0
+            }
+          ]
+        },
+        "reddit": {
+          "source": "reddit",
+          "symbol": "AAPL",
+          "averageSentiment": 0,
+          "sampleSize": 0,
+          "items": []
+        }
+      },
+      "computedAt": "2026-11-18T16:01:46.174Z"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "bullishProbability": 56,
+      "confidence": 85,
+      "breakdown": {
+        "quote": {
+          "symbol": "GOOGL",
+          "price": 282.23,
+          "previousClose": 280.2,
+          "changeRatio": 0.007244825124910884,
+          "source": "finnhub",
+          "asOf": "2026-11-18T16:01:16.000Z"
+        },
+        "marketProxy": {
+          "symbol": "SPY",
+          "price": 730.53,
+          "previousClose": 732.44,
+          "changeRatio": -0.002607722134236363,
+          "source": "finnhub",
+          "asOf": "2026-11-18T16:01:17.000Z"
+        },
+        "news": {
+          "source": "news",
+          "symbol": "GOOGL",
+          "averageSentiment": 0.11333333333333334,
+          "sampleSize": 15,
+          "items": [
+            {
+              "text": "Chase Coleman’s Tiger Global Made Nvidia Its Biggest Bet With 12 Million Shares, Dethroning Taiwan Semiconductor. Then the Stock Fell 32%",
+              "sentiment": 0
+            },
+            {
+              "text": "D-Wave Quantum Stock Down 66%: What Moves It Next?",
+              "sentiment": -0.2
+            },
+            {
+              "text": "Bill Gurley says giving away AI is Google's 'No. 1' move against Anthropic",
+              "sentiment": 0
+            },
+            {
+              "text": "Snap Stock Hinges On Ad Growth And Buybacks",
+              "sentiment": 0.5
+            },
+            {
+              "text": "Broadcom Stock Has Another Growth Driver. Here’s Where I See It Going in 2027",
               "sentiment": 0.4
             },
             {
-              "text": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+              "text": "Alphabet (GOOGL) Spinout Raised $5 Billion For AI Drug Discovery",
               "sentiment": 0.4
             },
             {
-              "text": "Is Consulting Holding Back IBM Stock?",
+              "text": "Why Huang's Exit May Not Sink Nvidia Stock",
               "sentiment": 0
             },
             {
-              "text": "Global Student Account Provisioning Market 2026: Size, Trends and 2030 Forecast | Capitalize on 13.8% CAGR through AI and Cloud Security with Microsoft, Google, Okta, and Oracle",
+              "text": "CME vs. Upstart: Which Financial Stock Is a Better Buy for 2027?",
               "sentiment": 0
             },
             {
-              "text": "Druckenmiller Sold All of His Alphabet, AMD and SanDisk",
+              "text": "Apple Is the Only Magnificent Seven Stock Near a Record",
+              "sentiment": 0.6
+            },
+            {
+              "text": "Broadcom Plummeted 20% Over 6 Months: This Respected Tech and Hardware Research Firm is Confident 110% Returns Materialize",
               "sentiment": 0
+            },
+            {
+              "text": "Why SpaceX Needs Anthropic to Grow",
+              "sentiment": 0
+            },
+            {
+              "text": "Prediction: Colette Kress Is More Vital to Nvidia’s Future Than Her Interim CEO Title Implies",
+              "sentiment": 0
+            },
+            {
+              "text": "Why Is Snap Stock Going Up?",
+              "sentiment": 0.2
+            },
+            {
+              "text": "Billionaire David Tepper Slashes Alphabet Stake by 46% and Initiates $172M Bet on Oracle",
+              "sentiment": 0
+            },
+            {
+              "text": "Planes, banks and the NSA all went down in one week",
+              "sentiment": -0.2
             }
           ]
         },
@@ -400,94 +400,94 @@
           "items": []
         }
       },
-      "computedAt": "2026-11-17T16:32:44.570Z"
+      "computedAt": "2026-11-18T16:01:46.181Z"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "bullishProbability": 22,
+      "bullishProbability": 49,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "MSFT",
-          "price": 498.3,
-          "previousClose": 517.99,
-          "changeRatio": -0.03801231684009343,
+          "price": 505.52,
+          "previousClose": 506.24,
+          "changeRatio": -0.0014222503160556796,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:14.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 730.77,
-          "previousClose": 739.95,
-          "changeRatio": -0.012406243665112593,
+          "price": 730.53,
+          "previousClose": 732.44,
+          "changeRatio": -0.002607722134236363,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:17.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "MSFT",
-          "averageSentiment": -0.02666666666666667,
+          "averageSentiment": 0.08,
           "sampleSize": 15,
           "items": [
             {
-              "text": "Fed Chair Kevin Warsh Outlined 3 Possible Futures for AI Yesterday. One Could Be Devastating for Stocks",
+              "text": "D-Wave Quantum Stock Down 66%: What Moves It Next?",
+              "sentiment": -0.2
+            },
+            {
+              "text": "Microsoft Stock Loses Key Level Amid Global Outage; Is Microsoft A Buy Now?",
               "sentiment": 0
             },
             {
-              "text": "6 Big Funds Sold Palo Alto Networks Last Quarter. Should You Follow Them Before Earnings?",
-              "sentiment": 0
-            },
-            {
-              "text": "AI Bubble Panic: Wall Street Makes Its Biggest Tech Cut in 20 Years",
-              "sentiment": -0.4
-            },
-            {
-              "text": "California Is Now Suing OpenAI After Its AI Agents Attacked Another Company",
-              "sentiment": 0
-            },
-            {
-              "text": "Ent Joins Microsoft for Startups Pegasus Program",
-              "sentiment": 0
-            },
-            {
-              "text": "Action1 Extends Microsoft Intune Capabilities Without Expanding the Attack Surface",
-              "sentiment": 0
-            },
-            {
-              "text": "Bill Ackman Just Sold 35% of His Microsoft Stake",
-              "sentiment": 0
-            },
-            {
-              "text": "White House Pushes Ahead With Chinese Data-Center Equipment Restrictions",
-              "sentiment": 0
-            },
-            {
-              "text": "Nvidia's \"Valuation Sanity Check\", tech software debacles, and Anthropic IPO preview",
-              "sentiment": 0
-            },
-            {
-              "text": "AI Fever Creates Cottage Industry For Small Agencies, Firms",
-              "sentiment": 0
-            },
-            {
-              "text": "Coherent Rises 3% as Trump Presses Ahead With Chinese Optics Ban Despite Big Tech Lobbying",
+              "text": "Arrow Electronics announces new ArrowSphere sales portal to help channel partners accelerate cloud growth",
               "sentiment": 0.4
             },
             {
-              "text": "Is Consulting Holding Back IBM Stock?",
+              "text": "Why Huang's Exit May Not Sink Nvidia Stock",
               "sentiment": 0
             },
             {
-              "text": "Roblox Stock Fell Nearly 8%. What Happened?",
+              "text": "Can Salesforce Stock Jump 50%?",
+              "sentiment": 0.6
+            },
+            {
+              "text": "'Grand Theft Auto VI' could be the biggest entertainment launch in history",
               "sentiment": 0
             },
             {
-              "text": "Why Did Take-Two Stock Fall 6% Before GTA VI?",
-              "sentiment": -0.4
+              "text": "Apple Is the Only Magnificent Seven Stock Near a Record",
+              "sentiment": 0.6
             },
             {
-              "text": "Widespread outages hit consumers, Nvidia fallout continues, Pattinson named new James Bond",
+              "text": "Apple Outage Adds to a Week of US Tech Failures",
+              "sentiment": 0
+            },
+            {
+              "text": "What Explains The Move In Atlassian Stock?",
+              "sentiment": 0
+            },
+            {
+              "text": "Why Microsoft Investors Could Own It Through 3 ETFs",
+              "sentiment": 0
+            },
+            {
+              "text": "Prediction: Colette Kress Is More Vital to Nvidia’s Future Than Her Interim CEO Title Implies",
+              "sentiment": 0
+            },
+            {
+              "text": "Bank of America sees a tech retreat not seen since 2006",
+              "sentiment": 0
+            },
+            {
+              "text": "Planes, banks and the NSA all went down in one week",
+              "sentiment": -0.2
+            },
+            {
+              "text": "Major US banks hit by disruptions as Chase resolves software bug",
+              "sentiment": 0
+            },
+            {
+              "text": "Anthropic IPO: Priced For 2031, Or 2036?",
               "sentiment": 0
             }
           ]
@@ -500,94 +500,94 @@
           "items": []
         }
       },
-      "computedAt": "2026-11-17T16:32:44.543Z"
+      "computedAt": "2026-11-18T16:01:46.178Z"
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "bullishProbability": 34,
+      "bullishProbability": 36,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "NVDA",
-          "price": 153.96,
-          "previousClose": 156.14,
-          "changeRatio": -0.013961829127705768,
+          "price": 153.02,
+          "previousClose": 155.46,
+          "changeRatio": -0.015695355718512785,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:17.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 730.77,
-          "previousClose": 739.95,
-          "changeRatio": -0.012406243665112593,
+          "price": 730.53,
+          "previousClose": 732.44,
+          "changeRatio": -0.002607722134236363,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:17.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "NVDA",
-          "averageSentiment": -0.02666666666666667,
+          "averageSentiment": -0.04,
           "sampleSize": 15,
           "items": [
             {
-              "text": "Fed Chair Kevin Warsh Outlined 3 Possible Futures for AI Yesterday. One Could Be Devastating for Stocks",
+              "text": "This Magnificent Vanguard ETF Could Turn $500 per Month Into $1 Million in Under 30 Years",
               "sentiment": 0
             },
             {
-              "text": "SoftBank Had 64% of Its U.S. Stock Portfolio in Intel. It Has Since Halved",
+              "text": "The Most Important Number In Nvidia's Earnings Report Was 75%",
               "sentiment": 0
             },
             {
-              "text": "Gold Falls Below $4,000: Is Now the Time to Invest in This Gold-Backed ETF?",
-              "sentiment": -0.4
+              "text": "NVIDIA Just Cut Its Intel Stake. Intel Is Down 40% in a Month. Where’s the Stock Headed?",
+              "sentiment": -0.3
             },
             {
-              "text": "There's 'no difference' between buying Anthropic's IPO and Amazon's IPO: Kevin O'Leary",
+              "text": "Stock Market Today: Dow Falls As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage)",
+              "sentiment": 0.1
+            },
+            {
+              "text": "Chase Coleman’s Tiger Global Made Nvidia Its Biggest Bet With 12 Million Shares, Dethroning Taiwan Semiconductor. Then the Stock Fell 32%",
               "sentiment": 0
             },
             {
-              "text": "Prediction: This Will Be Broadcom’s Stock Price by the End of 2028",
-              "sentiment": 0
-            },
-            {
-              "text": "If Nvidia’s Earnings Show Tightness, Alphabet and Amazon Could Rise 40% and 33% By The End of 2026, Respectively",
-              "sentiment": 0.4
-            },
-            {
-              "text": "Broadcom’s AI Revenue is Contracted to Double in 2027, So I’m Buying",
-              "sentiment": 0
-            },
-            {
-              "text": "Wall Street dips ahead of Nvidia's first earnings since scandal",
+              "text": "Why S&P 500 ETF Investors Don't Have to Worry (Much) About Nvidia Stock Plunging",
               "sentiment": -0.8
             },
             {
-              "text": "How Long Can HeartFlow Keep Burning Cash?",
+              "text": "TSMC Is Reportedly Setting Credit Limits for AI Customers",
               "sentiment": 0
             },
             {
-              "text": "Berkshire Hathaway Slashes This Top 5 Stock; Nvidia Boosts SpaceX",
+              "text": "S&P 500 Premarket Movers on Nov. 18",
+              "sentiment": 0
+            },
+            {
+              "text": "TSX futures slip amid lower gold, oil prices; Nvidia earnings in focus",
+              "sentiment": -0.4
+            },
+            {
+              "text": "Prediction: This Cryptocurrency Will Outperform Bitcoin in 2027",
+              "sentiment": 0.6
+            },
+            {
+              "text": "Is Broadcom Stock Increasing Your Market Risk?",
+              "sentiment": -0.2
+            },
+            {
+              "text": "Nvidia Is in Turmoil, But Earnings Are Still Rocketing Higher. Is the Stock a Buy?",
               "sentiment": 0.4
             },
             {
-              "text": "Disney Increases Dividend By 33%. Here’s What’s Driving the Shift.",
+              "text": "Nvidia Activism Could Bring Huang Back as CEO, Ives Says",
               "sentiment": 0
             },
             {
-              "text": "The Stock Market Is Doing Something for Only the Second Time in 155 Years. Here's What History Says Could Come Next.",
+              "text": "Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic",
               "sentiment": 0
             },
             {
-              "text": "Jensen Huang holds 3.6% of Nvidia’s votes, so his board could show him the door. Musk and Zuckerberg have a shield",
-              "sentiment": 0
-            },
-            {
-              "text": "Nvidia Isn’t the Whole AI Story. This Stock Could Prove It",
-              "sentiment": 0
-            },
-            {
-              "text": "Why today's a pivotal test for the AI trade",
+              "text": "Dow Jones Futures Fall, Techs Rise After Nvidia, Target Earnings; Anthropic IPO Ahead",
               "sentiment": 0
             }
           ]
@@ -600,94 +600,94 @@
           "items": []
         }
       },
-      "computedAt": "2026-11-17T16:32:44.557Z"
+      "computedAt": "2026-11-18T16:01:46.179Z"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "bullishProbability": 46,
+      "bullishProbability": 52,
       "confidence": 85,
       "breakdown": {
         "quote": {
           "symbol": "TSLA",
-          "price": 379.41,
-          "previousClose": 379.74,
-          "changeRatio": -0.0008690156422815191,
+          "price": 380.99,
+          "previousClose": 380.11,
+          "changeRatio": 0.0023151193075688498,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:17.000Z"
         },
         "marketProxy": {
           "symbol": "SPY",
-          "price": 730.77,
-          "previousClose": 739.95,
-          "changeRatio": -0.012406243665112593,
+          "price": 730.53,
+          "previousClose": 732.44,
+          "changeRatio": -0.002607722134236363,
           "source": "finnhub",
-          "asOf": "2026-11-17T16:32:25.000Z"
+          "asOf": "2026-11-18T16:01:17.000Z"
         },
         "news": {
           "source": "news",
           "symbol": "TSLA",
-          "averageSentiment": 0.08000000000000002,
+          "averageSentiment": 0.11333333333333333,
           "sampleSize": 15,
           "items": [
             {
-              "text": "Jensen Huang holds 3.6% of Nvidia’s votes, so his board could show him the door. Musk and Zuckerberg have a shield",
+              "text": "Is Ford Stock Riskier Than It Looks?",
               "sentiment": 0
             },
             {
-              "text": "Cathie Wood Is Betting $1.2 Billion on Tesla",
-              "sentiment": 0
+              "text": "3 ETFs For Tesla As Its Germany Expansion Changes The Mix",
+              "sentiment": 0.4
             },
             {
-              "text": "Nio Is Down 45% This Year. What Will It Take to Get NIO Stock Back to $5?",
-              "sentiment": -0.2
+              "text": "Electric Vehicles Update - XPENG Shatters Records With Q3 Growth And Global Expansion",
+              "sentiment": 0.4
             },
             {
-              "text": "Tesla’s (TSLA) Record Q2 Revenue Overshadowed by Heavy R&D Investments",
+              "text": "Apple Is the Only Magnificent Seven Stock Near a Record",
               "sentiment": 0.6
             },
             {
-              "text": "Own Tesla? You Own A 95% Bet Beyond Cars",
+              "text": "3 Founder Led Stocks With Revenue Growth Up To 20%",
+              "sentiment": 0.3
+            },
+            {
+              "text": "Elon Musk Makes Major Tesla Production Shift After Cybertruck Sales Collapse",
               "sentiment": 0
             },
             {
-              "text": "AI, Innovation and Optimism Take Center Stage at Baron Capital's 33rd Annual Investment Conference",
-              "sentiment": 0.4
-            },
-            {
-              "text": "Cathie Wood and Jim Cramer Agree on These 10 Stocks: Latest 13F",
+              "text": "State Street Consumer Discretionary (XLY) Sells Amazon and Tesla on Monday",
               "sentiment": 0
             },
             {
-              "text": "Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”",
+              "text": "ETFs Bought $241.7 Million of Tesla (TSLA) on Nov. 16",
               "sentiment": 0
             },
             {
-              "text": "Tesla, Inc. (TSLA) is Attracting Investor Attention: Here is What You Should Know",
+              "text": "Tesla Is Now Taking Cybercab Orders. Here's Where I Think the Stock Will Be in 2030.",
               "sentiment": 0
             },
             {
-              "text": "Wait for Tesla to Fall to $320: Patience Over FOMO is Paramount",
-              "sentiment": -0.4
-            },
-            {
-              "text": "Tesla’s Robo-Taxi Progress Isn’t Enough to Move the Stock",
+              "text": "Reported Earlier, 'Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban; Robotaxi services are continuing to operate on surface streets' - WSJ",
               "sentiment": 0
             },
             {
-              "text": "SpaceX just caught a spaceship out of the sky",
+              "text": "Tesla-SpaceX Merger Is 'Almost Inconceivable' to Avoid, Says Elon Musk Biographer — 'You'll Know More' on Dec. 3",
               "sentiment": 0
             },
             {
-              "text": "Nvidia's $800 Billion Wipeout Raises a Bigger Question for Investors",
-              "sentiment": 0.4
+              "text": "“Of Course,” Musk Says When Told Tesla’s $1.6 Trillion Already Prices In Moderate Cybercab Success.",
+              "sentiment": 0
             },
             {
-              "text": "Latest News In Energy Transition - Statkraft Boosts UK Grid Stability With First Battery System",
-              "sentiment": 0.4
+              "text": "ARKK: Nvidia Is Not Cathie Wood's Biggest Bet",
+              "sentiment": 0
             },
             {
-              "text": "Tesla Stock At $390.22 Already Prices In Most Of 2030",
+              "text": "Coinbase Exec Says AI IPOs Pulling Money From Bitcoin Is ‘A Reasonable Argument’ As Anthropic Debut Nears",
+              "sentiment": 0
+            },
+            {
+              "text": "SpaceX (SPCX) Merger Talks Advance As $74 Billion AI Campus Plan Takes Shape",
               "sentiment": 0
             }
           ]
@@ -700,7 +700,7 @@
           "items": []
         }
       },
-      "computedAt": "2026-11-17T16:32:44.696Z"
+      "computedAt": "2026-11-18T16:01:46.169Z"
     }
   ]
 }
