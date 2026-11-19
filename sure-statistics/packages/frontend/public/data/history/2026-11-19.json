@@ -704,5 +704,711 @@
         "computedAt": "2026-11-19T16:08:38.373Z"
       }
     ]
+  },
+  {
+    "generatedAt": "2026-11-19T23:07:38.380Z",
+    "nextMarketOpenMadrid": "2026-11-20T14:30:00.000Z",
+    "scores": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "bullishProbability": 20,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "META",
+            "price": 596.22,
+            "previousClose": 616.38,
+            "changeRatio": -0.032707096271780346,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 715.87,
+            "previousClose": 730.2,
+            "changeRatio": -0.01962476033963303,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "META",
+            "averageSentiment": 0.10666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Intuit Beats Fiscal Q1 Goals, Gives Soft Outlook, Sells Mailchimp",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Meta trades at 21x P/E, yet shareholders face a massive new bill",
+                "sentiment": 0
+              },
+              {
+                "text": "Turkey’s monopolies watchdog takes on all comers",
+                "sentiment": 0
+              },
+              {
+                "text": "Oklo Just Dropped 22% in a Month. What Would It Take to Get OKLO Stock to $25?",
+                "sentiment": 0
+              },
+              {
+                "text": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
+                "sentiment": 0
+              },
+              {
+                "text": "AMD Stock Drops After Short Report Says It Isn’t an Nvidia Replacement",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Nebius Stock’s (NBIS) Q3 Sell-Off Looks Like an Opportunity",
+                "sentiment": 0
+              },
+              {
+                "text": "Best Blue Chip Stocks: 21 Hedge Fund Top Picks",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta's New AI Agent Raises Serious Privacy Questions for Investors",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Daniel Loeb's Meta Stock Bet Stands Out as Tiger Global Trims",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Alphabet's Cheap P/E May Mislead Investors",
+                "sentiment": 0
+              },
+              {
+                "text": "Trump Media Gains 3% Despite Market Wobble and Looming $883.5 Million Note Deadline; Rumble Falls 3%",
+                "sentiment": 0
+              },
+              {
+                "text": "Can Google Borrow Another $100 Billion?",
+                "sentiment": 0
+              },
+              {
+                "text": "Amazon Beat QQQ, But The Ride Was Much Harder",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Anthropic Debuted at a $1.5 Trillion Valuation. Here’s What It Would Have to Be Worth to Match Tech’s Greatest Runs",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "META",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-19T23:07:38.361Z"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "bullishProbability": 19,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AMZN",
+            "price": 257.37,
+            "previousClose": 267.74,
+            "changeRatio": -0.038731605288712945,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 715.87,
+            "previousClose": 730.2,
+            "changeRatio": -0.01962476033963303,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AMZN",
+            "averageSentiment": -0.006666666666666669,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Blue Owl Taps Wall Street For $513M To Finance Amazon Data Center",
+                "sentiment": 0
+              },
+              {
+                "text": "IBD Stock Of The Day: Amazon Chases Entry As Anthropic IPO Swings AI Sentiment",
+                "sentiment": 0
+              },
+              {
+                "text": "PenFed Kicks Off Holiday Celebration with Toys for Tots Drive",
+                "sentiment": 0
+              },
+              {
+                "text": "UPS Has Frozen Its Dividend at $1.64. Its 6% Yield Raises Questions",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Natera vs. Tempus AI: Which Blood Test Pioneer Has the Better Stock Buy for 2027?",
+                "sentiment": 0
+              },
+              {
+                "text": "3 Dirt Cheap Artificial Intelligence (AI) Stocks to Load Up on Before 2027",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Anthropic Soars 16% in Record $107 Billion IPO Debut: “A Really Big Coming-of-Age Story”",
+                "sentiment": 0.7
+              },
+              {
+                "text": "Missed the Anthropic IPO? These 3 Stocks Give You Immediate Exposure.",
+                "sentiment": -0.8
+              },
+              {
+                "text": "Bath & Body Works: 3 Key Takeaways for Long-Term Investors",
+                "sentiment": 0
+              },
+              {
+                "text": "ServiceNow vs. UiPath: Which Technology Stock Is a Better Buy for 2027?",
+                "sentiment": 0
+              },
+              {
+                "text": "Is AI Spending Eating Alibaba's Cash?",
+                "sentiment": 0
+              },
+              {
+                "text": "Why AI competition from China won't be a risk US tech companies",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Why Netflix's Fall Could Pay Off At Tax Time",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Amazon Threatens Major Delivery Changes Over New York City Bill",
+                "sentiment": 0
+              },
+              {
+                "text": "Daniel Loeb's Meta Stock Bet Stands Out as Tiger Global Trims",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AMZN",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-19T23:07:38.355Z"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "bullishProbability": 36,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "AAPL",
+            "price": 349.21,
+            "previousClose": 352.45,
+            "changeRatio": -0.00919279330401478,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 715.87,
+            "previousClose": 730.2,
+            "changeRatio": -0.01962476033963303,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "AAPL",
+            "averageSentiment": 0.057777777777777775,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Intuit Stock Tumbles After Earnings Beat. It’s Selling Mailchimp.",
+                "sentiment": 0.1
+              },
+              {
+                "text": "Bridgewater Warns of AI Security Risk as Anthropic Shares Rise in Debut",
+                "sentiment": -0.13333333333333333
+              },
+              {
+                "text": "Anthropic has a 17-fold revenue growth hurdle to tackle: A closer look",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Nvidia Up 8.9% After a Strong Anthropic IPO? That’s What Tilt’s New Investing Tool Modeled",
+                "sentiment": 0.3
+              },
+              {
+                "text": "Walmart, Costco see some panic-buying after tech outages",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple (AAPL) Faces UK Backdoor Admission And French Obsolescence Trial",
+                "sentiment": 0
+              },
+              {
+                "text": "Roundtable 100 analysts lift Apple on record R&D spend",
+                "sentiment": 0.6
+              },
+              {
+                "text": "Apple’s head of iPhone camera software retires after eight years - Bloomberg",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Netflix's Fall Could Pay Off At Tax Time",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Best Blue Chip Stocks: 21 Hedge Fund Top Picks",
+                "sentiment": 0
+              },
+              {
+                "text": "How Anthropic Investments Warp Big Tech Bottom Lines",
+                "sentiment": 0
+              },
+              {
+                "text": "Appalachian Wireless Among First Regional Carriers to Launch RCS for Business with ClearSky",
+                "sentiment": 0
+              },
+              {
+                "text": "Why Alphabet's Cheap P/E May Mislead Investors",
+                "sentiment": 0
+              },
+              {
+                "text": "Apple Marks a Big Moment for Its Free Radio Bet",
+                "sentiment": 0
+              },
+              {
+                "text": "Top 5 Stocks to Buy According to Billionaire Ken Fisher",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "AAPL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-19T23:07:38.360Z"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "bullishProbability": 19,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "GOOGL",
+            "price": 272.66,
+            "previousClose": 282.44,
+            "changeRatio": -0.03462682339611944,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 715.87,
+            "previousClose": 730.2,
+            "changeRatio": -0.01962476033963303,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "GOOGL",
+            "averageSentiment": -0.006666666666666669,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Trump’s Latest Media Lawsuit Can Proceed, Judge Rules. What Could Happen If He Prevails.",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Anthropic, AMD, Alphabet, Palo Alto, Take-Two, Walmart, and More Stocks That Explain Today’s Market",
+                "sentiment": 0
+              },
+              {
+                "text": "Google’s SpaceX Stake Lost More Than $10 Billion in Value Last Quarter While Its Share Count Edged Up",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Anthropic has a 17-fold revenue growth hurdle to tackle: A closer look",
+                "sentiment": 0.4
+              },
+              {
+                "text": "3 British Lithium Stocks To Watch With Revenue Under $1 Million",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Robo-Taxi Expands to Dallas. It Isn’t Enough.",
+                "sentiment": 0
+              },
+              {
+                "text": "Stanley Druckenmiller dumps entire $120M Alphabet stake to buy gold mining stock",
+                "sentiment": 0
+              },
+              {
+                "text": "3 Dirt Cheap Artificial Intelligence (AI) Stocks to Load Up on Before 2027",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Anthropic Soars 16% in Record $107 Billion IPO Debut: “A Really Big Coming-of-Age Story”",
+                "sentiment": 0.7
+              },
+              {
+                "text": "Missed the Anthropic IPO? These 3 Stocks Give You Immediate Exposure.",
+                "sentiment": -0.8
+              },
+              {
+                "text": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
+                "sentiment": 0
+              },
+              {
+                "text": "Why AI competition from China won't be a risk US tech companies",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Best Blue Chip Stocks: 21 Hedge Fund Top Picks",
+                "sentiment": 0
+              },
+              {
+                "text": "Google's AI Space Test Moves Beyond a Single Satellite",
+                "sentiment": 0
+              },
+              {
+                "text": "Big Tech’s Anthropic Spending Is Distorting Its Books",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "GOOGL",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-19T23:07:38.380Z"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "bullishProbability": 28,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "MSFT",
+            "price": 498.3,
+            "previousClose": 508.29,
+            "changeRatio": -0.01965413445080566,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 715.87,
+            "previousClose": 730.2,
+            "changeRatio": -0.01962476033963303,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "MSFT",
+            "averageSentiment": 0.051111111111111114,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Intuit Stock Tumbles After Earnings Beat. It’s Selling Mailchimp.",
+                "sentiment": 0.1
+              },
+              {
+                "text": "Bridgewater Warns of AI Security Risk as Anthropic Shares Rise in Debut",
+                "sentiment": -0.13333333333333333
+              },
+              {
+                "text": "Anthropic has a 17-fold revenue growth hurdle to tackle: A closer look",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Claude Users Excited to Invest in Anthropic, Says Ann Berry",
+                "sentiment": 0
+              },
+              {
+                "text": "Meta trades at 21x P/E, yet shareholders face a massive new bill",
+                "sentiment": 0
+              },
+              {
+                "text": "Nebius Stock’s (NBIS) Q3 Sell-Off Looks Like an Opportunity",
+                "sentiment": 0
+              },
+              {
+                "text": "Walmart, Costco see some panic-buying after tech outages",
+                "sentiment": 0
+              },
+              {
+                "text": "ServiceNow vs. UiPath: Which Technology Stock Is a Better Buy for 2027?",
+                "sentiment": 0
+              },
+              {
+                "text": "The Short Seller Who Called Out Nvidia Has a New Target",
+                "sentiment": 0
+              },
+              {
+                "text": "Best Blue Chip Stocks: 21 Hedge Fund Top Picks",
+                "sentiment": 0
+              },
+              {
+                "text": "JPMorgan Chase Reveals Data Breach Involving Third-Party Vendors",
+                "sentiment": 0
+              },
+              {
+                "text": "Daniel Loeb's Meta Stock Bet Stands Out as Tiger Global Trims",
+                "sentiment": 0
+              },
+              {
+                "text": "Big Tech’s Anthropic Spending Is Distorting Its Books",
+                "sentiment": 0
+              },
+              {
+                "text": "How Anthropic Investments Warp Big Tech Bottom Lines",
+                "sentiment": 0
+              },
+              {
+                "text": "Qualcomm lays off 100s amid global restructuring, raises $4 billion",
+                "sentiment": 0.4
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "MSFT",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-19T23:07:38.375Z"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "bullishProbability": 19,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "NVDA",
+            "price": 145.98,
+            "previousClose": 150.96,
+            "changeRatio": -0.03298887122416546,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 715.87,
+            "previousClose": 730.2,
+            "changeRatio": -0.01962476033963303,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "NVDA",
+            "averageSentiment": -0.0666666666666667,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "The Crypto Bear Market Could Be Back. Here’s What I’m Doing About It.",
+                "sentiment": 0
+              },
+              {
+                "text": "Dow Jones Futures Fall After Ugly Market Reversal To New Lows; Anthropic IPO Debuts, AMD Dives",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Is a Bloom Energy Stock Crash Coming? 1 Warning Sign Investors Shouldn’t Ignore.",
+                "sentiment": -0.8
+              },
+              {
+                "text": "\"The Big Short's\" Michael Burry Issued a Blunt Warning about Anthropic",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Update: Wall Street Tumbles Despite Anthropic's Blockbuster Market Debut",
+                "sentiment": -0.6
+              },
+              {
+                "text": "Is Nvidia Stock a Once-in-a-Decade Buying Opportunity After Its Latest Earnings?",
+                "sentiment": 0
+              },
+              {
+                "text": "Anthropic achieves $2tn valuation as shares soar",
+                "sentiment": 0.8
+              },
+              {
+                "text": "Jensen Huang's Nvidia comeback: Why the math doesn't add up",
+                "sentiment": 0.2
+              },
+              {
+                "text": "Why Helmerich & Payne Sank Today",
+                "sentiment": 0
+              },
+              {
+                "text": "Chip Stocks Waver On Anthropic IPO, AI Prospects",
+                "sentiment": 0
+              },
+              {
+                "text": "SpaceX Stock Fails to Reach Orbit After Anthropic’s Blockbuster Debut",
+                "sentiment": 0
+              },
+              {
+                "text": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+                "sentiment": 0
+              },
+              {
+                "text": "3 Dividend Kings to Buy in November and Never Sell",
+                "sentiment": 0
+              },
+              {
+                "text": "Why USA Rare Earth Stock Is Rising Today",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Anthropic Slides From Opening Price–and Takes the Market With It",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "NVDA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-19T23:07:38.374Z"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "bullishProbability": 24,
+        "confidence": 85,
+        "breakdown": {
+          "quote": {
+            "symbol": "TSLA",
+            "price": 374.41,
+            "previousClose": 383.72,
+            "changeRatio": -0.024262483060565,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "marketProxy": {
+            "symbol": "SPY",
+            "price": 715.87,
+            "previousClose": 730.2,
+            "changeRatio": -0.01962476033963303,
+            "source": "finnhub",
+            "asOf": "2026-11-19T21:00:00.000Z"
+          },
+          "news": {
+            "source": "news",
+            "symbol": "TSLA",
+            "averageSentiment": -0.006666666666666669,
+            "sampleSize": 15,
+            "items": [
+              {
+                "text": "Tesla Robo-Taxi Expands to Dallas. It Isn’t Enough.",
+                "sentiment": 0
+              },
+              {
+                "text": "Michael Burry Adds To Tesla Rival BYD At Five-Year Lows",
+                "sentiment": 0
+              },
+              {
+                "text": "Trump Just Disclosed Tesla and SpaceX Stock Purchases. Here's What His Portfolio Moves Reveal",
+                "sentiment": 0
+              },
+              {
+                "text": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Expands Cybercab To Dallas In First Move Outside Austin",
+                "sentiment": 0
+              },
+              {
+                "text": "Trump's New Filing Reveals Nvidia, SpaceX And Tesla Purchases. White House Says He Didn't Direct Trades.",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Stocks Rise as Musk Pledges More Output From Shanghai Plant",
+                "sentiment": 0.4
+              },
+              {
+                "text": "Can Tesla's Cash Cover $20 Billion Of Spending?",
+                "sentiment": 0
+              },
+              {
+                "text": "Anthropic Debuted at a $1.5 Trillion Valuation. Here’s What It Would Have to Be Worth to Match Tech’s Greatest Runs",
+                "sentiment": 0
+              },
+              {
+                "text": "Tesla Stock Rises as Musk Doubles Down on China",
+                "sentiment": 0.1
+              },
+              {
+                "text": "Elon Musk Wants More Teslas From Shanghai as China Sales Fall",
+                "sentiment": -0.4
+              },
+              {
+                "text": "Anthropic Stock Is Now Trading. Should You Buy ANT Today?",
+                "sentiment": 0
+              },
+              {
+                "text": "TSLL 2X Tesla ETF Is Down 50% in 2026: Can It Double to $20 from Here?",
+                "sentiment": -0.2
+              },
+              {
+                "text": "Prediction: SpaceX Will Be the Largest Company in the World by 2040",
+                "sentiment": 0
+              },
+              {
+                "text": "Elon Musk Says He Shouldn’t Get a Tesla Payday Just for Merging With SpaceX. Odds of a 2026 Announcement Slide to 16%",
+                "sentiment": 0
+              }
+            ]
+          },
+          "reddit": {
+            "source": "reddit",
+            "symbol": "TSLA",
+            "averageSentiment": 0,
+            "sampleSize": 0,
+            "items": []
+          }
+        },
+        "computedAt": "2026-11-19T23:07:38.373Z"
+      }
+    ]
   }
 ]
